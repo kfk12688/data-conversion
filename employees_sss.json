@@ -1,0 +1,6152 @@
+[
+  {
+    "id": "1",
+    "ticketNo": "13",
+    "type": "ActiveEmployee",
+    "aadharNo": "289535638873",
+    "dob": "1968-07-07T12:00:00.000Z",
+    "name": "A  PARAMESHWARI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38593609117",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600731344",
+    "uan": "100071007136",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "ticketNo": "48",
+    "type": "ActiveEmployee",
+    "aadharNo": "451244820386",
+    "dob": "1977-12-22T12:00:00.000Z",
+    "name": "DHANABAKIYAM SUBBURAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009617",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608383170",
+    "uan": "100134884539",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "ticketNo": "3004",
+    "type": "ActiveEmployee",
+    "aadharNo": "645080731688",
+    "dob": "1971-05-08T12:00:00.000Z",
+    "name": "RANGARAJ ESWARAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38557186535",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5602672171",
+    "uan": "100144648989",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "ticketNo": "1003",
+    "type": "ActiveEmployee",
+    "aadharNo": "501500560102",
+    "dob": "1974-11-30T12:00:00.000Z",
+    "name": "JOTHIMANI GOVINDHARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38541383348",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600170151",
+    "uan": "100148271793",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "ticketNo": "3003",
+    "type": "ActiveEmployee",
+    "aadharNo": "389289746032",
+    "dob": "1969-06-01T12:00:00.000Z",
+    "name": "KANAGARAJ K",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38535982985",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": null,
+    "uan": "100183547745",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "ticketNo": "3005",
+    "type": "ActiveEmployee",
+    "aadharNo": "682100658624",
+    "dob": "1973-06-15T12:00:00.000Z",
+    "name": "K PARAMESWARAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20282201820",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5602670594",
+    "uan": "100184022379",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "ticketNo": "14",
+    "type": "InactiveEmployee",
+    "aadharNo": "684289154703",
+    "dob": "1989-01-01T12:00:00.000Z",
+    "name": "MUTHUMANI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009527",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608381810",
+    "uan": "101550860371",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "ticketNo": "1001",
+    "type": "ActiveEmployee",
+    "aadharNo": "241972576521",
+    "dob": "1968-12-23T12:00:00.000Z",
+    "name": "RAJAMANI K",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38538439274",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600170156",
+    "uan": "100184148901",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "ticketNo": "4002",
+    "type": "ActiveEmployee",
+    "aadharNo": "729810663534",
+    "dob": "1967-05-23T12:00:00.000Z",
+    "name": "ARULANANDAN  M",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "33987418090",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": null,
+    "uan": "100209732063",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "ticketNo": "17",
+    "type": "InactiveEmployee",
+    "aadharNo": "987137535555",
+    "dob": "1984-02-24T12:00:00.000Z",
+    "name": "KAVITHA S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009583",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608381517",
+    "uan": "101312967241",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "ticketNo": "18",
+    "type": "InactiveEmployee",
+    "aadharNo": "892491714679",
+    "dob": "1965-06-02T12:00:00.000Z",
+    "name": "RAJAMMAL RAJENDIRAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379769907",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5605551288",
+    "uan": "101249759849",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "ticketNo": "4005",
+    "type": "ActiveEmployee",
+    "aadharNo": "582827175672",
+    "dob": "1979-05-09T12:00:00.000Z",
+    "name": "MAHESWARI M",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38535783559",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5604401623",
+    "uan": "100210350080",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "ticketNo": "4001",
+    "type": "ActiveEmployee",
+    "aadharNo": "746111350488",
+    "dob": "1964-05-17T12:00:00.000Z",
+    "name": "SHANMUGAM MUTHIAH",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "10122252945",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": null,
+    "uan": "100211078548",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "ticketNo": "21",
+    "type": "InactiveEmployee",
+    "aadharNo": "288699559992",
+    "dob": "1985-01-02T12:00:00.000Z",
+    "name": "ANKALA ESWARI SELVAM",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009811",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608416625",
+    "uan": "101591644855",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "ticketNo": "1002",
+    "type": "ActiveEmployee",
+    "aadharNo": "979989880873",
+    "dob": "1976-05-10T12:00:00.000Z",
+    "name": "INDIRANI N",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38538384596",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600170143",
+    "uan": "100246451744",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "ticketNo": "23",
+    "type": "InactiveEmployee",
+    "aadharNo": "331629504569",
+    "dob": "1983-08-28T12:00:00.000Z",
+    "name": "TAMILARASI RATHAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009436",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608367069",
+    "uan": "101581424293",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "ticketNo": "51",
+    "type": "ActiveEmployee",
+    "aadharNo": "425786331408",
+    "dob": "1975-01-19T12:00:00.000Z",
+    "name": "PUSHPA KRISHNAMOORTHY",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009174",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608245123",
+    "uan": "100282996241",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "ticketNo": "12",
+    "type": "ActiveEmployee",
+    "aadharNo": "598833589293",
+    "dob": "1967-07-03T12:00:00.000Z",
+    "name": "M  DHANALAKSHMI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "10398001904",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600731342",
+    "uan": "100288023001",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "ticketNo": "1004",
+    "type": "ActiveEmployee",
+    "aadharNo": "847188995454",
+    "dob": "1972-05-20T12:00:00.000Z",
+    "name": "RUKKUMANI R",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38541366300",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600170417",
+    "uan": "100288621878",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "ticketNo": "4015",
+    "type": "ActiveEmployee",
+    "aadharNo": "639449157346",
+    "dob": "1990-01-23T11:00:00.000Z",
+    "name": "RAMKUMAR ARUMUGAM",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39846702782",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608518183",
+    "uan": "100306156448",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "ticketNo": "1005",
+    "type": "ActiveEmployee",
+    "aadharNo": "244280359203",
+    "dob": "1976-07-01T12:00:00.000Z",
+    "name": "CHITRA S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "31620083006",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600170653",
+    "uan": "100323592351",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "ticketNo": "91",
+    "type": "ActiveEmployee",
+    "aadharNo": "568837230482",
+    "dob": "1964-02-20T12:00:00.000Z",
+    "name": "RAJENDRAN SAMMANNA GOWDER",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20241739571",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5602670599",
+    "uan": "100324551694",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "ticketNo": "30",
+    "type": "InactiveEmployee",
+    "aadharNo": "887124932220",
+    "dob": "1982-10-12T12:00:00.000Z",
+    "name": "THULASIMANI RAMASAMY",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009505",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608367057",
+    "uan": "100433070797",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "ticketNo": "31",
+    "type": "InactiveEmployee",
+    "aadharNo": "288699559992",
+    "dob": "1966-06-21T12:00:00.000Z",
+    "name": "AKKAMMAL DEVARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009458",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600161162",
+    "uan": "100083368162",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "ticketNo": "85",
+    "type": "ActiveEmployee",
+    "aadharNo": "732372957772",
+    "dob": "1975-11-09T12:00:00.000Z",
+    "name": "VALARMATHI BALASUBRAMANIYAM",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009298",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600167295",
+    "uan": "100399621133",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "ticketNo": "33",
+    "type": "InactiveEmployee",
+    "aadharNo": "497879700085",
+    "dob": "1986-09-09T12:00:00.000Z",
+    "name": "KUMUTHA S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009481",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608365793",
+    "uan": "101393968906",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "ticketNo": "3006",
+    "type": "ActiveEmployee",
+    "aadharNo": "616796672472",
+    "dob": "1994-05-02T11:00:00.000Z",
+    "name": "R DINESH",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008863",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608113653",
+    "uan": "100421378572",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "ticketNo": "41",
+    "type": "ActiveEmployee",
+    "aadharNo": "782408682432",
+    "dob": "1988-01-03T12:00:00.000Z",
+    "name": "BAKYALAKSHMI N",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009209",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608256387",
+    "uan": "100432817876",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "ticketNo": "42",
+    "type": "ActiveEmployee",
+    "aadharNo": "535450031095",
+    "dob": "1984-03-09T12:00:00.000Z",
+    "name": "SUMATHI SHANKAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009764",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608256482",
+    "uan": "100433655946",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "ticketNo": "4004",
+    "type": "ActiveEmployee",
+    "aadharNo": "769738576864",
+    "dob": "1984-06-05T12:00:00.000Z",
+    "name": "C MAKESH KUMAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "31857212193",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5605653226",
+    "uan": "100506653339",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "ticketNo": "38",
+    "type": "InactiveEmployee",
+    "aadharNo": "227633052407",
+    "dob": "1998-03-12T11:00:00.000Z",
+    "name": "KESABA SINGKU",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009606",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608365822",
+    "uan": "101581425304",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "ticketNo": "39",
+    "type": "InactiveEmployee",
+    "aadharNo": "862180595480",
+    "dob": "1966-09-01T12:00:00.000Z",
+    "name": "DHANAMANI D",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009038",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608245702",
+    "uan": "100012320842",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "ticketNo": "4006",
+    "type": "ActiveEmployee",
+    "aadharNo": "561674253506",
+    "dob": "1991-09-13T11:00:00.000Z",
+    "name": "RAJESH",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38533360772",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": null,
+    "uan": "100556811865",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "ticketNo": "350",
+    "type": "ActiveEmployee",
+    "aadharNo": "797541261281",
+    "dob": "1989-06-03T12:00:00.000Z",
+    "name": "SHENBAGAM BOOPALAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379769963",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607755050",
+    "uan": "100594273650",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "ticketNo": "2005",
+    "type": "ActiveEmployee",
+    "aadharNo": "535909020582",
+    "dob": "1988-01-11T12:00:00.000Z",
+    "name": "BOOPALAN SELVAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009390",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608348728",
+    "uan": "100595074185",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "ticketNo": "383",
+    "type": "ActiveEmployee",
+    "aadharNo": "922231060974",
+    "dob": "1986-05-02T12:00:00.000Z",
+    "name": "S GANGADEVI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20280142172",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607964041",
+    "uan": "100643993560",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "ticketNo": "44",
+    "type": "InactiveEmployee",
+    "aadharNo": "459164734457",
+    "dob": "1989-06-30T12:00:00.000Z",
+    "name": "KAVITHA VELLINGIRI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009210",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608253322",
+    "uan": "101556613215",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "ticketNo": "45",
+    "type": "InactiveEmployee",
+    "aadharNo": "255537334251",
+    "dob": "1988-01-01T12:00:00.000Z",
+    "name": "SHANMUGAPRIYA MOORTHI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608448101",
+    "uan": "101187423556",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "ticketNo": "20",
+    "type": "ActiveEmployee",
+    "aadharNo": "212517396676",
+    "dob": "1980-06-19T12:00:00.000Z",
+    "name": "S PREETHA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008400",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607542396",
+    "uan": "100653079016",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "ticketNo": "47",
+    "type": "InactiveEmployee",
+    "aadharNo": "606014799033",
+    "dob": "1984-02-19T12:00:00.000Z",
+    "name": "BANUMATHI P",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009243",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608260056",
+    "uan": "101556613236",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "ticketNo": "184",
+    "type": "ActiveEmployee",
+    "aadharNo": "235780926841",
+    "dob": "1998-07-25T11:00:00.000Z",
+    "name": "JOSEPH C",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20395499688",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608728281",
+    "uan": "100786372656",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "ticketNo": "92",
+    "type": "ActiveEmployee",
+    "aadharNo": "662625624359",
+    "dob": "1998-04-27T11:00:00.000Z",
+    "name": "SINDHUJA S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009107",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608270434",
+    "uan": "100787992929",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "ticketNo": "143",
+    "type": "ActiveEmployee",
+    "aadharNo": "409425814978",
+    "dob": "1998-03-07T11:00:00.000Z",
+    "name": "MANOJ KUMAR BEHERA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39202780662",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608591354",
+    "uan": "101022686488",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "ticketNo": "255",
+    "type": "ActiveEmployee",
+    "aadharNo": "396720662190",
+    "dob": "1975-02-11T12:00:00.000Z",
+    "name": "POONKODI RANGANATHAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38548682670",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607146662",
+    "uan": "101069402763",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "ticketNo": "4007",
+    "type": "ActiveEmployee",
+    "aadharNo": "674467957690",
+    "dob": "1972-06-01T12:00:00.000Z",
+    "name": "N B RAVIKUMAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "33442348473",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": null,
+    "uan": "101081277076",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "ticketNo": "53",
+    "type": "InactiveEmployee",
+    "aadharNo": "601650342698",
+    "dob": "1987-12-14T12:00:00.000Z",
+    "name": "SANTOSH BEHERA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20056352992",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5606577778",
+    "uan": "101028172049",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "ticketNo": "94",
+    "type": "ActiveEmployee",
+    "aadharNo": "733708629961",
+    "dob": "1993-07-28T11:00:00.000Z",
+    "name": "NARENDRA BARIK",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38445196165",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607542387",
+    "uan": "101105101575",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "ticketNo": "55",
+    "type": "InactiveEmployee",
+    "aadharNo": "838113664197",
+    "dob": "1987-07-27T12:00:00.000Z",
+    "name": "BAPI SANDIL",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607278743",
+    "uan": "101282688226",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "ticketNo": "56",
+    "type": "InactiveEmployee",
+    "aadharNo": "747355886775",
+    "dob": "1974-01-14T12:00:00.000Z",
+    "name": "SUBRAMANIYAN V",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "33406691549",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608383155",
+    "uan": "101586226447",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "ticketNo": "58",
+    "type": "InactiveEmployee",
+    "aadharNo": "545923693651",
+    "dob": "1981-07-10T12:00:00.000Z",
+    "name": "MUTHULAKSHMI V",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009129",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608143796",
+    "uan": "100961743576",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "ticketNo": "59",
+    "type": "InactiveEmployee",
+    "aadharNo": "365063243269",
+    "dob": "1994-03-09T11:00:00.000Z",
+    "name": "MANIKANDAN RANGANADHAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608446568",
+    "uan": "101599744797",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "ticketNo": "60",
+    "type": "InactiveEmployee",
+    "aadharNo": "736726788282",
+    "dob": "1974-07-11T12:00:00.000Z",
+    "name": "MAHESWARI VELLINGIRI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009049",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608142115",
+    "uan": "100698501283",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "ticketNo": "61",
+    "type": "InactiveEmployee",
+    "aadharNo": "675610460808",
+    "dob": "1976-01-01T12:00:00.000Z",
+    "name": "VALLINAYAGAM M",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009538",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608381788",
+    "uan": "101172765576",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "ticketNo": "132",
+    "type": "ActiveEmployee",
+    "aadharNo": "973648802952",
+    "dob": "1993-02-11T11:00:00.000Z",
+    "name": "TUNA PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466007166",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5606793892",
+    "uan": "101105101715",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "ticketNo": "63",
+    "type": "InactiveEmployee",
+    "aadharNo": "558240333750",
+    "dob": "1990-07-12T11:00:00.000Z",
+    "name": "ELAYARAJA GANESAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608381465",
+    "uan": "101586226391",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "ticketNo": "64",
+    "type": "InactiveEmployee",
+    "aadharNo": "211212744787",
+    "dob": "1994-01-05T11:00:00.000Z",
+    "name": "BRANCHI PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607265409",
+    "uan": "101177448468",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "ticketNo": "65",
+    "type": "InactiveEmployee",
+    "aadharNo": "451156246789",
+    "dob": "1978-12-18T12:00:00.000Z",
+    "name": "V KUMAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608394685",
+    "uan": "101584953625",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "ticketNo": "66",
+    "type": "InactiveEmployee",
+    "aadharNo": "884935224793",
+    "dob": "1988-03-13T12:00:00.000Z",
+    "name": "DIGAMBER BEHERA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607514982",
+    "uan": "101355258244",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "ticketNo": "67",
+    "type": "InactiveEmployee",
+    "aadharNo": "868053346403",
+    "dob": "1992-03-10T11:00:00.000Z",
+    "name": "THIRUPATHI ELAIYARAJA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009163",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608209331",
+    "uan": "101545860441",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "ticketNo": "36",
+    "type": "ActiveEmployee",
+    "aadharNo": "754956307281",
+    "dob": "1994-07-01T11:00:00.000Z",
+    "name": "SUKRO HO",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39560035038",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608365855",
+    "uan": "101118934062",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "ticketNo": "112",
+    "type": "ActiveEmployee",
+    "aadharNo": "350268776512",
+    "dob": "1991-05-19T11:00:00.000Z",
+    "name": "JAYACHITRA ARUMUGAM",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379769996",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607578621",
+    "uan": "101121263851",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "ticketNo": "101",
+    "type": "ActiveEmployee",
+    "aadharNo": "671940188506",
+    "dob": "1982-01-01T12:00:00.000Z",
+    "name": "RATNAKAR PATRA D",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466007053",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607575331",
+    "uan": "101134030105",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "ticketNo": "71",
+    "type": "InactiveEmployee",
+    "aadharNo": "652562609839",
+    "dob": "1976-01-01T12:00:00.000Z",
+    "name": "AMSAVENI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009083",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608187532",
+    "uan": "101201502401",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "ticketNo": "72",
+    "type": "InactiveEmployee",
+    "aadharNo": "613378746643",
+    "dob": "1968-03-13T12:00:00.000Z",
+    "name": "RAJAMANI SELVARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "52209649577",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608187603",
+    "uan": "101545860456",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "ticketNo": "4008",
+    "type": "ActiveEmployee",
+    "aadharNo": "991784700886",
+    "dob": "1972-01-10T12:00:00.000Z",
+    "name": "SWAMINATHAN C",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "33158384050",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": null,
+    "uan": "101134082971",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "ticketNo": "272",
+    "type": "ActiveEmployee",
+    "aadharNo": "756083660615",
+    "dob": "1981-03-08T12:00:00.000Z",
+    "name": "SASIKALA KANAGARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "35808289574",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607185892",
+    "uan": "101157589045",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "ticketNo": "75",
+    "type": "InactiveEmployee",
+    "aadharNo": "349068841383",
+    "dob": "1995-07-01T11:00:00.000Z",
+    "name": "DILLIP MOHAKUD",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608397257",
+    "uan": "101586226410",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "ticketNo": "153",
+    "type": "ActiveEmployee",
+    "aadharNo": "803731711282",
+    "dob": "1973-08-06T12:00:00.000Z",
+    "name": "RAJESHWARI K",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38659433626",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607364066",
+    "uan": "101172913723",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "ticketNo": "77",
+    "type": "InactiveEmployee",
+    "aadharNo": "909892650634",
+    "dob": "1976-07-08T12:00:00.000Z",
+    "name": "SARAVANAKUMAR B",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39882877148",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608221684",
+    "uan": "101545860425",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "ticketNo": "154",
+    "type": "ActiveEmployee",
+    "aadharNo": "449366574546",
+    "dob": "1977-04-04T12:00:00.000Z",
+    "name": "VALARMATHI N",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008422",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607360153",
+    "uan": "101172913734",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "ticketNo": "79",
+    "type": "InactiveEmployee",
+    "aadharNo": "547833997215",
+    "dob": "1989-02-02T12:00:00.000Z",
+    "name": "GOMATHI MURUGAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608448085",
+    "uan": "101599980236",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "ticketNo": "80",
+    "type": "InactiveEmployee",
+    "aadharNo": "451620195882",
+    "dob": "1993-07-01T11:00:00.000Z",
+    "name": "BALARAM PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607542275",
+    "uan": "101392504206",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "ticketNo": "81",
+    "type": "InactiveEmployee",
+    "aadharNo": "237339409347",
+    "dob": "2001-09-06T11:00:00.000Z",
+    "name": "SANTOSH PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608135511",
+    "uan": "101525951984",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "ticketNo": "82",
+    "type": "InactiveEmployee",
+    "aadharNo": "822675722669",
+    "dob": "1984-12-12T12:00:00.000Z",
+    "name": "ASHESH PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607316025",
+    "uan": "101217164988",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "ticketNo": "10",
+    "type": "ActiveEmployee",
+    "aadharNo": "219610603857",
+    "dob": "2000-07-09T11:00:00.000Z",
+    "name": "MANJULA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009800",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608416645",
+    "uan": "101174572841",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "ticketNo": "84",
+    "type": "InactiveEmployee",
+    "aadharNo": "847697144781",
+    "dob": "1988-01-01T12:00:00.000Z",
+    "name": "ELAMATHI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608483149",
+    "uan": "101611278830",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "ticketNo": "158",
+    "type": "ActiveEmployee",
+    "aadharNo": "589355043879",
+    "dob": "1987-02-27T12:00:00.000Z",
+    "name": "RAMYA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009312",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608348850",
+    "uan": "101174577104",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "ticketNo": "86",
+    "type": "InactiveEmployee",
+    "aadharNo": "491645397537",
+    "dob": "2001-10-10T11:00:00.000Z",
+    "name": "KEENA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39751239740",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608518299",
+    "uan": "101622632920",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "ticketNo": "87",
+    "type": "InactiveEmployee",
+    "aadharNo": "696147967866",
+    "dob": "1998-09-04T11:00:00.000Z",
+    "name": "PUVANESWARI DHANASEKARAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "34375610654",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608164654",
+    "uan": "101525951945",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "ticketNo": "3007",
+    "type": "ActiveEmployee",
+    "aadharNo": "716544396300",
+    "dob": "1966-01-01T12:00:00.000Z",
+    "name": "RANGANATHAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379766383",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5606993017",
+    "uan": "101178054246",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "ticketNo": "89",
+    "type": "InactiveEmployee",
+    "aadharNo": "868080234325",
+    "dob": "1994-09-08T11:00:00.000Z",
+    "name": "KIRUBA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009118",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608221861",
+    "uan": "101459813419",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "ticketNo": "174",
+    "type": "ActiveEmployee",
+    "aadharNo": "745100675470",
+    "dob": "1996-01-19T11:00:00.000Z",
+    "name": "BIKASH PANDEY",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "35245953035",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608690530",
+    "uan": "101205323207",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "ticketNo": "215",
+    "type": "ActiveEmployee",
+    "aadharNo": "890089477811",
+    "dob": "1973-05-15T12:00:00.000Z",
+    "name": "SARAVANAN ANGURAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20218240798",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607075934",
+    "uan": "101207509186",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "ticketNo": "4013",
+    "type": "ActiveEmployee",
+    "aadharNo": "723561312823",
+    "dob": "1995-08-24T11:00:00.000Z",
+    "name": "GOKULNATH SELVARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38535770516",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607075896",
+    "uan": "101207509795",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "ticketNo": "93",
+    "type": "InactiveEmployee",
+    "aadharNo": "977408127152",
+    "dob": "1970-06-01T12:00:00.000Z",
+    "name": "INDIRANI NARAYANAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009403",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608308460",
+    "uan": "101566783794",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "ticketNo": "117",
+    "type": "ActiveEmployee",
+    "aadharNo": "212162634643",
+    "dob": "1974-10-10T12:00:00.000Z",
+    "name": "SANTHI V",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009050",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608318242",
+    "uan": "101214999267",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "ticketNo": "156",
+    "type": "ActiveEmployee",
+    "aadharNo": "431762691364",
+    "dob": "1997-01-01T11:00:00.000Z",
+    "name": "DEBARAJ BHUE",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608670527",
+    "uan": "101216369017",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "ticketNo": "96",
+    "type": "InactiveEmployee",
+    "aadharNo": "637977535987",
+    "dob": "1982-03-13T12:00:00.000Z",
+    "name": "ANTARJYAMI NAIK",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009254",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607631054",
+    "uan": "101385633713",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "ticketNo": "97",
+    "type": "InactiveEmployee",
+    "aadharNo": "328243533865",
+    "dob": "1985-07-02T12:00:00.000Z",
+    "name": "RANJIT PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608308994",
+    "uan": "101252888310",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "ticketNo": "98",
+    "type": "InactiveEmployee",
+    "aadharNo": "297541049021",
+    "dob": "1993-02-12T11:00:00.000Z",
+    "name": "BIPINI PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607753857",
+    "uan": "101307813640",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "ticketNo": "69",
+    "type": "ActiveEmployee",
+    "aadharNo": "397016995255",
+    "dob": "1999-11-16T11:00:00.000Z",
+    "name": "LAVANYA RAJANDRAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009662",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608394601",
+    "uan": "101221163581",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "ticketNo": "4003",
+    "type": "ActiveEmployee",
+    "aadharNo": "674075303753",
+    "dob": "1975-08-16T12:00:00.000Z",
+    "name": "RAJA V M",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20025646220",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": null,
+    "uan": "101222901719",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "ticketNo": "4009",
+    "type": "ActiveEmployee",
+    "aadharNo": "469852198137",
+    "dob": "1987-09-09T12:00:00.000Z",
+    "name": "P R SASIKALA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "62412708130",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": null,
+    "uan": "101222901726",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "ticketNo": "102",
+    "type": "InactiveEmployee",
+    "aadharNo": "244215901875",
+    "dob": "1996-02-03T11:00:00.000Z",
+    "name": "SANJIT NAIK",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009639",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608316220",
+    "uan": "101142482798",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "ticketNo": "103",
+    "type": "InactiveEmployee",
+    "aadharNo": "529615480255",
+    "dob": "1997-07-26T11:00:00.000Z",
+    "name": "AJIT NAIK",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608316304",
+    "uan": "101419228079",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "ticketNo": "124",
+    "type": "ActiveEmployee",
+    "aadharNo": "387449136143",
+    "dob": "1993-02-24T11:00:00.000Z",
+    "name": "SHANTHAKUMARI GOVINDARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "33664021895",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608548243",
+    "uan": "101223242651",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "ticketNo": "34",
+    "type": "ActiveEmployee",
+    "aadharNo": "993967041863",
+    "dob": "1992-07-20T11:00:00.000Z",
+    "name": "ANANDHARAJ T",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009414",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607145263",
+    "uan": "101238839952",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "ticketNo": "9",
+    "type": "ActiveEmployee",
+    "aadharNo": "213827114115",
+    "dob": "1988-06-04T12:00:00.000Z",
+    "name": "SUBASHINI BHARATHIRAJA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770106",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607145284",
+    "uan": "101238839968",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "ticketNo": "107",
+    "type": "InactiveEmployee",
+    "aadharNo": "728520745651",
+    "dob": "1998-02-03T11:00:00.000Z",
+    "name": "MITU NAIK",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608315281",
+    "uan": "101069172866",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "ticketNo": "108",
+    "type": "InactiveEmployee",
+    "aadharNo": "839756214814",
+    "dob": "1991-05-01T11:00:00.000Z",
+    "name": "GANESWAR PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607231849",
+    "uan": "101265466906",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "ticketNo": "109",
+    "type": "InactiveEmployee",
+    "aadharNo": "534935422963",
+    "dob": "1975-03-25T12:00:00.000Z",
+    "name": "VIJI SIMON",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009094",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608318428",
+    "uan": "101566794900",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "ticketNo": "256",
+    "type": "ActiveEmployee",
+    "aadharNo": "266647635281",
+    "dob": "1983-01-01T12:00:00.000Z",
+    "name": "VIJAYALAKSHMI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "35832576783",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607146696",
+    "uan": "101238840000",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "ticketNo": "357",
+    "type": "ActiveEmployee",
+    "aadharNo": "817616462056",
+    "dob": "1980-03-19T12:00:00.000Z",
+    "name": "VASUKI JEGATHISHWARAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379769894",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607146719",
+    "uan": "101238840016",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "ticketNo": "4011",
+    "type": "ActiveEmployee",
+    "aadharNo": "468657454552",
+    "dob": "1995-05-09T11:00:00.000Z",
+    "name": "SIRANJEEVI P",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38554309641",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607798419",
+    "uan": "101249480506",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "ticketNo": "271",
+    "type": "ActiveEmployee",
+    "aadharNo": "874427740454",
+    "dob": "1969-04-21T12:00:00.000Z",
+    "name": "SARASHWATHI RAMACHANTHIRAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379769974",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607185905",
+    "uan": "101252888017",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "ticketNo": "114",
+    "type": "InactiveEmployee",
+    "aadharNo": "717245626739",
+    "dob": "2001-07-26T11:00:00.000Z",
+    "name": "PRATAP PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608317865",
+    "uan": "101566783836",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "ticketNo": "123",
+    "type": "ActiveEmployee",
+    "aadharNo": "891472037689",
+    "dob": "1973-10-10T12:00:00.000Z",
+    "name": "SUSANTA KUMAR ROUT",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009550",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608548217",
+    "uan": "101252888072",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "ticketNo": "116",
+    "type": "InactiveEmployee",
+    "aadharNo": "483831979260",
+    "dob": "1990-01-02T11:00:00.000Z",
+    "name": "PARAMESHWAR MAJHI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608317738",
+    "uan": "101356938838",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "ticketNo": "46",
+    "type": "ActiveEmployee",
+    "aadharNo": "890307912401",
+    "dob": "1980-04-13T12:00:00.000Z",
+    "name": "AMUTHAVALLI T",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009301",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608259932",
+    "uan": "101262137996",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "ticketNo": "76",
+    "type": "ActiveEmployee",
+    "aadharNo": "869361601430",
+    "dob": "1991-05-12T11:00:00.000Z",
+    "name": "SUGANYA SUBRAMANIAM",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39753814460",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608483056",
+    "uan": "101262141282",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "ticketNo": "119",
+    "type": "InactiveEmployee",
+    "aadharNo": "279459720031",
+    "dob": "1978-01-01T12:00:00.000Z",
+    "name": "MAHESWARI SAKTHIVEL",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379769883",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607578846",
+    "uan": "101382610761",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "ticketNo": "120",
+    "type": "InactiveEmployee",
+    "aadharNo": "984051834411",
+    "dob": "1978-07-07T12:00:00.000Z",
+    "name": "MAGESHWARI SELVARAAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770004",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607578877",
+    "uan": "101382610790",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "ticketNo": "170",
+    "type": "ActiveEmployee",
+    "aadharNo": "200389286880",
+    "dob": "1975-07-10T12:00:00.000Z",
+    "name": "KALAMANI PALANISAMY",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608690456",
+    "uan": "101278886079",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "ticketNo": "122",
+    "type": "InactiveEmployee",
+    "aadharNo": "913435694546",
+    "dob": "1987-05-01T12:00:00.000Z",
+    "name": "MURUGESH SELVARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009232",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608318120",
+    "uan": "101477642205",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "ticketNo": "181",
+    "type": "ActiveEmployee",
+    "aadharNo": "262062207546",
+    "dob": "1987-05-05T12:00:00.000Z",
+    "name": "BAJRANG SHARMA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608726954",
+    "uan": "101281346565",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "ticketNo": "40",
+    "type": "ActiveEmployee",
+    "aadharNo": "370556332916",
+    "dob": "1984-07-17T12:00:00.000Z",
+    "name": "SUDHA A",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009389",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608253342",
+    "uan": "101283627939",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "ticketNo": "134",
+    "type": "ActiveEmployee",
+    "aadharNo": "207897139394",
+    "dob": "1995-10-19T11:00:00.000Z",
+    "name": "ASHESA PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466007111",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607315717",
+    "uan": "101294313126",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "ticketNo": "126",
+    "type": "InactiveEmployee",
+    "aadharNo": "553388904469",
+    "dob": "1973-05-10T12:00:00.000Z",
+    "name": "GNANAVEL S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20399216766",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608549141",
+    "uan": "101631980871",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "ticketNo": "169",
+    "type": "ActiveEmployee",
+    "aadharNo": "431023420988",
+    "dob": "1995-11-09T11:00:00.000Z",
+    "name": "LALITA HARIJAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39550976167",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608690551",
+    "uan": "101294461740",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "ticketNo": "88",
+    "type": "ActiveEmployee",
+    "aadharNo": "802256371414",
+    "dob": "2000-05-15T11:00:00.000Z",
+    "name": "PAVITHIRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39751081726",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608518276",
+    "uan": "101296818043",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "ticketNo": "90",
+    "type": "ActiveEmployee",
+    "aadharNo": "844175525427",
+    "dob": "1980-08-06T12:00:00.000Z",
+    "name": "ANJALI S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40019038811",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608518260",
+    "uan": "101312985209",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "ticketNo": "150",
+    "type": "ActiveEmployee",
+    "aadharNo": "836523534597",
+    "dob": "1994-05-25T11:00:00.000Z",
+    "name": "SURYA MURUGESAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40086423881",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608670412",
+    "uan": "101313687044",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "ticketNo": "131",
+    "type": "ActiveEmployee",
+    "aadharNo": "530615366615",
+    "dob": "1996-09-27T11:00:00.000Z",
+    "name": "ANUSHYA MURUGAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39879561173",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608591404",
+    "uan": "101324384361",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "ticketNo": "54",
+    "type": "ActiveEmployee",
+    "aadharNo": "947829960363",
+    "dob": "1966-08-26T12:00:00.000Z",
+    "name": "SELVARANI MURALIDHARAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20339974957",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600184497",
+    "uan": "101325354874",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "ticketNo": "133",
+    "type": "InactiveEmployee",
+    "aadharNo": "283088579276",
+    "dob": "1993-04-19T11:00:00.000Z",
+    "name": "DEEPA DURAI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20178021246",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608591456",
+    "uan": "101135629482",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "ticketNo": "168",
+    "type": "ActiveEmployee",
+    "aadharNo": "258118270880",
+    "dob": "2000-01-05T11:00:00.000Z",
+    "name": "PRADIP HARIJAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40071246319",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608682601",
+    "uan": "101328512301",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "ticketNo": "135",
+    "type": "InactiveEmployee",
+    "aadharNo": "776449609516",
+    "dob": "1980-12-02T12:00:00.000Z",
+    "name": "AMUTHA PARAMESWARAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008331",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607631041",
+    "uan": "101395349165",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "ticketNo": "311",
+    "type": "ActiveEmployee",
+    "aadharNo": "617477398077",
+    "dob": "1984-05-05T12:00:00.000Z",
+    "name": "SAGAR BANU M",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009221",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608113666",
+    "uan": "101330636483",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "ticketNo": "2003",
+    "type": "ActiveEmployee",
+    "aadharNo": "214198195023",
+    "dob": "1964-07-29T12:00:00.000Z",
+    "name": "KARUPPUSAMY ESWARAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38535974906",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607471838",
+    "uan": "101342018869",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "130",
+    "ticketNo": "138",
+    "type": "InactiveEmployee",
+    "aadharNo": "547934989409",
+    "dob": "1989-09-16T12:00:00.000Z",
+    "name": "VADIVUKARASI RANGAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608591479",
+    "uan": "101640112044",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "ticketNo": "139",
+    "type": "InactiveEmployee",
+    "aadharNo": "469694880900",
+    "dob": "1987-01-25T12:00:00.000Z",
+    "name": "NATHIYA GANESAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38559306850",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607360236",
+    "uan": "101307813557",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "ticketNo": "24",
+    "type": "ActiveEmployee",
+    "aadharNo": "856154111766",
+    "dob": "1988-03-16T12:00:00.000Z",
+    "name": "SULOCHANA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008308",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607472279",
+    "uan": "101342018876",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "ticketNo": "22",
+    "type": "ActiveEmployee",
+    "aadharNo": "363570194726",
+    "dob": "1978-06-29T12:00:00.000Z",
+    "name": "SUMATHI KRISHNAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38593615268",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600183434",
+    "uan": "101342018882",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "ticketNo": "25",
+    "type": "ActiveEmployee",
+    "aadharNo": "528945382190",
+    "dob": "1990-06-16T11:00:00.000Z",
+    "name": "LAVANYA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008295",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607472084",
+    "uan": "101342018895",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "ticketNo": "28",
+    "type": "ActiveEmployee",
+    "aadharNo": "882864739428",
+    "dob": "1987-03-26T12:00:00.000Z",
+    "name": "ANITHA S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38584357169",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607472124",
+    "uan": "101342018905",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "ticketNo": "144",
+    "type": "InactiveEmployee",
+    "aadharNo": "907148121161",
+    "dob": "1988-05-05T12:00:00.000Z",
+    "name": "VIJAYARAJ GURUSUMUTHU",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608627712",
+    "uan": "101464166688",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "137",
+    "ticketNo": "52",
+    "type": "ActiveEmployee",
+    "aadharNo": "948752523700",
+    "dob": "1984-09-05T12:00:00.000Z",
+    "name": "RANI SANKAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20339978952",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608245325",
+    "uan": "101353238963",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "ticketNo": "146",
+    "type": "InactiveEmployee",
+    "aadharNo": "792352075943",
+    "dob": "1984-05-17T12:00:00.000Z",
+    "name": "SAKTHIVEL RANGASAMY",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607755176",
+    "uan": "101431257116",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "ticketNo": "8",
+    "type": "ActiveEmployee",
+    "aadharNo": "644034309647",
+    "dob": "1974-06-30T12:00:00.000Z",
+    "name": "JAYA KANAGARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38593594234",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600183431",
+    "uan": "101355258167",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "ticketNo": "151",
+    "type": "ActiveEmployee",
+    "aadharNo": "468580048169",
+    "dob": "1984-04-25T12:00:00.000Z",
+    "name": "SATRUGHANA DAS",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "30931231867",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608670435",
+    "uan": "101355258198",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "141",
+    "ticketNo": "140",
+    "type": "ActiveEmployee",
+    "aadharNo": "857894385702",
+    "dob": "1965-04-03T12:00:00.000Z",
+    "name": "DHARANIDHAR DAS",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009561",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607508851",
+    "uan": "101355258200",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "142",
+    "ticketNo": "3001",
+    "type": "ActiveEmployee",
+    "aadharNo": "505457212283",
+    "dob": "1984-06-12T12:00:00.000Z",
+    "name": "MARIYASEELI NELSON",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "32118431619",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5605983539",
+    "uan": "101355258216",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "ticketNo": "62",
+    "type": "ActiveEmployee",
+    "aadharNo": "710170848434",
+    "dob": "1967-05-10T12:00:00.000Z",
+    "name": "S RAJAMANI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379769918",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5701462837",
+    "uan": "101355510711",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "ticketNo": "2001",
+    "type": "ActiveEmployee",
+    "aadharNo": "367872816773",
+    "dob": "1965-05-05T12:00:00.000Z",
+    "name": "NAGARAJ K",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008397",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5605591682",
+    "uan": "101358044308",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "145",
+    "ticketNo": "177",
+    "type": "ActiveEmployee",
+    "aadharNo": "874840024400",
+    "dob": "1996-01-01T11:00:00.000Z",
+    "name": "SURAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40056376254",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608711971",
+    "uan": "101365700414",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "146",
+    "ticketNo": "78",
+    "type": "ActiveEmployee",
+    "aadharNo": "248018204262",
+    "dob": "1988-04-06T12:00:00.000Z",
+    "name": "BICHHAND PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008910",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607542501",
+    "uan": "101368088789",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "147",
+    "ticketNo": "155",
+    "type": "InactiveEmployee",
+    "aadharNo": "384548855400",
+    "dob": "1972-07-01T12:00:00.000Z",
+    "name": "JOTHIMANI MUTHUSAMY",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008375",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607630891",
+    "uan": "101325354362",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "148",
+    "ticketNo": "32",
+    "type": "ActiveEmployee",
+    "aadharNo": "869797720180",
+    "dob": "1995-03-26T11:00:00.000Z",
+    "name": "PRAKASH CHANDAR SINGH",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466007086",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607548014",
+    "uan": "101371157820",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "149",
+    "ticketNo": "157",
+    "type": "InactiveEmployee",
+    "aadharNo": "748214043404",
+    "dob": "1992-09-05T11:00:00.000Z",
+    "name": "PARAMESHWARI V",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009367",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608348884",
+    "uan": "101338618736",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "150",
+    "ticketNo": "365",
+    "type": "ActiveEmployee",
+    "aadharNo": "578955873683",
+    "dob": "1984-05-17T12:00:00.000Z",
+    "name": "GITANJALI SAMAL",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008353",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607574523",
+    "uan": "101380999615",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "151",
+    "ticketNo": "159",
+    "type": "InactiveEmployee",
+    "aadharNo": "431800697926",
+    "dob": "1991-01-01T11:00:00.000Z",
+    "name": "MADHAVI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009378",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608348760",
+    "uan": "101574263894",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "ticketNo": "11",
+    "type": "ActiveEmployee",
+    "aadharNo": "479422716994",
+    "dob": "1983-01-01T12:00:00.000Z",
+    "name": "USHA RANI T",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "33014609922",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5600189618",
+    "uan": "101380999636",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "153",
+    "ticketNo": "99",
+    "type": "ActiveEmployee",
+    "aadharNo": "233135755310",
+    "dob": "1982-01-09T12:00:00.000Z",
+    "name": "BAIRAGI CHARAN DAS",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466007064",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607575231",
+    "uan": "101380999643",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "154",
+    "ticketNo": "95",
+    "type": "ActiveEmployee",
+    "aadharNo": "518429000193",
+    "dob": "1980-05-17T12:00:00.000Z",
+    "name": "KAMALA SAKTHIVEL",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "31291487964",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607575080",
+    "uan": "101380999658",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "155",
+    "ticketNo": "83",
+    "type": "ActiveEmployee",
+    "aadharNo": "752757009993",
+    "dob": "1971-01-01T12:00:00.000Z",
+    "name": "ENAMUTHU S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008477",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5603199384",
+    "uan": "101381435759",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "156",
+    "ticketNo": "111",
+    "type": "ActiveEmployee",
+    "aadharNo": "780307625640",
+    "dob": "1997-05-11T11:00:00.000Z",
+    "name": "SAVITHA KALIMUTHU",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770082",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607578667",
+    "uan": "101382121231",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "157",
+    "ticketNo": "113",
+    "type": "ActiveEmployee",
+    "aadharNo": "221614323022",
+    "dob": "1978-04-06T12:00:00.000Z",
+    "name": "BINDHU RAJADURAI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770071",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607578599",
+    "uan": "101382121249",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "158",
+    "ticketNo": "115",
+    "type": "ActiveEmployee",
+    "aadharNo": "800335754905",
+    "dob": "1986-08-11T12:00:00.000Z",
+    "name": "SELVI S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770139",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607578581",
+    "uan": "101382121254",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "159",
+    "ticketNo": "121",
+    "type": "ActiveEmployee",
+    "aadharNo": "205348127164",
+    "dob": "1986-03-03T12:00:00.000Z",
+    "name": "LATHA J",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770026",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607578884",
+    "uan": "101382610774",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "160",
+    "ticketNo": "118",
+    "type": "ActiveEmployee",
+    "aadharNo": "556086367760",
+    "dob": "1985-02-21T12:00:00.000Z",
+    "name": "MUTHULAKSHMI ANANDHAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38584340789",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607578832",
+    "uan": "101382610828",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "ticketNo": "127",
+    "type": "ActiveEmployee",
+    "aadharNo": "322690363921",
+    "dob": "1978-01-01T12:00:00.000Z",
+    "name": "MALATHI P",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770059",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607578757",
+    "uan": "101382610837",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "162",
+    "ticketNo": "137",
+    "type": "ActiveEmployee",
+    "aadharNo": "844651523067",
+    "dob": "1978-10-05T12:00:00.000Z",
+    "name": "THANGAMANI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379769849",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607578711",
+    "uan": "101382610863",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "163",
+    "ticketNo": "3002",
+    "type": "ActiveEmployee",
+    "aadharNo": "751226666381",
+    "dob": "1987-04-25T12:00:00.000Z",
+    "name": "SANGEETHA P",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "32929650899",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607631100",
+    "uan": "101382665901",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "164",
+    "ticketNo": "142",
+    "type": "ActiveEmployee",
+    "aadharNo": "901009723987",
+    "dob": "1983-05-30T12:00:00.000Z",
+    "name": "PRABHAVATHI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379769861",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607631110",
+    "uan": "101385626093",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "165",
+    "ticketNo": "164",
+    "type": "ActiveEmployee",
+    "aadharNo": "309900581689",
+    "dob": "2001-01-01T11:00:00.000Z",
+    "name": "SUDAM BAG",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "35423020290",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608670653",
+    "uan": "101394408714",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "ticketNo": "130",
+    "type": "ActiveEmployee",
+    "aadharNo": "576184449096",
+    "dob": "1996-12-05T11:00:00.000Z",
+    "name": "SANJAY KUMAR SETHI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39869614266",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608572569",
+    "uan": "101395349149",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "ticketNo": "300",
+    "type": "ActiveEmployee",
+    "aadharNo": "260943120618",
+    "dob": "1977-02-04T12:00:00.000Z",
+    "name": "VENGATESAN ANGURAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20242841711",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607674300",
+    "uan": "101407825092",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "168",
+    "ticketNo": "70",
+    "type": "ActiveEmployee",
+    "aadharNo": "776842203063",
+    "dob": "1980-02-24T12:00:00.000Z",
+    "name": "SIVABHAKKIAM RAVI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009072",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608187501",
+    "uan": "101415612461",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "169",
+    "ticketNo": "310",
+    "type": "ActiveEmployee",
+    "aadharNo": "345619157355",
+    "dob": "1991-01-28T11:00:00.000Z",
+    "name": "JAYASHANKAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20280142897",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608113672",
+    "uan": "101418376396",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "170",
+    "ticketNo": "73",
+    "type": "ActiveEmployee",
+    "aadharNo": "627802918267",
+    "dob": "1996-02-17T11:00:00.000Z",
+    "name": "NANDHINI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466006537",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607709153",
+    "uan": "101419777976",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "171",
+    "ticketNo": "314",
+    "type": "ActiveEmployee",
+    "aadharNo": "880292269251",
+    "dob": "1988-04-07T12:00:00.000Z",
+    "name": "MANJULA MASIRIYAPPAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770048",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607708821",
+    "uan": "101419777995",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "172",
+    "ticketNo": "319",
+    "type": "ActiveEmployee",
+    "aadharNo": "920384347750",
+    "dob": "1991-12-11T11:00:00.000Z",
+    "name": "RANJITHA AARAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770060",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607709003",
+    "uan": "101419778008",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "173",
+    "ticketNo": "328",
+    "type": "ActiveEmployee",
+    "aadharNo": "628690864862",
+    "dob": "1977-12-25T12:00:00.000Z",
+    "name": "DHANALAKSHMI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770128",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607709176",
+    "uan": "101419778012",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "174",
+    "ticketNo": "160",
+    "type": "ActiveEmployee",
+    "aadharNo": "748426676713",
+    "dob": "1994-10-22T11:00:00.000Z",
+    "name": "ASWINI MALLIRAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009287",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607709162",
+    "uan": "101419778031",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "ticketNo": "320",
+    "type": "ActiveEmployee",
+    "aadharNo": "747885556073",
+    "dob": "1979-04-30T12:00:00.000Z",
+    "name": "KAVITHA A",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770117",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607709133",
+    "uan": "101419778049",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "176",
+    "ticketNo": "315",
+    "type": "ActiveEmployee",
+    "aadharNo": "710047916306",
+    "dob": "1977-12-10T12:00:00.000Z",
+    "name": "AMSAVENI NAGENDIRAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38560401311",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607708783",
+    "uan": "101419778054",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "177",
+    "ticketNo": "316",
+    "type": "ActiveEmployee",
+    "aadharNo": "930004160615",
+    "dob": "1983-01-01T12:00:00.000Z",
+    "name": "MARAGATHAM GANESAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379769850",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607708955",
+    "uan": "101419778065",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "178",
+    "ticketNo": "318",
+    "type": "ActiveEmployee",
+    "aadharNo": "673572650356",
+    "dob": "1985-09-25T12:00:00.000Z",
+    "name": "SELVI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "37642215334",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607708973",
+    "uan": "101419778077",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "179",
+    "ticketNo": "313",
+    "type": "ActiveEmployee",
+    "aadharNo": "328439284204",
+    "dob": "1969-01-01T12:00:00.000Z",
+    "name": "K SANTAMANI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "31293132248",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607708748",
+    "uan": "101419778096",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "180",
+    "ticketNo": "348",
+    "type": "ActiveEmployee",
+    "aadharNo": "981317795093",
+    "dob": "1964-10-10T12:00:00.000Z",
+    "name": "KANAGARAJ K",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379770093",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607754702",
+    "uan": "101431257090",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "181",
+    "ticketNo": "74",
+    "type": "ActiveEmployee",
+    "aadharNo": "936317065363",
+    "dob": "1984-11-07T12:00:00.000Z",
+    "name": "TAJUNISHA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009673",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608394497",
+    "uan": "101432395608",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "182",
+    "ticketNo": "361",
+    "type": "ActiveEmployee",
+    "aadharNo": "902666575314",
+    "dob": "1972-04-03T12:00:00.000Z",
+    "name": "JOTHIMANI SELVARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008488",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607797995",
+    "uan": "101443109704",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "183",
+    "ticketNo": "373",
+    "type": "ActiveEmployee",
+    "aadharNo": "496514237391",
+    "dob": "1975-01-01T12:00:00.000Z",
+    "name": "SARADHA CHINNARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38574558721",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607852295",
+    "uan": "101455430312",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "184",
+    "ticketNo": "129",
+    "type": "ActiveEmployee",
+    "aadharNo": "207091544477",
+    "dob": "1983-06-04T12:00:00.000Z",
+    "name": "MALATHI SASIKUMAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39956591768",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608572428",
+    "uan": "101464330392",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "ticketNo": "298",
+    "type": "InactiveEmployee",
+    "aadharNo": "461010065954",
+    "dob": "1982-04-24T12:00:00.000Z",
+    "name": "KALPANA PALANISAMY",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20379769930",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607674374",
+    "uan": "101407825102",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "186",
+    "ticketNo": "179",
+    "type": "ActiveEmployee",
+    "aadharNo": "392345830697",
+    "dob": "1999-02-22T11:00:00.000Z",
+    "name": "LIZARANI GAGRAI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40062767525",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608712068",
+    "uan": "101464929145",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "187",
+    "ticketNo": "141",
+    "type": "ActiveEmployee",
+    "aadharNo": "706284051299",
+    "dob": "1996-05-07T11:00:00.000Z",
+    "name": "JITENDRA PADHAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "36509972417",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608591441",
+    "uan": "101466754253",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "188",
+    "ticketNo": "178",
+    "type": "ActiveEmployee",
+    "aadharNo": "841166396148",
+    "dob": "2001-01-01T11:00:00.000Z",
+    "name": "RAMBABU",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40049850523",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608711995",
+    "uan": "101468352050",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "189",
+    "ticketNo": "4012",
+    "type": "ActiveEmployee",
+    "aadharNo": "314487252145",
+    "dob": "2000-06-12T11:00:00.000Z",
+    "name": "RAMYA SELVARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466006989",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608255646",
+    "uan": "101475208250",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "190",
+    "ticketNo": "37",
+    "type": "ActiveEmployee",
+    "aadharNo": "290037082414",
+    "dob": "1983-10-12T12:00:00.000Z",
+    "name": "GOURI ROUT",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008466",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607964060",
+    "uan": "101482856231",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "191",
+    "ticketNo": "125",
+    "type": "ActiveEmployee",
+    "aadharNo": "576184148124",
+    "dob": "1986-11-18T12:00:00.000Z",
+    "name": "SHARMILA R",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39874684736",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608548277",
+    "uan": "101488222149",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "192",
+    "ticketNo": "175",
+    "type": "ActiveEmployee",
+    "aadharNo": "796226742670",
+    "dob": "1987-10-22T12:00:00.000Z",
+    "name": "AMALASARASWATHI K",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608711931",
+    "uan": "101498572049",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "193",
+    "ticketNo": "4016",
+    "type": "ActiveEmployee",
+    "aadharNo": "260519525535",
+    "dob": "1982-01-21T12:00:00.000Z",
+    "name": "SIVABALAN P",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39882866771",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608591426",
+    "uan": "101520455775",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "194",
+    "ticketNo": "29",
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": "1988-07-20T12:00:00.000Z",
+    "name": "SAVITHRI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466008909",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608140162",
+    "uan": "101525951997",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "195",
+    "ticketNo": "68",
+    "type": "ActiveEmployee",
+    "aadharNo": "332807790676",
+    "dob": "1979-01-01T12:00:00.000Z",
+    "name": "MAGESHWARI S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009196",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608188269",
+    "uan": "101545860473",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "196",
+    "ticketNo": "324",
+    "type": "InactiveEmployee",
+    "aadharNo": "265117116423",
+    "dob": "1983-02-08T12:00:00.000Z",
+    "name": "KHAGESWAR PATRA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "36252214226",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607542489",
+    "uan": "101194803980",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "197",
+    "ticketNo": "49",
+    "type": "ActiveEmployee",
+    "aadharNo": "899537514780",
+    "dob": "1964-01-03T12:00:00.000Z",
+    "name": "DHANABAGYAM",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009185",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608259838",
+    "uan": "101556613197",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "198",
+    "ticketNo": "182",
+    "type": "ActiveEmployee",
+    "aadharNo": "623933735049",
+    "dob": "1993-01-01T11:00:00.000Z",
+    "name": "SHAILENDRA  KUMAR LAHARE",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "36012385264",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608726987",
+    "uan": "101563039087",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "199",
+    "ticketNo": "2004",
+    "type": "ActiveEmployee",
+    "aadharNo": "401067926091",
+    "dob": "1975-01-10T12:00:00.000Z",
+    "name": "SENTHILKUMAR THIRUVENKADASAMY",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "30894492251",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608308379",
+    "uan": "101566783787",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "200",
+    "ticketNo": "106",
+    "type": "ActiveEmployee",
+    "aadharNo": "638353153651",
+    "dob": "1993-07-12T11:00:00.000Z",
+    "name": "TAPAN NAIK",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009549",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608316256",
+    "uan": "101566783827",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "201",
+    "ticketNo": "27",
+    "type": "ActiveEmployee",
+    "aadharNo": "691166604061",
+    "dob": "1990-07-01T11:00:00.000Z",
+    "name": "SENBAGAPRIYA V",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009469",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608367010",
+    "uan": "101581425315",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "202",
+    "ticketNo": "363",
+    "type": "InactiveEmployee",
+    "aadharNo": "891036102045",
+    "dob": "1989-05-21T12:00:00.000Z",
+    "name": "THILAGAVATHI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38563943216",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607798710",
+    "uan": "101443109715",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "203",
+    "ticketNo": "26",
+    "type": "ActiveEmployee",
+    "aadharNo": "506805315870",
+    "dob": "1976-07-07T12:00:00.000Z",
+    "name": "PALANIYAMMAL C",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009470",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608367149",
+    "uan": "101581425327",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "204",
+    "ticketNo": "35",
+    "type": "ActiveEmployee",
+    "aadharNo": "366633208484",
+    "dob": "1977-05-23T12:00:00.000Z",
+    "name": "S KANAGARANI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009492",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608365802",
+    "uan": "101581425336",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "205",
+    "ticketNo": "16",
+    "type": "ActiveEmployee",
+    "aadharNo": "978198604510",
+    "dob": "1966-01-01T12:00:00.000Z",
+    "name": "DEIVANAI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39550834724",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608381435",
+    "uan": "101586226406",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "206",
+    "ticketNo": "391",
+    "type": "InactiveEmployee",
+    "aadharNo": "392121232683",
+    "dob": "1995-06-16T11:00:00.000Z",
+    "name": "PRADIP DEHURI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607896712",
+    "uan": "101466754248",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "207",
+    "ticketNo": "43",
+    "type": "ActiveEmployee",
+    "aadharNo": "277807298402",
+    "dob": "1980-03-09T12:00:00.000Z",
+    "name": "RAJESHWARI S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009640",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608381698",
+    "uan": "101586226423",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "208",
+    "ticketNo": "15",
+    "type": "ActiveEmployee",
+    "aadharNo": "999007588301",
+    "dob": "1978-01-09T12:00:00.000Z",
+    "name": "CHITRA M",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20466009572",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608381797",
+    "uan": "101586226434",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "209",
+    "ticketNo": "3011",
+    "type": "ActiveEmployee",
+    "aadharNo": "363909666776",
+    "dob": "1987-04-26T12:00:00.000Z",
+    "name": "SASIKUMAR A",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39743751895",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608518154",
+    "uan": "101622632954",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "210",
+    "ticketNo": "105",
+    "type": "ActiveEmployee",
+    "aadharNo": "640129663422",
+    "dob": "1984-08-15T12:00:00.000Z",
+    "name": "MAHALAKSHMI SIVALINGAM",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40030959575",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608543832",
+    "uan": "101630839873",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "211",
+    "ticketNo": "104",
+    "type": "ActiveEmployee",
+    "aadharNo": "567077247214",
+    "dob": "1989-12-18T11:00:00.000Z",
+    "name": "MARAGATHAM YUVARAJ",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40047359161",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608543789",
+    "uan": "101630839887",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "ticketNo": "128",
+    "type": "ActiveEmployee",
+    "aadharNo": "440762121266",
+    "dob": "1998-07-24T11:00:00.000Z",
+    "name": "CHITHRA KURUNDASAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39867185963",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608572402",
+    "uan": "101636405669",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "213",
+    "ticketNo": "2002",
+    "type": "InactiveEmployee",
+    "aadharNo": "564113270607",
+    "dob": "1981-10-11T12:00:00.000Z",
+    "name": "ANANDHAKUMAR G",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38550528497",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5607515013",
+    "uan": "101352279063",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "214",
+    "ticketNo": "136",
+    "type": "ActiveEmployee",
+    "aadharNo": "756609090803",
+    "dob": "1993-05-02T11:00:00.000Z",
+    "name": "RAJINA BEGAM",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39876699047",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608591376",
+    "uan": "101640112059",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "215",
+    "ticketNo": "147",
+    "type": "ActiveEmployee",
+    "aadharNo": "824554895121",
+    "dob": "2000-02-05T11:00:00.000Z",
+    "name": "DURJYODHAN TARIA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39917413249",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608625730",
+    "uan": "101649477308",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "216",
+    "ticketNo": "100",
+    "type": "ActiveEmployee",
+    "aadharNo": "202479474602",
+    "dob": "1976-06-30T12:00:00.000Z",
+    "name": "K LAKSHMI SELVAKUMAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38659330563",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608625637",
+    "uan": "101649477312",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "217",
+    "ticketNo": "149",
+    "type": "ActiveEmployee",
+    "aadharNo": "711380606277",
+    "dob": "1997-06-04T11:00:00.000Z",
+    "name": "ANANTA SETHI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "36619649458",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608627691",
+    "uan": "101649477320",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "218",
+    "ticketNo": "110",
+    "type": "ActiveEmployee",
+    "aadharNo": "589256092670",
+    "dob": "1994-04-10T11:00:00.000Z",
+    "name": "RANI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608625705",
+    "uan": "101649477331",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "219",
+    "ticketNo": "148",
+    "type": "ActiveEmployee",
+    "aadharNo": "413740670243",
+    "dob": "1996-05-12T11:00:00.000Z",
+    "name": "SATYANARAYAN MAHAKUR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "34747672880",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608627700",
+    "uan": "101649477349",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "220",
+    "ticketNo": "145",
+    "type": "ActiveEmployee",
+    "aadharNo": "867035363222",
+    "dob": "1988-02-13T12:00:00.000Z",
+    "name": "PRABAVATHI SENTHILKUMAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40018988912",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608627719",
+    "uan": "101649477354",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "221",
+    "ticketNo": "4018",
+    "type": "ActiveEmployee",
+    "aadharNo": "494167191299",
+    "dob": "1995-05-19T11:00:00.000Z",
+    "name": "KALPANA MURUGAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "32561916992",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608625663",
+    "uan": "101649477365",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "222",
+    "ticketNo": "186",
+    "type": "ActiveEmployee",
+    "aadharNo": "903059486328",
+    "dob": "2003-01-01T11:00:00.000Z",
+    "name": "CHANDRA KUMAR SATNAMI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608737614",
+    "uan": "101651753222",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "223",
+    "ticketNo": "161",
+    "type": "ActiveEmployee",
+    "aadharNo": "557890160207",
+    "dob": "1993-04-05T11:00:00.000Z",
+    "name": "RAMESH BARGEI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40018990012",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608670601",
+    "uan": "101659398597",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "224",
+    "ticketNo": "2006",
+    "type": "ActiveEmployee",
+    "aadharNo": "492276842620",
+    "dob": "1981-11-14T12:00:00.000Z",
+    "name": "RIYASUDEEN S",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39956469749",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608670426",
+    "uan": "101659398606",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "225",
+    "ticketNo": "3008",
+    "type": "InactiveEmployee",
+    "aadharNo": "726970552500",
+    "dob": "1989-12-23T11:00:00.000Z",
+    "name": "POONGKODI SATHISHKUMAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38556476021",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5606993109",
+    "uan": "101178280203",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "226",
+    "ticketNo": "163",
+    "type": "ActiveEmployee",
+    "aadharNo": "570598195741",
+    "dob": "2002-03-14T11:00:00.000Z",
+    "name": "PINTU BARGEI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "36289268746",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608670574",
+    "uan": "101659398623",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "227",
+    "ticketNo": "3010",
+    "type": "InactiveEmployee",
+    "aadharNo": "879481739065",
+    "dob": "1997-02-15T11:00:00.000Z",
+    "name": "AJIT KUMAR SAHU",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "36520619466",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608009584",
+    "uan": "101239096644",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "228",
+    "ticketNo": "162",
+    "type": "ActiveEmployee",
+    "aadharNo": "702878783214",
+    "dob": "2002-04-12T11:00:00.000Z",
+    "name": "RADHE SHYAM HEMRAM",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39877878795",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608670553",
+    "uan": "101659398668",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "229",
+    "ticketNo": "152",
+    "type": "ActiveEmployee",
+    "aadharNo": "374548740334",
+    "dob": "1995-06-19T11:00:00.000Z",
+    "name": "DHONI RAM MURMU",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "20320313432",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608670536",
+    "uan": "101659398681",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "230",
+    "ticketNo": "165",
+    "type": "ActiveEmployee",
+    "aadharNo": "475556774488",
+    "dob": "1987-01-04T12:00:00.000Z",
+    "name": "T PRIYA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608682515",
+    "uan": "101661009308",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "231",
+    "ticketNo": "167",
+    "type": "ActiveEmployee",
+    "aadharNo": "993381575182",
+    "dob": "1985-04-17T12:00:00.000Z",
+    "name": "MURUGASAN",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40058991971",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608682609",
+    "uan": "101661009312",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "232",
+    "ticketNo": "166",
+    "type": "ActiveEmployee",
+    "aadharNo": "973886223511",
+    "dob": "1989-05-07T12:00:00.000Z",
+    "name": "RUKUMANI A",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40059334120",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608682536",
+    "uan": "101661009320",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "233",
+    "ticketNo": "187",
+    "type": "ActiveEmployee",
+    "aadharNo": "572087460949",
+    "dob": "2002-03-06T11:00:00.000Z",
+    "name": "PRATAP BHARGAV",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608737685",
+    "uan": "101661826219",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "234",
+    "ticketNo": "172",
+    "type": "ActiveEmployee",
+    "aadharNo": "543122568914",
+    "dob": "2001-01-01T11:00:00.000Z",
+    "name": "DIPAK BHUE",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "34092337660",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608690491",
+    "uan": "101662555053",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "235",
+    "ticketNo": "173",
+    "type": "ActiveEmployee",
+    "aadharNo": "869690916309",
+    "dob": "1988-04-10T12:00:00.000Z",
+    "name": "BALARAM TANDI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "32666103321",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608690595",
+    "uan": "101662555069",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "236",
+    "ticketNo": "171",
+    "type": "ActiveEmployee",
+    "aadharNo": "848735171901",
+    "dob": "1999-01-01T11:00:00.000Z",
+    "name": "BIKASH BARGEI",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38216440797",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608690572",
+    "uan": "101662555076",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "237",
+    "ticketNo": "176",
+    "type": "ActiveEmployee",
+    "aadharNo": "429819089859",
+    "dob": "2000-02-15T11:00:00.000Z",
+    "name": "SURAJ KUMAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40052291488",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608712043",
+    "uan": "101666948015",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "238",
+    "ticketNo": "4010",
+    "type": "InactiveEmployee",
+    "aadharNo": "881336763890",
+    "dob": "1981-08-25T12:00:00.000Z",
+    "name": "SARASWATHI SURESHKUMAR",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "38533614639",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5606687812",
+    "uan": "101070211313",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "239",
+    "ticketNo": "180",
+    "type": "ActiveEmployee",
+    "aadharNo": "409087378677",
+    "dob": "2000-07-01T11:00:00.000Z",
+    "name": "RAMKESH",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40077152424",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608726937",
+    "uan": "101670303161",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "240",
+    "ticketNo": "183",
+    "type": "ActiveEmployee",
+    "aadharNo": "683285828849",
+    "dob": "1988-09-05T12:00:00.000Z",
+    "name": "SUMIDHRA SIVADASS",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40092182697",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608727850",
+    "uan": "101670362327",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "241",
+    "ticketNo": "185",
+    "type": "ActiveEmployee",
+    "aadharNo": "946152660144",
+    "dob": "1994-05-04T11:00:00.000Z",
+    "name": "E RAMYA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "32324454100",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608728329",
+    "uan": "101670421437",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "242",
+    "ticketNo": "4014",
+    "type": "InactiveEmployee",
+    "aadharNo": "277646178169",
+    "dob": "1987-05-06T12:00:00.000Z",
+    "name": "NIRMALKUMAR K",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": null,
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608452043",
+    "uan": "101481293437",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "243",
+    "ticketNo": "19",
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SELVARAJ R",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "31479811775",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5602672173",
+    "uan": null,
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "244",
+    "ticketNo": "50",
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SUNDARAMBAL",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "40019039586",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608256563",
+    "uan": null,
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "245",
+    "ticketNo": "4017",
+    "type": "InactiveEmployee",
+    "aadharNo": "986117394717",
+    "dob": "1991-06-10T11:00:00.000Z",
+    "name": "PREMA",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryAccountNumber": "39867046441",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5608591325",
+    "uan": "101640112037",
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  },
+  {
+    "id": "246",
+    "ticketNo": "3009",
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": "1967-10-12T12:00:00.000Z",
+    "name": "RAJAMANI PAPPAIYAN",
+    "currentAddress": "1/948 ambethkar nagar,MADDAMPALAYAM,BLLICHI,Coimbatore,Tamilnadu,641019",
+    "permanentAddress": "1/948 ambethkar nagar,MADDAMPALAYAM,BLLICHI,Coimbatore,Tamilnadu,641019",
+    "salaryAccountNumber": "38563140683",
+    "pfAccountNumber": null,
+    "salary": [],
+    "esiNo": "5606993190",
+    "uan": null,
+    "dol": null,
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "epf": {},
+        "deductions": {},
+        "salaryDays": {},
+        "incentives": {}
+      }
+    ]
+  }
+]

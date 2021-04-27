@@ -1,0 +1,2894 @@
+[
+  {
+    "ticketNo": 8,
+    "name": "JAYA KANAGARAJ",
+    "uan": 101355258167,
+    "esino": 5600183431,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 38593594234,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 9,
+    "name": "SUBASHINI BHARATHIRAJA",
+    "uan": 101238839968,
+    "esino": 5607145284,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20379770106,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 10,
+    "name": "MANJULA ",
+    "uan": 101174572841,
+    "esino": 5608416645,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009800,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 11,
+    "name": "USHARANI T",
+    "uan": 101380999636,
+    "esino": 5600189618,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 33014609922,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 12,
+    "name": "M.DHANALAKSHMI",
+    "uan": 100288023001,
+    "esino": 5600731342,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 10398001904,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 13,
+    "name": "A PARAMESHWARI ",
+    "uan": 100071007136,
+    "esino": 5600731344,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 38593609117,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 14,
+    "name": "MUTHUMANI",
+    "uan": 101550860371,
+    "esino": 5608381810,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466009527,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 15,
+    "name": "CHITRA.M",
+    "uan": 101586226434,
+    "esino": 5608381797,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466009572,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 16,
+    "name": "DEIVANAI ",
+    "uan": 101586226406,
+    "esino": 5608381435,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 39550834724,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 17,
+    "name": "KAVITHA.S",
+    "uan": 101312967241,
+    "esino": 5608381517,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009583,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 18,
+    "name": "RAJAMMAL RAJENDIRAN",
+    "uan": 101249759849,
+    "esino": 5605551288,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20379769907,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 19,
+    "name": "R.SELVARAJ",
+    "uan": null,
+    "esino": 5602672173,
+    "salary": [{ "basicPerDay": 216, "hraPerDay": 144, "category": "CASUAL" }],
+    "WAGESPERDAY": 360,
+
+    "salaryAccountNumber": 31479811775,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 20,
+    "name": "S.PREETHA ",
+    "uan": 100653079016,
+    "esino": 5607542396,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466008400,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 21,
+    "name": "ANKALA ESWARI SELVAM",
+    "uan": 101591644855,
+    "esino": 5608416625,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466009811,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 22,
+    "name": "SUMATHI KRISHNAN",
+    "uan": 101342018882,
+    "esino": 5600183434,
+    "salary": [{ "basicPerDay": 216, "hraPerDay": 144, "category": "CASUAL" }],
+    "WAGESPERDAY": 360,
+
+    "salaryAccountNumber": 38593615268,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 23,
+    "name": "TAMILARASI RATHAN",
+    "uan": 101581424293,
+    "esino": 5608367069,
+    "salary": [{ "basicPerDay": 189, "hraPerDay": 126, "category": "CASUAL" }],
+    "WAGESPERDAY": 315,
+
+    "salaryAccountNumber": 20466009436,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 24,
+    "name": "SULOCHANA",
+    "uan": 101342018876,
+    "esino": 5607472279,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466008308,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 25,
+    "name": "LAVANYA",
+    "uan": 101342018895,
+    "esino": 5607472084,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466008295,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 26,
+    "name": "PALANIYAMMAL C",
+    "uan": 101581425327,
+    "esino": 5608367149,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466009470,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 27,
+    "name": "SENBAGA PRIYA V",
+    "uan": 101581425315,
+    "esino": 5608367010,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466009469,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 28,
+    "name": "ANITHA.S",
+    "uan": 101342018905,
+    "esino": 5607472124,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 38584357169,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 29,
+    "name": "SAVITHRI ",
+    "uan": 101525951997,
+    "esino": 5608140162,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466008909,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 30,
+    "name": "THULASIMANI RAMASAMY",
+    "uan": 100433070797,
+    "esino": 5608367057,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009505,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 31,
+    "name": "AKKAMMAL DEVARAJ",
+    "uan": 100083368162,
+    "esino": 5600161162,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009458,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 32,
+    "name": "PRAKASH CHANDAR SINGH",
+    "uan": 101371157820,
+    "esino": 5607548014,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 20466007086,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 33,
+    "name": "KUMUTHA S",
+    "uan": 101393968906,
+    "esino": 5608365793,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009481,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 34,
+    "name": "ANANDHARAJ.T",
+    "uan": 101238839952,
+    "esino": 5607145263,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009414,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 35,
+    "name": "S.KANAGARANI",
+    "uan": 101581425336,
+    "esino": 5608365802,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009492,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 36,
+    "name": "SUKRO HO",
+    "uan": 101118934062,
+    "esino": 5608365855,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 39560035038,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 37,
+    "name": "GOURI ROUT",
+    "uan": 101482856231,
+    "esino": 5607964060,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466008466,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 38,
+    "name": "KESABA SINGKU",
+    "uan": 101581425304,
+    "esino": 5608365822,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": 20466009606,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 39,
+    "name": "DHANAMANI.D",
+    "uan": 100012320842,
+    "esino": 5608245702,
+    "salary": [{ "basicPerDay": 219, "hraPerDay": 146, "category": "CASUAL" }],
+    "WAGESPERDAY": 365,
+
+    "salaryAccountNumber": 20466009038,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 40,
+    "name": "SUDHA.A",
+    "uan": 101283627939,
+    "esino": 5608253342,
+    "salary": [{ "basicPerDay": 216, "hraPerDay": 144, "category": "CASUAL" }],
+    "WAGESPERDAY": 360,
+
+    "salaryAccountNumber": 20466009389,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 41,
+    "name": "BAKYALAKSHMI N",
+    "uan": 100432817876,
+    "esino": 5608256387,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009209,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 42,
+    "name": "SUMATHI SHANGAR",
+    "uan": 100433655946,
+    "esino": 5608256482,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466009764,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 43,
+    "name": "RAJESHWARI S",
+    "uan": 101586226423,
+    "esino": 5608381698,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466009640,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 44,
+    "name": "KAVITHA VELLINGIRI",
+    "uan": 101556613215,
+    "esino": 5608253322,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009210,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 45,
+    "name": "SHANMUGAPRIYA MOORTHI",
+    "uan": 101187423556,
+    "esino": 5608448101,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 46,
+    "name": "AMUTHAVALLI.T",
+    "uan": 101262137996,
+    "esino": 5608259932,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009301,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 47,
+    "name": "BANUMATHI.P",
+    "uan": 101556613236,
+    "esino": 5608260056,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009243,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 48,
+    "name": "DHANABAKIYAM SUBBURAJ",
+    "uan": 100134884539,
+    "esino": 5608383170,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009617,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 49,
+    "name": "DHANABAGYAM",
+    "uan": 101556613197,
+    "esino": 5608259838,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009185,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 50,
+    "name": "SUNDARAMBAL",
+    "uan": null,
+    "esino": 5608256563,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 40019039586,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 51,
+    "name": "PUSHPA KRISHNAMOORTHY",
+    "uan": 100282996241,
+    "esino": 5608245123,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009174,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 52,
+    "name": "RANI SANKAR",
+    "uan": 101353238963,
+    "esino": 5608245325,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20339978952,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 53,
+    "name": "SANTOSH BEHERA",
+    "uan": 101028172049,
+    "esino": 5606577778,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 20056352992,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 54,
+    "name": "SELVARANI MURALIDHARAN",
+    "uan": 101325354874,
+    "esino": 5600184497,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20339974957,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 55,
+    "name": "BAPI SANDIL",
+    "uan": 101282688226,
+    "esino": 5607278743,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 56,
+    "name": "SUBRAMANIYAN V",
+    "uan": 101586226447,
+    "esino": 5608383155,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 33406691549,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 57,
+    "name": "SAVITHRI",
+    "uan": 101525951997,
+    "esino": 5608140162,
+    "salary": [{ "basicPerDay": 189, "hraPerDay": 126, "category": "CASUAL" }],
+    "WAGESPERDAY": 315,
+
+    "salaryAccountNumber": 20466008909,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 58,
+    "name": "MUTHULAKSHMI V",
+    "uan": 100961743576,
+    "esino": 5608143796,
+    "salary": [{ "basicPerDay": 189, "hraPerDay": 126, "category": "CASUAL" }],
+    "WAGESPERDAY": 315,
+
+    "salaryAccountNumber": 20466009129,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 59,
+    "name": "MANIKANDAN RANGANADHAN",
+    "uan": 101599744797,
+    "esino": 5608446568,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 60,
+    "name": "MAHESWARI VELLINGIRI",
+    "uan": 100698501283,
+    "esino": 5608142115,
+    "salary": [{ "basicPerDay": 219, "hraPerDay": 146, "category": "CASUAL" }],
+    "WAGESPERDAY": 365,
+
+    "salaryAccountNumber": 20466009049,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 61,
+    "name": "VALLINAYAGAM M",
+    "uan": 101172765576,
+    "esino": 5608381788,
+    "salary": [{ "basicPerDay": 189, "hraPerDay": 126, "category": "CASUAL" }],
+    "WAGESPERDAY": 315,
+
+    "salaryAccountNumber": 20466009538,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 62,
+    "name": "S.RAJAMANI",
+    "uan": 101355510711,
+    "esino": 5701462837,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379769918,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 63,
+    "name": "ELAYARAJA GANESAN",
+    "uan": 101586226391,
+    "esino": 5608381465,
+    "salary": [{ "basicPerDay": 189, "hraPerDay": 126, "category": "CASUAL" }],
+    "WAGESPERDAY": 315,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 64,
+    "name": "BRANCHI PATRA",
+    "uan": 101177448468,
+    "esino": 5607265409,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 65,
+    "name": "KUMAR V",
+    "uan": 101584953625,
+    "esino": 5608394685,
+    "salary": [{ "basicPerDay": 198, "hraPerDay": 132, "category": "CASUAL" }],
+    "WAGESPERDAY": 330,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 66,
+    "name": "DIGAMBER BEHERA",
+    "uan": 101355258244,
+    "esino": 5607514982,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 67,
+    "name": "THIRUPATHI ELAIYARAJ",
+    "uan": 101545860441,
+    "esino": 5608209331,
+    "salary": [{ "basicPerDay": 189, "hraPerDay": 126, "category": "CASUAL" }],
+    "WAGESPERDAY": 315,
+
+    "salaryAccountNumber": 20466009163,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 68,
+    "name": "MAGESHWARI S",
+    "uan": 101545860473,
+    "esino": 5608188269,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009196,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 69,
+    "name": "LAVANYA RAJENDRAN",
+    "uan": 101221163581,
+    "esino": 5608394601,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009662,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 70,
+    "name": "SIVABHAKKIAM RAVI",
+    "uan": 101415612461,
+    "esino": 5608187501,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009072,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 71,
+    "name": "AMSAVENI",
+    "uan": 101201502401,
+    "esino": 5608187532,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009083,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 72,
+    "name": "RAJAMANI SELVARAJ",
+    "uan": 101545860456,
+    "esino": 5608187603,
+    "salary": [{ "basicPerDay": 189, "hraPerDay": 126, "category": "CASUAL" }],
+    "WAGESPERDAY": 315,
+
+    "salaryAccountNumber": 52209649577,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 73,
+    "name": "NANDHINI ",
+    "uan": 101419777976,
+    "esino": 5607709153,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466006537,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 74,
+    "name": "TAJUNISHA  ",
+    "uan": 101432395608,
+    "esino": 5608394497,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009673,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 75,
+    "name": "DILIP MOHAKUD",
+    "uan": 101586226410,
+    "esino": 5608397257,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 76,
+    "name": "SUGANYA SUBRAMANIAM",
+    "uan": 101262141282,
+    "esino": 5608483056,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 39753814460,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 77,
+    "name": "SARAVANAKUMAR B",
+    "uan": 101545860425,
+    "esino": 5608221684,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 39882877148,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 78,
+    "name": "BICHHAND PATRA",
+    "uan": 101368088789,
+    "esino": 5607542501,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 20466008910,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 79,
+    "name": "GOMATHI MURUGAN",
+    "uan": 101599980236,
+    "esino": 5608448085,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 80,
+    "name": "BALARAMPATRA",
+    "uan": 101392504206,
+    "esino": 5607542275,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 81,
+    "name": "SANTOSH PATRA",
+    "uan": 101525951984,
+    "esino": 5608135511,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 82,
+    "name": "ASHESH PATRA",
+    "uan": 101217164988,
+    "esino": 5607316025,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 83,
+    "name": "ENAMUTHU S",
+    "uan": 101381435759,
+    "esino": 5603199384,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466008477,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 84,
+    "name": "ELAMATHI",
+    "uan": 101611278830,
+    "esino": 5608483149,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 85,
+    "name": "VALARMATHI BALASUBRAMANIYAM",
+    "uan": 100399621133,
+    "esino": 5600167295,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009298,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 86,
+    "name": "KEENA",
+    "uan": 101622632920,
+    "esino": 5608518299,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 39751239740,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 87,
+    "name": "PUVANESWARI DHANASEKARAN",
+    "uan": 101525951945,
+    "esino": 5608164654,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 34375610654,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 88,
+    "name": "PAVITHIRA",
+    "uan": 101296818043,
+    "esino": 5608518276,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 39751081726,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 89,
+    "name": "KIRUBA",
+    "uan": 101459813419,
+    "esino": 5608221861,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009118,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 90,
+    "name": "ANJALI S",
+    "uan": 101312985209,
+    "esino": 5608518260,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 40019038811,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 91,
+    "name": "RAJENDRAN SAMMANNA GOWDER",
+    "uan": 100324551694,
+    "esino": 5602670599,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20241739571,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 92,
+    "name": "SINDHUJA S",
+    "uan": 100787992929,
+    "esino": 5608270434,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009107,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 93,
+    "name": "INDIRANI NARAYANAN",
+    "uan": 101566783794,
+    "esino": 5608308460,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009403,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 94,
+    "name": "NARENDRA BARIK",
+    "uan": 101105101575,
+    "esino": 5607542387,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 38445196165,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 95,
+    "name": "KAMALA SAKTHIVEL",
+    "uan": 101380999658,
+    "esino": 5607575080,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 31291487964,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 96,
+    "name": "ANTARJYAMI NAIK",
+    "uan": 101385633713,
+    "esino": 5607631054,
+    "salary": [{ "basicPerDay": 198, "hraPerDay": 132, "category": "CASUAL" }],
+    "WAGESPERDAY": 330,
+
+    "salaryAccountNumber": 20466009254,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 97,
+    "name": "RANJIT PATRA",
+    "uan": 101252888310,
+    "esino": 5608308994,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 98,
+    "name": "BIPINI PATRA",
+    "uan": 101307813640,
+    "esino": 5607753857,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 99,
+    "name": "BAIRAGI CHARAN DAS",
+    "uan": 101380999643,
+    "esino": 5607575231,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466007064,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 100,
+    "name": "K LAKSHMI SELVAKUMAR",
+    "uan": 101649477312,
+    "esino": 5608625637,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 38659330563,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 101,
+    "name": "RATNAKAR PATRA D",
+    "uan": 101134030105,
+    "esino": 5607575331,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 20466007053,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 102,
+    "name": "SANJIT NAIK",
+    "uan": 101142482798,
+    "esino": 5608316220,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 20466009639,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 103,
+    "name": "AJIT NAIK",
+    "uan": 101419228079,
+    "esino": 5608316304,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 104,
+    "name": "MARAGATHAM YUVARAJ",
+    "uan": 101630839887,
+    "esino": 5608543789,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 40047359161,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 105,
+    "name": "MAHALAKSHMI SIVALINGAM",
+    "uan": 101630839873,
+    "esino": 5608543832,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 40030959575,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 106,
+    "name": "TAPAN NAIK",
+    "uan": 101566783827,
+    "esino": 5608316256,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 20466009549,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 107,
+    "name": "MITU NAIK",
+    "uan": 101069172866,
+    "esino": 5608315281,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 108,
+    "name": "GANESWAR PATRA",
+    "uan": 101265466906,
+    "esino": 5607231849,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 109,
+    "name": "VIJI SIMON",
+    "uan": 101566794900,
+    "esino": 5608318428,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466009094,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 110,
+    "name": "RANI ",
+    "uan": 101649477331,
+    "esino": 5608625705,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 111,
+    "name": "SAVITHA KALIMUTHU",
+    "uan": 101382121231,
+    "esino": 5607578667,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20379770082,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 112,
+    "name": "JAYACHITRA ARUMUGAM",
+    "uan": 101121263851,
+    "esino": 5607578621,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379769996,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 113,
+    "name": "BINDHU RAJADURAI",
+    "uan": 101382121249,
+    "esino": 5607578599,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379770071,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 114,
+    "name": "PRATAP PATRA",
+    "uan": 101566783836,
+    "esino": 5608317865,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 115,
+    "name": "SELVI S",
+    "uan": 101382121254,
+    "esino": 5607578581,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379770139,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 116,
+    "name": "PARAMESWAR MAJHI",
+    "uan": 101356938838,
+    "esino": 5608317738,
+    "salary": [{ "basicPerDay": 198, "hraPerDay": 132, "category": "CASUAL" }],
+    "WAGESPERDAY": 330,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 117,
+    "name": "SANTHI V",
+    "uan": 101214999267,
+    "esino": 5608318242,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466009050,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 118,
+    "name": "MUTHULAKSHMI ANANDHAN",
+    "uan": 101382610828,
+    "esino": 5607578832,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 38584340789,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 119,
+    "name": "MAHESWARI SAKTHIVEL",
+    "uan": 101382610761,
+    "esino": 5607578846,
+    "salary": [{ "basicPerDay": 189, "hraPerDay": 126, "category": "CASUAL" }],
+    "WAGESPERDAY": 315,
+
+    "salaryAccountNumber": 20379769883,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 120,
+    "name": "MAGESHWARI SELVARAJ",
+    "uan": 101382610790,
+    "esino": 5607578877,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379770004,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 121,
+    "name": "LATHA J",
+    "uan": 101382610774,
+    "esino": 5607578884,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20379770026,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 122,
+    "name": "MURUGESH SELVARAJ",
+    "uan": 101477642205,
+    "esino": 5608318120,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009232,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 123,
+    "name": "SUSANTA KUMAR ROUT",
+    "uan": 101252888072,
+    "esino": 5608548217,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009550,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 124,
+    "name": "SHANTHAKUMARI GOVINDARAJ",
+    "uan": 101223242651,
+    "esino": 5608548243,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 33664021895,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 125,
+    "name": "SHARMILA R",
+    "uan": 101488222149,
+    "esino": 5608548277,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 39874684736,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 126,
+    "name": "GNANAVEL S",
+    "uan": 101631980871,
+    "esino": 5608549141,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20399216766,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 127,
+    "name": "MALATHI P",
+    "uan": 101382610837,
+    "esino": 5607578757,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379770059,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 128,
+    "name": "CHITHRA KURUNDASAN",
+    "uan": 101636405669,
+    "esino": 5608572402,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 39867185963,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 129,
+    "name": "MALATHI SASIKUMAR",
+    "uan": 101464330392,
+    "esino": 5608572428,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 39956591768,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 130,
+    "name": "SANJAY KUMAR SETHI",
+    "uan": 101395349149,
+    "esino": 5608572569,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 39869614266,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 131,
+    "name": "ANUSHYA MURUGAN",
+    "uan": 101324384361,
+    "esino": 5608591404,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 39879561173,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 132,
+    "name": "TUNA PATRA",
+    "uan": 101105101715,
+    "esino": 5606793892,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 20466007166,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 133,
+    "name": "DEEPA DURAI",
+    "uan": 101135629482,
+    "esino": 5608591456,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20178021246,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 134,
+    "name": "ASHESA PATRA",
+    "uan": 101294313126,
+    "esino": 5607315717,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 20466007111,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 135,
+    "name": "AMUTHA PARAMESWARAN",
+    "uan": 101395349165,
+    "esino": 5607631041,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466008331,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 136,
+    "name": "RAJINA BEGAM",
+    "uan": 101640112059,
+    "esino": 5608591376,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 39876699047,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 137,
+    "name": "THANGAMANI",
+    "uan": 101382610863,
+    "esino": 5607578711,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379769849,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 138,
+    "name": "VADIVUKARASI RANGAN",
+    "uan": 101640112044,
+    "esino": 5608591479,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 139,
+    "name": "NATHIYA GANESAN",
+    "uan": 101307813557,
+    "esino": 5607360236,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 38559306850,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 140,
+    "name": "DHARANIDHAR DAS",
+    "uan": 101355258200,
+    "esino": 5607508851,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 20466009561,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 141,
+    "name": "JITENDRA PADHAN",
+    "uan": 101466754253,
+    "esino": 5608591441,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 36509972417,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 142,
+    "name": "PRABHAVATHI",
+    "uan": 101385626093,
+    "esino": 5607631110,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379769861,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 143,
+    "name": "MANOJ KUMAR BEHERA",
+    "uan": 101022686488,
+    "esino": 5608591354,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 39202780662,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 144,
+    "name": "VIJAYARAJ GURUSUMUTHU",
+    "uan": 101464166688,
+    "esino": 5608627712,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 145,
+    "name": "PRABAVATHI SENTHILKUMAR",
+    "uan": 101649477354,
+    "esino": 5608627719,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 40018988912,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 146,
+    "name": "SAKTHIVEL RANGASAMY",
+    "uan": 101431257116,
+    "esino": 5607755176,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 147,
+    "name": " DURJYODHAN TARIA",
+    "uan": 101649477308,
+    "esino": 5608625730,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 39917413249,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 148,
+    "name": "SATYANARAYAN MAHAKUR",
+    "uan": 101649477349,
+    "esino": 5608627700,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 34747672880,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 149,
+    "name": "ANANTA SETHI",
+    "uan": 101649477320,
+    "esino": 5608627691,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 36619649458,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 150,
+    "name": "SURYA MURUGESAN",
+    "uan": 101313687044,
+    "esino": 5608670412,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 40086423881,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 151,
+    "name": "SATRUGHANA DAS",
+    "uan": 101355258198,
+    "esino": 5608670435,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 30931231867,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 152,
+    "name": "DHONI RAM MURMU",
+    "uan": 101659398681,
+    "esino": 5608670536,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 20320313432,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 153,
+    "name": "RAJESHWARI K",
+    "uan": 101172913723,
+    "esino": 5607364066,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 38659433626,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 154,
+    "name": "VALARMATHI N",
+    "uan": 101172913734,
+    "esino": 5607360153,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466008422,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 155,
+    "name": "JOTHIMANI MUTHUSAMY",
+    "uan": 101325354362,
+    "esino": 5607630891,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466008375,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 156,
+    "name": "DEBARAJ BHUE",
+    "uan": 101216369017,
+    "esino": 5608670527,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+    "salaryAccountNumber": 037804303166190801,
+    "PYMTMODE": "CSB"
+  },
+  {
+    "ticketNo": 157,
+    "name": "PARAMESHWARI V",
+    "uan": 101338618736,
+    "esino": 5608348884,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009367,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 158,
+    "name": "RAMYA",
+    "uan": 101174577104,
+    "esino": 5608348850,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20466009312,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 159,
+    "name": "MADHAVI",
+    "uan": 101574263894,
+    "esino": 5608348760,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009378,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 160,
+    "name": "ASWINI MALLIRAJ",
+    "uan": 101419778031,
+    "esino": 5607709162,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466009287,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 161,
+    "name": "RAMESH BARGEI",
+    "uan": 101659398597,
+    "esino": 5608670601,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 40018990012,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 162,
+    "name": "RADHE SHYAM HEMRAM",
+    "uan": 101659398668,
+    "esino": 5608670553,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 39877878795,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 163,
+    "name": "PINTU BARGEI",
+    "uan": 101659398623,
+    "esino": 5608670574,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 36289268746,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 164,
+    "name": "SUDAM BAG",
+    "uan": 101394408714,
+    "esino": 5608670653,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 35423020290,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 165,
+    "name": "T PRIYA",
+    "uan": 101661009308,
+    "esino": 5608682515,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 166,
+    "name": "RUKUMANI A",
+    "uan": 101661009320,
+    "esino": 5608682536,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 40059334120,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 167,
+    "name": "MURUGASAN",
+    "uan": 101661009312,
+    "esino": 5608682609,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 40058991971,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 168,
+    "name": "PRADIP HARIJAN",
+    "uan": 101328512301,
+    "esino": 5608682601,
+    "salary": [{ "basicPerDay": 216, "hraPerDay": 144, "category": "CASUAL" }],
+    "WAGESPERDAY": 360,
+
+    "salaryAccountNumber": 40071246319,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 169,
+    "name": "LALITA HARIJAN",
+    "uan": 101294461740,
+    "esino": 5608690551,
+    "salary": [{ "basicPerDay": 216, "hraPerDay": 144, "category": "CASUAL" }],
+    "WAGESPERDAY": 360,
+
+    "salaryAccountNumber": 39550976167,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 170,
+    "name": "KALAMANI PALANISAMY",
+    "uan": 101278886079,
+    "esino": 5608690456,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 171,
+    "name": "BIKASH BARGEI",
+    "uan": 101662555076,
+    "esino": 5608690572,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 38216440797,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 172,
+    "name": "DIPAK BHUE",
+    "uan": 101662555053,
+    "esino": 5608690491,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 34092337660,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 173,
+    "name": "BALARAM TANDI",
+    "uan": 101662555069,
+    "esino": 5608690595,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 32666103321,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 174,
+    "name": "BIKASH PANDEY",
+    "uan": 101205323207,
+    "esino": 5608690530,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 35245953035,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 175,
+    "name": "AMALASARASWATHI",
+    "uan": 101498572049,
+    "esino": 5608711931,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 176,
+    "name": "SURAJ KUMAR",
+    "uan": 101666948015,
+    "esino": 5608712043,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 40052291488,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 177,
+    "name": "SURAJ ",
+    "uan": 101365700414,
+    "esino": 5608711971,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 40056376254,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 178,
+    "name": "RAMBABU",
+    "uan": 101468352050,
+    "esino": 5608711995,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 40049850523,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 179,
+    "name": "LIZARANI GAGRAI",
+    "uan": 101464929145,
+    "esino": 5608712068,
+    "salary": [{ "basicPerDay": 216, "hraPerDay": 144, "category": "CASUAL" }],
+    "WAGESPERDAY": 360,
+
+    "salaryAccountNumber": 40062767525,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 180,
+    "name": "RAMKESH",
+    "uan": 101670303161,
+    "esino": 5608726937,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 40077152424,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 181,
+    "name": "BAJRANG SHARMA",
+    "uan": 101281346565,
+    "esino": 5608726954,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 037804304063190801,
+    "PYMTMODE": "CSB"
+  },
+  {
+    "ticketNo": 182,
+    "name": "SHAILENDRA KUMAR LAHARE",
+    "uan": 101563039087,
+    "esino": 5608726987,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 36012385264,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 183,
+    "name": "SUMIDHRA SIVADASS",
+    "uan": 101670362327,
+    "esino": 5608727850,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 40092182697,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 184,
+    "name": "C JOSEPH",
+    "uan": 100786372656,
+    "esino": 5608728281,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 037804301809190801,
+    "PYMTMODE": "CSB"
+  },
+  {
+    "ticketNo": 185,
+    "name": "E RAMYA",
+    "uan": 101670421437,
+    "esino": 5608728329,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 32324454100,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 186,
+    "name": "CHANDRA KUMAR SATNAMI",
+    "uan": 101651753222,
+    "esino": 5608737614,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 037807333015190801,
+    "PYMTMODE": "CSB"
+  },
+  {
+    "ticketNo": 187,
+    "name": "PRATAP BHARGAV",
+    "uan": 101661826219,
+    "esino": 5608737685,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 037804300781190801,
+    "PYMTMODE": "CSB"
+  },
+  {
+    "ticketNo": 215,
+    "name": "SARAVANAN ANGURAJ",
+    "uan": 101207509186,
+    "esino": 5607075934,
+    "salary": [{ "basicPerDay": 216, "hraPerDay": 144, "category": "CASUAL" }],
+    "WAGESPERDAY": 360,
+
+    "salaryAccountNumber": 20218240798,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 255,
+    "name": "POONKODI RANGANATHAN",
+    "uan": 101069402763,
+    "esino": 5607146662,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 38548682670,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 256,
+    "name": "VIJAYALAKSHMI",
+    "uan": 101238840000,
+    "esino": 5607146696,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 35832576783,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 271,
+    "name": "SARASWATHI RAMACHANTHIRAN",
+    "uan": 101252888017,
+    "esino": 5607185905,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20379769974,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 272,
+    "name": "SASIKALA KANAGARAJ",
+    "uan": 101157589045,
+    "esino": 5607185892,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 35808289574,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 298,
+    "name": "KALPANA PALANISAMY",
+    "uan": 101407825102,
+    "esino": 5607674374,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379769930,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 300,
+    "name": "VENKATESAN ANGURAJ",
+    "uan": 101407825092,
+    "esino": 5607674300,
+    "salary": [{ "basicPerDay": 216, "hraPerDay": 144, "category": "CASUAL" }],
+    "WAGESPERDAY": 360,
+
+    "salaryAccountNumber": 20242841711,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 310,
+    "name": "JAYASHANKAR",
+    "uan": 101418376396,
+    "esino": 5608113672,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20280142897,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 311,
+    "name": "SAGAR BANU M",
+    "uan": 101330636483,
+    "esino": 5608113666,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466009221,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 313,
+    "name": "K.SANTAMANI",
+    "uan": 101419778096,
+    "esino": 5607708748,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 31293132248,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 314,
+    "name": "MANJULA MASIRIYAPPAN",
+    "uan": 101419777995,
+    "esino": 5607708821,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379770048,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 315,
+    "name": "AMSAVENI NAGENDIRAN",
+    "uan": 101419778054,
+    "esino": 5607708783,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 38560401311,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 316,
+    "name": "MARAGATHAM GANESAN",
+    "uan": 101419778065,
+    "esino": 5607708955,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379769850,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 318,
+    "name": "SELVI",
+    "uan": 101419778077,
+    "esino": 5607708973,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 37642215334,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 319,
+    "name": "RANJITHA AARAN",
+    "uan": 101419778008,
+    "esino": 5607709003,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379770060,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 320,
+    "name": "KAVITHA.A",
+    "uan": 101419778049,
+    "esino": 5607709133,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379770117,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 324,
+    "name": "KHAGESWAR PATRA",
+    "uan": 101194803980,
+    "esino": 5607542489,
+    "salary": [{ "basicPerDay": 186, "hraPerDay": 124, "category": "CASUAL" }],
+    "WAGESPERDAY": 310,
+
+    "salaryAccountNumber": 36252214226,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 328,
+    "name": "DHANALAKSHMI",
+    "uan": 101419778012,
+    "esino": 5607709176,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20379770128,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 348,
+    "name": "KANAGARAJ K",
+    "uan": 101431257090,
+    "esino": 5607754702,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20379770093,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 350,
+    "name": "SHENBAGAM BOOPALAN",
+    "uan": 100594273650,
+    "esino": 5607755050,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20379769963,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 357,
+    "name": "VASUKI JEGATHISHWARAN",
+    "uan": 101238840016,
+    "esino": 5607146719,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20379769894,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 361,
+    "name": "JOTHIMANI SELVARAJ",
+    "uan": 101443109704,
+    "esino": 5607797995,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 20466008488,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 363,
+    "name": "THILAGAVATHY",
+    "uan": 101443109715,
+    "esino": 5607798710,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 38563943216,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 365,
+    "name": "GITANJALI SAMAL",
+    "uan": 101380999615,
+    "esino": 5607574523,
+    "salary": [{ "basicPerDay": 195, "hraPerDay": 130, "category": "CASUAL" }],
+    "WAGESPERDAY": 325,
+
+    "salaryAccountNumber": 20466008353,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 373,
+    "name": "SARADHA CHINNARAJ",
+    "uan": 101455430312,
+    "esino": 5607852295,
+    "salary": [{ "basicPerDay": 204, "hraPerDay": 136, "category": "CASUAL" }],
+    "WAGESPERDAY": 340,
+
+    "salaryAccountNumber": 38574558721,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 383,
+    "name": "S.GANGADEVI",
+    "uan": 100643993560,
+    "esino": 5607964041,
+    "salary": [{ "basicPerDay": 210, "hraPerDay": 140, "category": "CASUAL" }],
+    "WAGESPERDAY": 350,
+
+    "salaryAccountNumber": 20280142172,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 391,
+    "name": "PRADIP DEHURI",
+    "uan": 101466754248,
+    "esino": 5607896712,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "CASUAL" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CASH"
+  },
+  {
+    "ticketNo": 1001,
+    "name": "RAJAMANI K",
+    "uan": 100184148901,
+    "esino": 5600170156,
+    "salary": [
+      { "basicPerDay": 477, "hraPerDay": 10, "category": "PERMANENT" }
+    ],
+    "WAGESPERDAY": 487,
+
+    "salaryAccountNumber": 38538439274,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 1002,
+    "name": "INDIRANI N",
+    "uan": 100246451744,
+    "esino": 5600170143,
+    "salary": [
+      { "basicPerDay": 477, "hraPerDay": 10, "category": "PERMANENT" }
+    ],
+    "WAGESPERDAY": 487,
+
+    "salaryAccountNumber": 38538384596,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 1003,
+    "name": "JOTHIMANI GOVINDHARAJ",
+    "uan": 100148271793,
+    "esino": 5600170151,
+    "salary": [
+      { "basicPerDay": 477, "hraPerDay": 10, "category": "PERMANENT" }
+    ],
+    "WAGESPERDAY": 487,
+
+    "salaryAccountNumber": 38541383348,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 1004,
+    "name": "RUKKUMANI R",
+    "uan": 100288621878,
+    "esino": 5600170417,
+    "salary": [
+      { "basicPerDay": 477, "hraPerDay": 10, "category": "PERMANENT" }
+    ],
+    "WAGESPERDAY": 487,
+
+    "salaryAccountNumber": 38541366300,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 1005,
+    "name": "CHITRA S",
+    "uan": 100323592351,
+    "esino": 5600170653,
+    "salary": [
+      { "basicPerDay": 477, "hraPerDay": 10, "category": "PERMANENT" }
+    ],
+    "WAGESPERDAY": 487,
+
+    "salaryAccountNumber": 31620083006,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 2001,
+    "name": "K.NAGARAJ",
+    "uan": 101358044308,
+    "esino": 5605591682,
+    "salary": [
+      { "basicPerDay": 258, "hraPerDay": 172, "category": "SECURITY" }
+    ],
+    "WAGESPERDAY": 430,
+
+    "salaryAccountNumber": 20466008397,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 2002,
+    "name": "ANANDHAKUMAR.G",
+    "uan": 101352279063,
+    "esino": 5607515013,
+    "salary": [
+      { "basicPerDay": 258, "hraPerDay": 172, "category": "SECURITY" }
+    ],
+    "WAGESPERDAY": 430,
+
+    "salaryAccountNumber": 38550528497,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 2003,
+    "name": "KARUPPUSAMY ESWARAN",
+    "uan": 101342018869,
+    "esino": 5607471838,
+    "salary": [
+      { "basicPerDay": 246, "hraPerDay": 164, "category": "SECURITY" }
+    ],
+    "WAGESPERDAY": 410,
+
+    "salaryAccountNumber": 38535974906,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 2004,
+    "name": "SENTHILKUMAR THIRUVENKADASAMY",
+    "uan": 101566783787,
+    "esino": 5608308379,
+    "salary": [
+      { "basicPerDay": 258, "hraPerDay": 172, "category": "SECURITY" }
+    ],
+    "WAGESPERDAY": 430,
+
+    "salaryAccountNumber": 30894492251,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 2005,
+    "name": "BOOPALAN SELVAN",
+    "uan": 100595074185,
+    "esino": 5608348728,
+    "salary": [
+      { "basicPerDay": 258, "hraPerDay": 172, "category": "SECURITY" }
+    ],
+    "WAGESPERDAY": 430,
+
+    "salaryAccountNumber": 20466009390,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 2006,
+    "name": "RIYASUDEEN S",
+    "uan": 101659398606,
+    "esino": 5608670426,
+    "salary": [
+      { "basicPerDay": 258, "hraPerDay": 172, "category": "SECURITY" }
+    ],
+    "WAGESPERDAY": 430,
+
+    "salaryAccountNumber": 39956469749,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 3001,
+    "name": "MARIYASEELI NELSON",
+    "uan": 101355258216,
+    "esino": 5605983539,
+    "salary": [{ "basicPerDay": 265, "hraPerDay": 178, "category": "STAFF2" }],
+    "WAGESPERDAY": 443,
+
+    "salaryAccountNumber": 32118431619,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 3002,
+    "name": "SANGEETHA P",
+    "uan": 101382665901,
+    "esino": 5607631100,
+    "salary": [{ "basicPerDay": 254, "hraPerDay": 169, "category": "STAFF2" }],
+    "WAGESPERDAY": 423,
+
+    "salaryAccountNumber": 32929650899,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 3003,
+    "name": "KANAGARAJ K",
+    "uan": 100183547745,
+    "esino": null,
+    "salary": [{ "basicPerDay": 554, "hraPerDay": 369, "category": "STAFF2" }],
+    "WAGESPERDAY": 923,
+
+    "salaryAccountNumber": 38535982985,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 3004,
+    "name": "RANGARAJ ESWARAN",
+    "uan": 100144648989,
+    "esino": 5602672171,
+    "salary": [{ "basicPerDay": 404, "hraPerDay": 269, "category": "STAFF2" }],
+    "WAGESPERDAY": 673,
+
+    "salaryAccountNumber": 38557186535,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 3005,
+    "name": "K PARAMESWARAN ",
+    "uan": 100184022379,
+    "esino": 5602670594,
+    "salary": [{ "basicPerDay": 415, "hraPerDay": 277, "category": "STAFF2" }],
+    "WAGESPERDAY": 692,
+
+    "salaryAccountNumber": 20282201820,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 3006,
+    "name": "R DHINESH",
+    "uan": 100421378572,
+    "esino": 5608113653,
+    "salary": [{ "basicPerDay": 300, "hraPerDay": 200, "category": "STAFF2" }],
+    "WAGESPERDAY": 500,
+
+    "salaryAccountNumber": 20466008863,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 3007,
+    "name": "RANGANATHAN",
+    "uan": 101178054246,
+    "esino": 5606993017,
+    "salary": [{ "basicPerDay": 270, "hraPerDay": 180, "category": "STAFF2" }],
+    "WAGESPERDAY": 450,
+
+    "salaryAccountNumber": 20379766383,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 3008,
+    "name": "POONGKODI SATHISHKUMAR",
+    "uan": 101178280203,
+    "esino": 5606993109,
+    "salary": [{ "basicPerDay": 162, "hraPerDay": 108, "category": "STAFF2" }],
+    "WAGESPERDAY": 270,
+
+    "salaryAccountNumber": 38556476021,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 3009,
+    "name": "RAJAMANI PAPPAIYAN",
+    "uan": null,
+    "esino": 5606993190,
+    "salary": [{ "basicPerDay": 180, "hraPerDay": 120, "category": "STAFF2" }],
+    "WAGESPERDAY": 300,
+
+    "salaryAccountNumber": 38563140683,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 3010,
+    "name": "AJITKUMAR SAHU",
+    "uan": 101239096644,
+    "esino": 5608009584,
+    "salary": [{ "basicPerDay": 346, "hraPerDay": 231, "category": "STAFF2" }],
+    "WAGESPERDAY": 577,
+
+    "salaryAccountNumber": 36520619466,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 3011,
+    "name": "SASIKUMAR A",
+    "uan": 101622632954,
+    "esino": 5608518154,
+    "salary": [{ "basicPerDay": 370, "hraPerDay": 246, "category": "STAFF2" }],
+    "WAGESPERDAY": 616,
+
+    "salaryAccountNumber": 39743751895,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4001,
+    "name": "SHANMUGAM MUTHIAH",
+    "uan": 100211078548,
+    "esino": null,
+    "salary": [{ "basicPerDay": 1150, "hraPerDay": 620, "category": "STAFF1" }],
+    "WAGESPERDAY": 1770,
+
+    "salaryAccountNumber": 10122252945,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4002,
+    "name": "ARULANANDAN M",
+    "uan": 100209732063,
+    "esino": null,
+    "salary": [{ "basicPerDay": 831, "hraPerDay": 554, "category": "STAFF1" }],
+    "WAGESPERDAY": 1385,
+
+    "salaryAccountNumber": 33987418090,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4003,
+    "name": "RAJA V M",
+    "uan": 101222901719,
+    "esino": null,
+    "salary": [{ "basicPerDay": 1154, "hraPerDay": 769, "category": "STAFF1" }],
+    "WAGESPERDAY": 1923,
+
+    "salaryAccountNumber": 20025646220,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4004,
+    "name": "C.MAKESHKUMAR",
+    "uan": 100506653339,
+    "esino": 5605653226,
+    "salary": [{ "basicPerDay": 450, "hraPerDay": 300, "category": "STAFF1" }],
+    "WAGESPERDAY": 750,
+
+    "salaryAccountNumber": 31857212193,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4005,
+    "name": "M.MAHESWARI",
+    "uan": 100210350080,
+    "esino": 5604401623,
+    "salary": [{ "basicPerDay": 415, "hraPerDay": 278, "category": "STAFF1" }],
+    "WAGESPERDAY": 693,
+
+    "salaryAccountNumber": 38535783559,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4006,
+    "name": "RAJESH",
+    "uan": 100556811865,
+    "esino": null,
+    "salary": [{ "basicPerDay": 535, "hraPerDay": 358, "category": "STAFF1" }],
+    "WAGESPERDAY": 893,
+
+    "salaryAccountNumber": 38533360772,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4007,
+    "name": "N.B.RAVIKUMAR",
+    "uan": 101081277076,
+    "esino": null,
+    "salary": [{ "basicPerDay": 578, "hraPerDay": 384, "category": "STAFF1" }],
+    "WAGESPERDAY": 962,
+
+    "salaryAccountNumber": 33442348473,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4008,
+    "name": "SWAMI NATHAN C",
+    "uan": 101134082971,
+    "esino": null,
+    "salary": [{ "basicPerDay": 497, "hraPerDay": 330, "category": "STAFF1" }],
+    "WAGESPERDAY": 827,
+
+    "salaryAccountNumber": 33158384050,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4009,
+    "name": "P.R.SASIKALA",
+    "uan": 101222901726,
+    "esino": null,
+    "salary": [{ "basicPerDay": 543, "hraPerDay": 361, "category": "STAFF1" }],
+    "WAGESPERDAY": 904,
+
+    "salaryAccountNumber": 62412708130,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4010,
+    "name": "SARASWATHI SURESHKUMAR",
+    "uan": 101070211313,
+    "esino": 5606687812,
+    "salary": [{ "basicPerDay": 294, "hraPerDay": 195, "category": "STAFF1" }],
+    "WAGESPERDAY": 489,
+
+    "salaryAccountNumber": 38533614639,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4011,
+    "name": "SIRANJEEVI",
+    "uan": 101249480506,
+    "esino": 5607798419,
+    "salary": [{ "basicPerDay": 397, "hraPerDay": 265, "category": "STAFF1" }],
+    "WAGESPERDAY": 662,
+
+    "salaryAccountNumber": 38554309641,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4012,
+    "name": "RAMYA SELVARAJ",
+    "uan": 101475208250,
+    "esino": 5608255646,
+    "salary": [{ "basicPerDay": 254, "hraPerDay": 169, "category": "STAFF1" }],
+    "WAGESPERDAY": 423,
+
+    "salaryAccountNumber": 20466006989,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4013,
+    "name": "GOKULNATH SELVARAJ",
+    "uan": 101207509795,
+    "esino": 5607075896,
+    "salary": [{ "basicPerDay": 390, "hraPerDay": 260, "category": "STAFF1" }],
+    "WAGESPERDAY": 650,
+
+    "salaryAccountNumber": 38535770516,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4014,
+    "name": "NIRMALKUMAR .K",
+    "uan": 101481293437,
+    "esino": 5608452043,
+    "salary": [{ "basicPerDay": 369, "hraPerDay": 246, "category": "STAFF1" }],
+    "WAGESPERDAY": 615,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CHEQUE"
+  },
+  {
+    "ticketNo": 4015,
+    "name": "RAMKUMAR ARUMUGAM",
+    "uan": 100306156448,
+    "esino": 5608518183,
+    "salary": [{ "basicPerDay": 370, "hraPerDay": 246, "category": "STAFF1" }],
+    "WAGESPERDAY": 616,
+
+    "salaryAccountNumber": 39846702782,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4016,
+    "name": "SIVABALAN P",
+    "uan": 101520455775,
+    "esino": 5608591426,
+    "salary": [{ "basicPerDay": 370, "hraPerDay": 246, "category": "STAFF1" }],
+    "WAGESPERDAY": 616,
+
+    "salaryAccountNumber": 39882866771,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4017,
+    "name": "PREMA",
+    "uan": 101640112037,
+    "esino": 5608591325,
+    "salary": [{ "basicPerDay": 231, "hraPerDay": 154, "category": "STAFF1" }],
+    "WAGESPERDAY": 385,
+
+    "salaryAccountNumber": 39867046441,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 4018,
+    "name": "KALPANA MURUGAN",
+    "uan": 101649477365,
+    "esino": 5608625663,
+    "salary": [{ "basicPerDay": 231, "hraPerDay": 154, "category": "STAFF1" }],
+    "WAGESPERDAY": 385,
+
+    "salaryAccountNumber": 32561916992,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 5001,
+    "name": "NAGARAJ",
+    "uan": null,
+    "esino": null,
+    "salary": [
+      { "basicPerDay": 827, "hraPerDay": null, "category": "EXEMPTED" }
+    ],
+    "WAGESPERDAY": 827,
+
+    "salaryAccountNumber": 38557561948,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 5002,
+    "name": "SARAVANAN",
+    "uan": null,
+    "esino": null,
+    "salary": [
+      { "basicPerDay": 827, "hraPerDay": null, "category": "EXEMPTED" }
+    ],
+    "WAGESPERDAY": 827,
+
+    "salaryAccountNumber": 38548604805,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 5003,
+    "name": "SIVAKUMAR",
+    "uan": null,
+    "esino": null,
+    "salary": [
+      { "basicPerDay": 827, "hraPerDay": null, "category": "EXEMPTED" }
+    ],
+    "WAGESPERDAY": 827,
+
+    "salaryAccountNumber": 67299367903,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 5004,
+    "name": "CHATURBHUJA NAYAK",
+    "uan": null,
+    "esino": null,
+    "salary": [
+      { "basicPerDay": 962, "hraPerDay": null, "category": "EXEMPTED" }
+    ],
+    "WAGESPERDAY": 962,
+
+    "salaryAccountNumber": 20466009265,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 5005,
+    "name": "UMAKANTANAYAK",
+    "uan": null,
+    "esino": null,
+    "salary": [
+      { "basicPerDay": 962, "hraPerDay": null, "category": "EXEMPTED" }
+    ],
+    "WAGESPERDAY": 962,
+
+    "salaryAccountNumber": 11397363415,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 5006,
+    "name": "MAHURA MAHANTA",
+    "uan": null,
+    "esino": null,
+    "salary": [
+      { "basicPerDay": 962, "hraPerDay": null, "category": "EXEMPTED" }
+    ],
+    "WAGESPERDAY": 962,
+
+    "salaryAccountNumber": 20466009276,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 5007,
+    "name": "J.NITHYASELVI",
+    "uan": null,
+    "esino": null,
+    "salary": [
+      { "basicPerDay": 962, "hraPerDay": null, "category": "EXEMPTED" }
+    ],
+    "WAGESPERDAY": 962,
+
+    "salaryAccountNumber": 38548429253,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 5008,
+    "name": "ANBUSELVAN",
+    "uan": null,
+    "esino": null,
+    "salary": [
+      { "basicPerDay": 962, "hraPerDay": null, "category": "EXEMPTED" }
+    ],
+    "WAGESPERDAY": 962,
+
+    "salaryAccountNumber": 20379770037,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 5009,
+    "name": "SAROJ BEHERA",
+    "uan": null,
+    "esino": null,
+    "salary": [
+      { "basicPerDay": 962, "hraPerDay": null, "category": "EXEMPTED" }
+    ],
+    "WAGESPERDAY": 962,
+
+    "salaryAccountNumber": 20466009822,
+    "PYMTMODE": "SBI"
+  },
+  {
+    "ticketNo": 5010,
+    "name": "NARASINGHA NAYAK",
+    "uan": null,
+    "esino": null,
+    "salary": [
+      { "basicPerDay": 962, "hraPerDay": null, "category": "EXEMPTED" }
+    ],
+    "WAGESPERDAY": 962,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CHEQUE"
+  },
+  {
+    "ticketNo": 5011,
+    "name": "PRADEP KUMAR NAYAK",
+    "uan": null,
+    "esino": null,
+    "salary": [
+      { "basicPerDay": 962, "hraPerDay": null, "category": "EXEMPTED" }
+    ],
+    "WAGESPERDAY": 962,
+
+    "salaryAccountNumber": null,
+    "PYMTMODE": "CHEQUE"
+  },
+  {
+    "ticketNo": 7000,
+    "name": "MURUGESH CHINNSAMI",
+    "uan": null,
+    "esino": null,
+    "salary": [{ "basicPerDay": 212, "hraPerDay": null, "category": "WEG" }],
+    "WAGESPERDAY": 212,
+
+    "salaryAccountNumber": 39780056874,
+    "PYMTMODE": "SBI"
+  }
+]

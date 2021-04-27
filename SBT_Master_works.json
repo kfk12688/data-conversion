@@ -1,0 +1,2399 @@
+[
+  {
+    "ticketNo": 1,
+    "uan": 100148096074,
+    "esiNo": 5603507469,
+    "name": "AAYILYAM .G",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20211396141,
+    "ALT BANK ACNO": "CSB 0019-03675888-190801"
+  },
+  {
+    "ticketNo": 2,
+    "uan": 100288327649,
+    "esiNo": 5603507470,
+    "name": "R.MARUTHASALAM",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 31561299158,
+    "ALT BANK ACNO": "CSB 0019-03677336-190801"
+  },
+  {
+    "ticketNo": 3,
+    "uan": 100210061792,
+    "esiNo": 5600188978,
+    "name": "M INDIRANI ",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008206,
+    "ALT BANK ACNO": "CSB 0019-03677368-190801"
+  },
+  {
+    "ticketNo": 4,
+    "uan": 100183255341,
+    "esiNo": 5604411970,
+    "name": "K C SUBRAMANIYAM",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006730,
+    "ALT BANK ACNO": "CSB 0019-03677441-190801"
+  },
+  {
+    "ticketNo": 5,
+    "uan": 100044909859,
+    "esiNo": 5604765893,
+    "name": "R YOGANATHAN ",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 34640966915,
+    "ALT BANK ACNO": "CSB 0019-03785967-190801"
+  },
+  {
+    "ticketNo": 6,
+    "uan": 100288314576,
+    "esiNo": 5600185552,
+    "name": "R MANJULA",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 32664113412,
+    "ALT BANK ACNO": "CSB 0019-03675731-190801"
+  },
+  {
+    "ticketNo": 7,
+    "uan": 100184238922,
+    "esiNo": 5600189670,
+    "name": "RANI MARIMUTHU",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006752,
+    "ALT BANK ACNO": "CSB 0019-03677387-190801"
+  },
+  {
+    "ticketNo": 8,
+    "uan": 100128543566,
+    "esiNo": 5600731305,
+    "name": "B CHANDRA",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39549716192,
+    "ALT BANK ACNO": "CSB 0019-03764953-190801"
+  },
+  {
+    "ticketNo": 9,
+    "uan": 100129053786,
+    "esiNo": 5600731306,
+    "name": "D VELUMANI ",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39487472539,
+    "ALT BANK ACNO": "CSB 0019-03764658-190801"
+  },
+  {
+    "ticketNo": 10,
+    "uan": 100263454882,
+    "esiNo": 5604154260,
+    "name": "P GOMATHI ",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 10122276568,
+    "ALT BANK ACNO": "CSB 0019-03677367-190801"
+  },
+  {
+    "ticketNo": 11,
+    "uan": 100210715899,
+    "esiNo": 5604409223,
+    "name": "M.PUSHPALATHA",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006945,
+    "ALT BANK ACNO": "CSB 0019-03779596-190801"
+  },
+  {
+    "ticketNo": 12,
+    "uan": 100211191886,
+    "esiNo": 5604510852,
+    "name": "M SUMATHI ",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 34697824716,
+    "ALT BANK ACNO": "CSB 0019-03701089-190801"
+  },
+  {
+    "ticketNo": 13,
+    "uan": 101165411503,
+    "esiNo": 5606945893,
+    "name": "MUTHARASU MOTTAIYAN",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008772,
+    "ALT BANK ACNO": "CSB 0378-07067560-190801"
+  },
+  {
+    "ticketNo": 14,
+    "uan": 101258738760,
+    "esiNo": 5605224363,
+    "name": "RAJESHWARI.M",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466007075,
+    "ALT BANK ACNO": "CSB 0378-03954016-190801"
+  },
+  {
+    "ticketNo": 15,
+    "uan": 101287748625,
+    "esiNo": 5607276365,
+    "name": "SHANTHI",
+    "salary": [
+      {
+        "basicPerDay": 195,
+        "hraPerDay": 130,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 325,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466007020,
+    "ALT BANK ACNO": "CSB 0378-07069465-190801"
+  },
+  {
+    "ticketNo": 16,
+    "uan": 101348690352,
+    "esiNo": 5604344881,
+    "name": "RANGAMMAL.S",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006774,
+    "ALT BANK ACNO": "CSB 0019-03939305-190801"
+  },
+  {
+    "ticketNo": 17,
+    "uan": 101356641119,
+    "esiNo": 5605295393,
+    "name": "NALINI THIRUMOORTHI",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006990,
+    "ALT BANK ACNO": "CSB 0378-07090063-190801"
+  },
+  {
+    "ticketNo": 18,
+    "uan": 101468616254,
+    "esiNo": 5607893200,
+    "name": "JAGANATHASAMY RAMASAMY",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006934,
+    "ALT BANK ACNO": "CSB 0378-07158461-190801"
+  },
+  {
+    "ticketNo": 19,
+    "uan": 100211189138,
+    "esiNo": 5600188188,
+    "name": "CHULOCHANA MANOKARAN",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006741,
+    "ALT BANK ACNO": "CSB 0019-03675769-190801"
+  },
+  {
+    "ticketNo": 20,
+    "uan": 100263518115,
+    "esiNo": 5600187773,
+    "name": "P JAYALAKSHMI ",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39452439579,
+    "ALT BANK ACNO": "CSB 0019-03675792-190801"
+  },
+  {
+    "ticketNo": 21,
+    "uan": 101493639968,
+    "esiNo": 5608002420,
+    "name": "KAVITHA GOPI",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008716,
+    "ALT BANK ACNO": "CSB 0378-07186348-190801"
+  },
+  {
+    "ticketNo": 22,
+    "uan": 101544234367,
+    "esiNo": 5608171563,
+    "name": "K.P.SUNDAR",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 34468977720,
+    "ALT BANK ACNO": "CSB 0378-07217394-190801"
+  },
+  {
+    "ticketNo": 23,
+    "uan": 101194134234,
+    "esiNo": 5608173211,
+    "name": "KRISHNAMOORTHY RAMASAMY",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006967,
+    "ALT BANK ACNO": "CSB 0378-07217205-190801"
+  },
+  {
+    "ticketNo": 24,
+    "uan": 101554276948,
+    "esiNo": 5608238069,
+    "name": "KANGAMANI",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 33203108206,
+    "ALT BANK ACNO": "CSB 0378-07226568-190801"
+  },
+  {
+    "ticketNo": 25,
+    "uan": 101031482664,
+    "esiNo": 5605595125,
+    "name": "SASIKALA MUNIRAJ",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 34446197633,
+    "ALT BANK ACNO": "CSB 0378-07224044-190801"
+  },
+  {
+    "ticketNo": 26,
+    "uan": 101113290041,
+    "esiNo": 5608238136,
+    "name": "SAKUNTHULA RAGUPATHI",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 30922999067,
+    "ALT BANK ACNO": "CSB 0378-07224045-190801"
+  },
+  {
+    "ticketNo": 27,
+    "uan": null,
+    "esiNo": 5608324502,
+    "name": "NAGARAJ",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 30450454254,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 28,
+    "uan": 101574112334,
+    "esiNo": 5608333081,
+    "name": "SUBBULAKSHMI SIVAKUMAR",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009719,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 29,
+    "uan": 101574112352,
+    "esiNo": 5608333418,
+    "name": "JOTHILAKSHMI RAVICHANDRAN",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009684,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 30,
+    "uan": 101170990507,
+    "esiNo": 5608333525,
+    "name": "AMSAVENI SELVAN",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009695,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 31,
+    "uan": 101387191268,
+    "esiNo": 5607598572,
+    "name": "SUBASH MOOPPAN",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20379764896,
+    "ALT BANK ACNO": "CSB 0378-07090078-190801"
+  },
+  {
+    "ticketNo": 32,
+    "uan": 101493638545,
+    "esiNo": 5608002430,
+    "name": "SHANMUGASUNDARI VIJAYAKUMAR",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466007019,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 33,
+    "uan": 101438077533,
+    "esiNo": 5608446737,
+    "name": "SARAVANAN S",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39674333604,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 34,
+    "uan": 100247845930,
+    "esiNo": 5608369979,
+    "name": "NAGARATHINAM",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "CASH",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 35,
+    "uan": 101581583526,
+    "esiNo": 5608370311,
+    "name": "SAKUNTHALAMANI",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39508415285,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 36,
+    "uan": 101193280561,
+    "esiNo": 5608365455,
+    "name": "RATHIGA",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39496926378,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 37,
+    "uan": 101147009166,
+    "esiNo": 5608446757,
+    "name": "LAKSHMI S",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39177286603,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 38,
+    "uan": 101493638532,
+    "esiNo": 5608447960,
+    "name": "SARASWATHI KANDASAMY",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "CASH",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": "0019-03785903-190801"
+  },
+  {
+    "ticketNo": 39,
+    "uan": 101599973078,
+    "esiNo": 5608447897,
+    "name": "SAVITHRI ",
+    "salary": [
+      {
+        "basicPerDay": 195,
+        "hraPerDay": 130,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 325,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39675238529,
+    "ALT BANK ACNO": "34640966494"
+  },
+  {
+    "ticketNo": 40,
+    "uan": 101339122802,
+    "esiNo": 5608447926,
+    "name": "KANAGAVALLI G",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 31253836740,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 41,
+    "uan": 101600885770,
+    "esiNo": 5608452122,
+    "name": "LOKENDRAN",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "CASH",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 42,
+    "uan": 101611209858,
+    "esiNo": 5608482737,
+    "name": "MYTHILI",
+    "salary": [
+      {
+        "basicPerDay": 195,
+        "hraPerDay": 130,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 325,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39671796532,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 43,
+    "uan": 101323807748,
+    "esiNo": 5608482990,
+    "name": "BABU",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39674364768,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 44,
+    "uan": 101564901378,
+    "esiNo": 5608288165,
+    "name": "SUMATHI SELVARAJ",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006978,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 45,
+    "uan": 101611209862,
+    "esiNo": 5608482999,
+    "name": "MAHESWARI A",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39900920175,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 46,
+    "uan": 101416654609,
+    "esiNo": 5608518817,
+    "name": "SANDHYA",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 32569727191,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 47,
+    "uan": 101622764500,
+    "esiNo": 5608518784,
+    "name": "THAGAMANI SURESHKUMAR",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "CASH",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 48,
+    "uan": 100003570069,
+    "esiNo": 5608518938,
+    "name": "BISWAJIT PATRA",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 35717280202,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 49,
+    "uan": 101339305369,
+    "esiNo": 5608518897,
+    "name": "PABITRA SIMAI",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 38450456300,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 50,
+    "uan": 101142482751,
+    "esiNo": 5608518922,
+    "name": "SHIBSHANKAR DAS",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 38849952192,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 51,
+    "uan": 101165411492,
+    "esiNo": 5606945961,
+    "name": "SRIDHAR SAE.B",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008750,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 52,
+    "uan": 100506285908,
+    "esiNo": 5604887455,
+    "name": "KALLOL PATRA",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 35736743361,
+    "ALT BANK ACNO": "CSB 0019-03767949-190801"
+  },
+  {
+    "ticketNo": 53,
+    "uan": 101371045294,
+    "esiNo": 5605820499,
+    "name": "UDDHABA BINDHANI",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008761,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 54,
+    "uan": 101444786733,
+    "esiNo": 5607801921,
+    "name": "SAROJ BEHERA",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008738,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 55,
+    "uan": 101312496071,
+    "esiNo": 5605333443,
+    "name": "SACHIN DEV GHORAI",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 36840771583,
+    "ALT BANK ACNO": "CSB 0019-03763708-190801"
+  },
+  {
+    "ticketNo": 56,
+    "uan": 101149309422,
+    "esiNo": 5605494391,
+    "name": "GANESH DAS",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 36738132080,
+    "ALT BANK ACNO": "CSB 0019-03763796-190801"
+  },
+  {
+    "ticketNo": 57,
+    "uan": 101178732761,
+    "esiNo": 5605599246,
+    "name": "KuanR SOREN",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "CASH",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": "0378-07090080-190801"
+  },
+  {
+    "ticketNo": 58,
+    "uan": 101522003912,
+    "esiNo": 5608184505,
+    "name": "SALKHAN MURMU",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008705,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 59,
+    "uan": 101418118135,
+    "esiNo": 5607701986,
+    "name": "SUDAM SOREN",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009130,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 60,
+    "uan": 101418118126,
+    "esiNo": 5607702862,
+    "name": "SANKHA SOREN",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009141,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 61,
+    "uan": 101593001192,
+    "esiNo": 5608418651,
+    "name": "RENUKADEVI",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20257832131,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 62,
+    "uan": 101593001185,
+    "esiNo": 5608418650,
+    "name": "VASANTHAMANI L",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009786,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 63,
+    "uan": 101593001163,
+    "esiNo": 5608418646,
+    "name": "R.RANGASAMY",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009797,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 64,
+    "uan": 101341797092,
+    "esiNo": 5608518955,
+    "name": "SUBHANKAR JANA",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 38458139554,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 65,
+    "uan": 100064549352,
+    "esiNo": 5608543723,
+    "name": "RAVICHANDRAN THANGAVEL",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39869138126,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 66,
+    "uan": 101630842018,
+    "esiNo": 5608543750,
+    "name": "RAVIKUMAR RANGARAJ",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39872233740,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 67,
+    "uan": 101590375210,
+    "esiNo": 5608572304,
+    "name": "MENAGA",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 40067061967,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 68,
+    "uan": 101287748602,
+    "esiNo": 5608591498,
+    "name": "J FAMITHA BANU",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 34787114782,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 69,
+    "uan": 101506654099,
+    "esiNo": 5608591504,
+    "name": "RESHMA",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20284571072,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 70,
+    "uan": 101160380835,
+    "esiNo": 5608591510,
+    "name": "RADHAMANI",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 31177518055,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 71,
+    "uan": 101640104553,
+    "esiNo": 5608591520,
+    "name": "NAGALAKSHMI",
+    "salary": [
+      {
+        "basicPerDay": 195,
+        "hraPerDay": 130,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 325,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20313230215,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 72,
+    "uan": 100674626284,
+    "esiNo": 5608625287,
+    "name": "KAVITHA K",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 30128854070,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 73,
+    "uan": 101489583763,
+    "esiNo": 5608625145,
+    "name": "GANESWARA BAGHA",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39896385582,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 74,
+    "uan": 101647625598,
+    "esiNo": 5608625085,
+    "name": "G JOTHI",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39896073300,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 75,
+    "uan": 101647625580,
+    "esiNo": 5608625267,
+    "name": "SHUBHAJIT MAITY",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39891222293,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 76,
+    "uan": 101459295538,
+    "esiNo": 5608625066,
+    "name": "DEBU TINGUA",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39901099190,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 77,
+    "uan": 101659395860,
+    "esiNo": 5608670390,
+    "name": "BANABIHARI TUDU",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 35376392308,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 78,
+    "uan": 101662723005,
+    "esiNo": 5608691326,
+    "name": "RABI TINGUYA",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 40035340278,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 79,
+    "uan": 101371446085,
+    "esiNo": 5608691887,
+    "name": "SUSHIL",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 40035339240,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 80,
+    "uan": 101258738773,
+    "esiNo": 5607188533,
+    "name": "SANJIB PRADHAN",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 35749205237,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 81,
+    "uan": 101342073589,
+    "esiNo": 5608713098,
+    "name": "MAHESH",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 40056309458,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 82,
+    "uan": 101666946474,
+    "esiNo": 5608711670,
+    "name": "SURJYA KANTA PATRA",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39749605940,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 83,
+    "uan": 101240324864,
+    "esiNo": 5608711876,
+    "name": "SUMATHI ",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 40095301634,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 84,
+    "uan": 101478114352,
+    "esiNo": 5608711719,
+    "name": "PRAKASH KUMAR",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 40056112510,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 85,
+    "uan": 101341867401,
+    "esiNo": 5608711589,
+    "name": "NISHIKANTAPATRA",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 34759556144,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 86,
+    "uan": 101666946461,
+    "esiNo": 5608711773,
+    "name": "ASWINI PARTA",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 40055282812,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 87,
+    "uan": 101478099835,
+    "esiNo": 5608727480,
+    "name": "ABHISHEK KUMAR",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "CASH",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 88,
+    "uan": 101344075391,
+    "esiNo": 5608727212,
+    "name": "VRIJESH",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "CASH",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 89,
+    "uan": 101547021138,
+    "esiNo": 5608727166,
+    "name": "FANINDRA TUDU",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "CASH",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 90,
+    "uan": 101207509089,
+    "esiNo": 5608727016,
+    "name": "ANITHA M",
+    "salary": [
+      {
+        "basicPerDay": 207,
+        "hraPerDay": 138,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 345,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 38863611246,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 91,
+    "uan": 101308732876,
+    "esiNo": 5608727105,
+    "name": "ROSHAN",
+    "salary": [
+      {
+        "basicPerDay": 222,
+        "hraPerDay": 148,
+        "category": "CASUAL"
+      }
+    ],
+    "WAGESPERDAY": 370,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 40058600059,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 2001,
+    "uan": null,
+    "esiNo": 5605643815,
+    "name": "RAMAKRISHNAN JOGHEE",
+    "salary": [
+      {
+        "basicPerDay": 306,
+        "hraPerDay": 204,
+        "category": "SECURITY"
+      }
+    ],
+    "WAGESPERDAY": 510,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006548,
+    "ALT BANK ACNO": "CSB 0378-03954010-190801"
+  },
+  {
+    "ticketNo": 2002,
+    "uan": null,
+    "esiNo": 5603345468,
+    "name": "GANESHAN.S",
+    "salary": [
+      {
+        "basicPerDay": 258,
+        "hraPerDay": 172,
+        "category": "SECURITY"
+      }
+    ],
+    "WAGESPERDAY": 430,
+    "PYMTMODE": "CHEQUE",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": "CSB 0378-07205635-190801"
+  },
+  {
+    "ticketNo": 2003,
+    "uan": null,
+    "esiNo": 5129828839,
+    "name": "VIJAYA KUMAR J",
+    "salary": [
+      {
+        "basicPerDay": 183,
+        "hraPerDay": 122,
+        "category": "SECURITY"
+      }
+    ],
+    "WAGESPERDAY": 305,
+    "PYMTMODE": "CHEQUE",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 2004,
+    "uan": null,
+    "esiNo": 5608518844,
+    "name": "N SIVAN",
+    "salary": [
+      {
+        "basicPerDay": 159,
+        "hraPerDay": 106,
+        "category": "SECURITY"
+      }
+    ],
+    "WAGESPERDAY": 265,
+    "PYMTMODE": "CHEQUE",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 2005,
+    "uan": 100025550816,
+    "esiNo": 5608447868,
+    "name": "K RADHAKRISHNAN",
+    "salary": [
+      {
+        "basicPerDay": 159,
+        "hraPerDay": 106,
+        "category": "SECURITY"
+      }
+    ],
+    "WAGESPERDAY": 265,
+    "PYMTMODE": "CHEQUE",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 2006,
+    "uan": 101105101534,
+    "esiNo": 5608543694,
+    "name": "PADMANABHAN N",
+    "salary": [
+      {
+        "basicPerDay": 258,
+        "hraPerDay": 172,
+        "category": "SECURITY"
+      }
+    ],
+    "WAGESPERDAY": 430,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 33375072622,
+    "ALT BANK ACNO": "33375072622"
+  },
+  {
+    "ticketNo": 2007,
+    "uan": null,
+    "esiNo": 5608625037,
+    "name": "KUMAR",
+    "salary": [
+      {
+        "basicPerDay": 258,
+        "hraPerDay": 172,
+        "category": "SECURITY"
+      }
+    ],
+    "WAGESPERDAY": 430,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20331309332,
+    "ALT BANK ACNO": "20331309332"
+  },
+  {
+    "ticketNo": 2008,
+    "uan": null,
+    "esiNo": 5608670301,
+    "name": "SWAMYNTHAN A",
+    "salary": [
+      {
+        "basicPerDay": 258,
+        "hraPerDay": 172,
+        "category": "SECURITY"
+      }
+    ],
+    "WAGESPERDAY": 430,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 38543666028,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 2009,
+    "uan": 101572888825,
+    "esiNo": 5608670345,
+    "name": "MOORTHY",
+    "salary": [
+      {
+        "basicPerDay": 258,
+        "hraPerDay": 172,
+        "category": "SECURITY"
+      }
+    ],
+    "WAGESPERDAY": 430,
+    "PYMTMODE": "CHEQUE",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": "40035341090"
+  },
+  {
+    "ticketNo": 3001,
+    "uan": 100071066336,
+    "esiNo": 5602787709,
+    "name": "RADHAKRISHNAN",
+    "salary": [
+      {
+        "basicPerDay": 393,
+        "hraPerDay": 261,
+        "category": "STAFF2"
+      }
+    ],
+    "WAGESPERDAY": 654,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 30237723530,
+    "ALT BANK ACNO": "CSB 0019-03677418-190801"
+  },
+  {
+    "ticketNo": 3002,
+    "uan": 100504678229,
+    "esiNo": 5605455205,
+    "name": "A.DEVI",
+    "salary": [
+      {
+        "basicPerDay": 243,
+        "hraPerDay": 161,
+        "category": "STAFF2"
+      }
+    ],
+    "WAGESPERDAY": 404,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39261307141,
+    "ALT BANK ACNO": "CSB 0019-03675566-190801"
+  },
+  {
+    "ticketNo": 3003,
+    "uan": null,
+    "esiNo": 5603349981,
+    "name": "R.RANGARAJ ",
+    "salary": [
+      {
+        "basicPerDay": 370,
+        "hraPerDay": 246,
+        "category": "STAFF2"
+      }
+    ],
+    "WAGESPERDAY": 616,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 30237723212,
+    "ALT BANK ACNO": "CSB 0019-03762302-190801"
+  },
+  {
+    "ticketNo": 3004,
+    "uan": 101156939073,
+    "esiNo": 5607007622,
+    "name": "RAMAR MUTHUSAMY",
+    "salary": [
+      {
+        "basicPerDay": 462,
+        "hraPerDay": 307,
+        "category": "STAFF2"
+      }
+    ],
+    "WAGESPERDAY": 769,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20280137819,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 3005,
+    "uan": 101493638521,
+    "esiNo": 5608005447,
+    "name": "SAVITHRI",
+    "salary": [
+      {
+        "basicPerDay": 347,
+        "hraPerDay": 230,
+        "category": "STAFF2"
+      }
+    ],
+    "WAGESPERDAY": 577,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008669,
+    "ALT BANK ACNO": "CSB 0378-07183999-190801"
+  },
+  {
+    "ticketNo": 3006,
+    "uan": 101515482801,
+    "esiNo": 5608109005,
+    "name": "POORNACHANDRAN BOSS",
+    "salary": [
+      {
+        "basicPerDay": 404,
+        "hraPerDay": 269,
+        "category": "STAFF2"
+      }
+    ],
+    "WAGESPERDAY": 673,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 38651264621,
+    "ALT BANK ACNO": "CSB 0378-07207175-190801"
+  },
+  {
+    "ticketNo": 4001,
+    "uan": 100070531939,
+    "esiNo": null,
+    "name": "BALAMURUGAN ANNAMALAI",
+    "salary": [
+      {
+        "basicPerDay": 704,
+        "hraPerDay": 469.1,
+        "category": "STAFF1"
+      }
+    ],
+    "WAGESPERDAY": 1173.1,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 30409757781,
+    "ALT BANK ACNO": "CSB 0019-02513954-190001"
+  },
+  {
+    "ticketNo": 4002,
+    "uan": 100288086122,
+    "esiNo": 5603506797,
+    "name": "R GUNASEKARAN ",
+    "salary": [
+      {
+        "basicPerDay": 461.4,
+        "hraPerDay": 307.6,
+        "category": "STAFF1"
+      }
+    ],
+    "WAGESPERDAY": 769,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 38719436393,
+    "ALT BANK ACNO": "CSB 0019-03675947-190801"
+  },
+  {
+    "ticketNo": 4003,
+    "uan": null,
+    "esiNo": 5603513757,
+    "name": "MANI BOOPATHI",
+    "salary": [
+      {
+        "basicPerDay": 365,
+        "hraPerDay": 243,
+        "category": "STAFF1"
+      }
+    ],
+    "WAGESPERDAY": 608,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008455,
+    "ALT BANK ACNO": "CSB 0019-03675955-190801"
+  },
+  {
+    "ticketNo": 4004,
+    "uan": 101455380943,
+    "esiNo": 5607814256,
+    "name": "BALAKRISHNAN.M",
+    "salary": [
+      {
+        "basicPerDay": 341,
+        "hraPerDay": 229,
+        "category": "STAFF1"
+      }
+    ],
+    "WAGESPERDAY": 570,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008670,
+    "ALT BANK ACNO": "CSB 0378-07139510-190801"
+  },
+  {
+    "ticketNo": 4005,
+    "uan": 100739006974,
+    "esiNo": 5606235714,
+    "name": "KALAIVANI.V",
+    "salary": [
+      {
+        "basicPerDay": 307,
+        "hraPerDay": 205,
+        "category": "STAFF1"
+      }
+    ],
+    "WAGESPERDAY": 512,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006763,
+    "ALT BANK ACNO": "CSB 0378-07158460-190801"
+  },
+  {
+    "ticketNo": 4006,
+    "uan": 100148221496,
+    "esiNo": 5602718393,
+    "name": "GOPALAN SEENU G",
+    "salary": [
+      {
+        "basicPerDay": 415,
+        "hraPerDay": 278,
+        "category": "STAFF1"
+      }
+    ],
+    "WAGESPERDAY": 693,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009628,
+    "ALT BANK ACNO": "20466009628"
+  },
+  {
+    "ticketNo": 4007,
+    "uan": 100574702829,
+    "esiNo": 5605891629,
+    "name": "B.RAMYA",
+    "salary": [
+      {
+        "basicPerDay": 300,
+        "hraPerDay": 200,
+        "category": "STAFF1"
+      }
+    ],
+    "WAGESPERDAY": 500,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006956,
+    "ALT BANK ACNO": "CSB 0019-03704211-190801"
+  },
+  {
+    "ticketNo": 4008,
+    "uan": 100511879530,
+    "esiNo": 5605418449,
+    "name": "NIRMALA .C",
+    "salary": [
+      {
+        "basicPerDay": 346.2,
+        "hraPerDay": 230.8,
+        "category": "STAFF1"
+      }
+    ],
+    "WAGESPERDAY": 577,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20155164305,
+    "ALT BANK ACNO": "CSB 0378-07209723-190801"
+  },
+  {
+    "ticketNo": 4009,
+    "uan": 100143116189,
+    "esiNo": null,
+    "name": "M.DHALAVAIKUMAR",
+    "salary": [
+      {
+        "basicPerDay": 647,
+        "hraPerDay": 430,
+        "category": "STAFF1"
+      }
+    ],
+    "WAGESPERDAY": 1077,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 32210227437,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 4010,
+    "uan": 101636321981,
+    "esiNo": 5608572332,
+    "name": "SIVAPRIYA MOORTHI",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "STAFF1"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 36294603835,
+    "ALT BANK ACNO": "36294603835"
+  },
+  {
+    "ticketNo": 4011,
+    "uan": 100924371460,
+    "esiNo": 5608691849,
+    "name": "DEEPAGAN RAJENDRAN",
+    "salary": [
+      {
+        "basicPerDay": 312,
+        "hraPerDay": 207.23,
+        "category": "STAFF1"
+      }
+    ],
+    "WAGESPERDAY": 519.23,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 38283924722,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 5001,
+    "uan": null,
+    "esiNo": null,
+    "name": "SOMARAJ.S",
+    "salary": [
+      {
+        "basicPerDay": 827,
+        "hraPerDay": null,
+        "category": "EXEMPTED"
+      }
+    ],
+    "WAGESPERDAY": 827,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 10122256382,
+    "ALT BANK ACNO": "CSB 0019-03917940-190801"
+  },
+  {
+    "ticketNo": 5002,
+    "uan": null,
+    "esiNo": null,
+    "name": "R.VELLINGIRI",
+    "salary": [
+      {
+        "basicPerDay": 827,
+        "hraPerDay": null,
+        "category": "EXEMPTED"
+      }
+    ],
+    "WAGESPERDAY": 827,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20002488428,
+    "ALT BANK ACNO": "CSB 0019-03931599-190801"
+  },
+  {
+    "ticketNo": 5003,
+    "uan": null,
+    "esiNo": null,
+    "name": "L.RAJENDRAN",
+    "salary": [
+      {
+        "basicPerDay": 827,
+        "hraPerDay": null,
+        "category": "EXEMPTED"
+      }
+    ],
+    "WAGESPERDAY": 827,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20257830972,
+    "ALT BANK ACNO": "CSB 0019-03931232-190801"
+  },
+  {
+    "ticketNo": 5004,
+    "uan": null,
+    "esiNo": null,
+    "name": "S.RUKKUMANI",
+    "salary": [
+      {
+        "basicPerDay": 827,
+        "hraPerDay": null,
+        "category": "EXEMPTED"
+      }
+    ],
+    "WAGESPERDAY": 827,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006650,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 6001,
+    "uan": 100324465884,
+    "esiNo": 5600188976,
+    "name": "S.PREMA",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 30157884929,
+    "ALT BANK ACNO": "CSB 0019-03676513-190801"
+  },
+  {
+    "ticketNo": 6002,
+    "uan": 100398662006,
+    "esiNo": 5600189669,
+    "name": "V POONGODI ",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39550228725,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 6003,
+    "uan": 100030130195,
+    "esiNo": 5604821613,
+    "name": "THULASIMANI",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006571,
+    "ALT BANK ACNO": "CSB 0019-03765445-190801"
+  },
+  {
+    "ticketNo": 6004,
+    "uan": 100506258669,
+    "esiNo": 5605599770,
+    "name": "SAKUNTHALA",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 39487470155,
+    "ALT BANK ACNO": "CSB 0019-03675610-190801"
+  },
+  {
+    "ticketNo": 6005,
+    "uan": 100506119394,
+    "esiNo": 5605599885,
+    "name": "RAMATHAL",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 35725493265,
+    "ALT BANK ACNO": "CSB 0019-03765534-190801"
+  },
+  {
+    "ticketNo": 6006,
+    "uan": 100645970702,
+    "esiNo": 5605971909,
+    "name": "JOTHIMANI MASTHANNAN",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 31143757058,
+    "ALT BANK ACNO": "CSB 0019-03785795-190801"
+  },
+  {
+    "ticketNo": 6007,
+    "uan": 101493638550,
+    "esiNo": 5604821569,
+    "name": "CHANDRAKALA CHINNASAMY",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466007188,
+    "ALT BANK ACNO": "CSB 0019-03786023-190801"
+  },
+  {
+    "ticketNo": 6008,
+    "uan": 100288557170,
+    "esiNo": 5604307113,
+    "name": "R.RAJESWARI",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008692,
+    "ALT BANK ACNO": "CSB 0378-07217396-190801"
+  },
+  {
+    "ticketNo": 6009,
+    "uan": 100740329745,
+    "esiNo": 5606119710,
+    "name": "RAJALAKSHMI NAGARAJ",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466008193,
+    "ALT BANK ACNO": "CSB 0378-07217392-190801"
+  },
+  {
+    "ticketNo": 6010,
+    "uan": 101357438096,
+    "esiNo": 5604829397,
+    "name": "RENUKADEVI RAJAPANDI",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466006923,
+    "ALT BANK ACNO": "CSB 0019-03809867-190801"
+  },
+  {
+    "ticketNo": 6011,
+    "uan": 101588106068,
+    "esiNo": 5608392100,
+    "name": "PRIYA SURESHKUMAR",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009708,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 6012,
+    "uan": 101593001159,
+    "esiNo": 5608418653,
+    "name": "RENUKADEVI",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009775,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 6013,
+    "uan": 101593001171,
+    "esiNo": 5608418655,
+    "name": "NEELAVADHI V",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 33908093413,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 6014,
+    "uan": 101599757130,
+    "esiNo": 5608446680,
+    "name": "KALAIVANI",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "CASH",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 6015,
+    "uan": 101598462473,
+    "esiNo": 5608438458,
+    "name": "RUKMANI",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "CASH",
+    "salaryAccountNumber": null,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 6016,
+    "uan": 101598462487,
+    "esiNo": 5608438476,
+    "name": "LAKHSMI ",
+    "salary": [
+      {
+        "basicPerDay": 231,
+        "hraPerDay": 154,
+        "category": "REELING"
+      }
+    ],
+    "WAGESPERDAY": 385,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 38281740215,
+    "ALT BANK ACNO": ""
+  },
+  {
+    "ticketNo": 7001,
+    "uan": null,
+    "esiNo": null,
+    "name": "SEKARGANESH KRISHNASAMY",
+    "salary": [
+      {
+        "basicPerDay": 539,
+        "hraPerDay": null,
+        "category": "WEG"
+      }
+    ],
+    "WAGESPERDAY": 539,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009720,
+    "ALT BANK ACNO": "0378-07090072-190801"
+  },
+  {
+    "ticketNo": 7002,
+    "uan": null,
+    "esiNo": null,
+    "name": "JAYAKUMAR MYILSAMY",
+    "salary": [
+      {
+        "basicPerDay": 177,
+        "hraPerDay": null,
+        "category": "WEG"
+      }
+    ],
+    "WAGESPERDAY": 177,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009742,
+    "ALT BANK ACNO": "0378-07090067-190801"
+  },
+  {
+    "ticketNo": 7003,
+    "uan": null,
+    "esiNo": null,
+    "name": "RAJAMANIKAM",
+    "salary": [
+      {
+        "basicPerDay": 154,
+        "hraPerDay": null,
+        "category": "WEG"
+      }
+    ],
+    "WAGESPERDAY": 154,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009753,
+    "ALT BANK ACNO": "0378-07090065-190801"
+  },
+  {
+    "ticketNo": 7004,
+    "uan": null,
+    "esiNo": null,
+    "name": "ARULKUMAR ARUSAMY",
+    "salary": [
+      {
+        "basicPerDay": 177,
+        "hraPerDay": null,
+        "category": "WEG"
+      }
+    ],
+    "WAGESPERDAY": 177,
+    "PYMTMODE": "SBI",
+    "salaryAccountNumber": 20466009731,
+    "ALT BANK ACNO": "0378-07090098-190801"
+  }
+]

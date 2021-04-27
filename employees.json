@@ -1,0 +1,119 @@
+[
+  {
+    "_id": {
+      "$oid": "602796615cad867bbc35dd99"
+    },
+    "ticketNo": 1000,
+    "type": "ActiveEmployee",
+    "aadharNo": 687952440666,
+    "dob": "1987-10-05T14:48:00.000Z",
+    "name": "Sharavanth R",
+    "gender": "",
+    "mobileNo": "",
+    "currentAddress": "DASDASFDAF S fas",
+    "permanentAddress": "DASDASFdasdasDAF S fas",
+    "salaryAccountNumber": 1233412412,
+    "pfAccountNumber": 1233412412,
+    "payments": {
+      "salaryPaymentMode": "",
+      "salaryAccountDetails": {
+        "bank": "",
+        "accountNo": "",
+        "ifsc": ""
+      },
+      "pfAccountDetails": {
+        "bank": "",
+        "accountNo": "",
+        "ifsc": ""
+      }
+    },
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2000-11-02T18:30:00.000Z",
+        "category": "STAFF1",
+        "basicPerDay": 1200,
+        "hraPerDay": 500
+      }
+    ],
+    "esiNo": 1234567890,
+    "uan": 123456789101,
+    "dol": "2039-11-02T18:30:00.000Z",
+    "otDetails": [],
+    "wageDetails": [
+      {
+        "netSalary": 3076,
+        "takeHomePay": 3080,
+        "roundOff": 4,
+        "grossSalary": 3400,
+        "salaryPerDay": 1700,
+        "esiContribution": 136,
+        "year": 2021,
+        "month": 2,
+        "epf": {
+          "epfWages": 2400,
+          "epsWages": 2400,
+          "epsContribution": 200,
+          "edliWages": 2400,
+          "ncpDays": 24,
+          "epfAndEpsDiffContribution": 88
+        },
+        "deductions": {
+          "pfContribution": 288,
+          "esiContribution": 136,
+          "teaDeduction": null,
+          "advanceDeduction": null,
+          "otherDeduction": null,
+          "total": 424
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 2,
+          "incEligibleDays": 2
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 100,
+          "total": 100
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "603ca5043960e648040e8e77"
+    },
+    "ticketNo": 4000,
+    "type": "ActiveEmployee",
+    "aadharNo": 981149064796,
+    "dob": "1990-02-28T18:30:00.000Z",
+    "name": "JAYA Kanagaraj",
+    "currentAddress": "XYZ",
+    "permanentAddress": "SAME AS ABOVE",
+    "salaryAccountNumber": 31248788090,
+    "pfAccountNumber": 59473890502,
+    "salary": [
+      {
+        "dol": "2021-03-29T18:30:00.000Z",
+        "doj": "2021-03-01T18:30:00.000Z",
+        "category": "CASUAL",
+        "basicPerDay": 195,
+        "hraPerDay": 130
+      },
+      {
+        "dol": null,
+        "doj": "2021-04-01T18:30:00.000Z",
+        "category": "CASUAL",
+        "basicPerDay": 150,
+        "hraPerDay": 450
+      }
+    ],
+    "wageDetails": [],
+    "otDetails": [],
+    "esiNo": 5600183431,
+    "uan": 101355258167,
+    "dol": "2021-03-29T18:30:00.000Z"
+  }
+]

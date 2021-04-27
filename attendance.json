@@ -1,0 +1,127 @@
+[
+  {
+    "_id": {
+      "$oid": "602bb2c68a225adc6a04d234"
+    },
+    "period": {
+      "day": 1,
+      "month": 2,
+      "year": 2021
+    },
+    "attendance": [
+      {
+        "ticketNo": 1000,
+        "flag": "P"
+      }
+    ],
+    "ot": [
+      {
+        "ticketNo": 1000,
+        "hrs": 10
+      }
+    ],
+    "lastUpdate": {
+      "$date": "2021-01-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "602ced48967e7517c82d5f5e"
+    },
+    "period": {
+      "day": 1,
+      "month": 2,
+      "year": 2021
+    },
+    "attendance": [
+      {
+        "ticketNo": 1000,
+        "flag": "P"
+      }
+    ],
+    "ot": [
+      {
+        "ticketNo": 1000,
+        "hrs": 10
+      }
+    ],
+    "lastUpdate": {
+      "$date": "2021-01-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "602cf3e0967e7517c82d5f5f"
+    },
+    "period": {
+      "day": 1,
+      "month": 2,
+      "year": 2021
+    },
+    "attendance": [
+      {
+        "ticketNo": 1000,
+        "flag": "WH"
+      }
+    ],
+    "ot": [
+      {
+        "ticketNo": 1000,
+        "hrs": 10
+      }
+    ],
+    "lastUpdate": {
+      "$date": "2021-01-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "602cf9e0967e7517c82d5f60"
+    },
+    "period": {
+      "day": 1,
+      "month": 2,
+      "year": 2021
+    },
+    "attendance": [
+      {
+        "ticketNo": 1000,
+        "flag": "A"
+      }
+    ],
+    "ot": [
+      {
+        "ticketNo": 1000,
+        "hrs": 10
+      }
+    ],
+    "lastUpdate": {
+      "$date": "2021-01-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "602cf9ef967e7517c82d5f61"
+    },
+    "period": {
+      "day": 1,
+      "month": 2,
+      "year": 2021
+    },
+    "attendance": [
+      {
+        "ticketNo": 1000,
+        "flag": "WH"
+      }
+    ],
+    "ot": [
+      {
+        "ticketNo": 1000,
+        "hrs": 10
+      }
+    ],
+    "lastUpdate": {
+      "$date": "2021-01-01T00:00:00Z"
+    }
+  }
+]
