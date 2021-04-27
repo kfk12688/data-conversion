@@ -1,6 +1,0 @@
-_id,attendance,lastUpdate,ot,period.day,period.month,period.year
-602bb2c68a225adc6a04d234,"[{""ticketNo"":1000,""flag"":""P""}]",2021-01-01T00:00:00.000Z,"[{""ticketNo"":1000,""hrs"":10}]",1,2,2021
-602ced48967e7517c82d5f5e,"[{""ticketNo"":1000,""flag"":""P""}]",2021-01-01T00:00:00.000Z,"[{""ticketNo"":1000,""hrs"":10}]",1,2,2021
-602cf3e0967e7517c82d5f5f,"[{""ticketNo"":1000,""flag"":""WH""}]",2021-01-01T00:00:00.000Z,"[{""ticketNo"":1000,""hrs"":10}]",1,2,2021
-602cf9e0967e7517c82d5f60,"[{""ticketNo"":1000,""flag"":""A""}]",2021-01-01T00:00:00.000Z,"[{""ticketNo"":1000,""hrs"":10}]",1,2,2021
-602cf9ef967e7517c82d5f61,"[{""ticketNo"":1000,""flag"":""WH""}]",2021-01-01T00:00:00.000Z,"[{""ticketNo"":1000,""hrs"":10}]",1,2,2021
