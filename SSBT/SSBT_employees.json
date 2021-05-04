@@ -1,0 +1,5405 @@
+[
+  {
+    "ticketNo": 1,
+    "type": "ActiveEmployee",
+    "aadharNo": 593732596908,
+    "dob": "1969-06-10T12:00:00.000Z",
+    "name": "AAYILYAM G",
+    "gender": "Male",
+    "mobileNumber": "9092473447",
+    "currentAddress": "971 Sri Bharathi Nagar,Naickenpalayam,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "971 Sri Bharathi Nagar,Naickenpalayam,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2009-01-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20211396141",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903675888190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100148096074,
+    "esiNo": 5603507469,
+    "dol": null
+  },
+  {
+    "ticketNo": 2,
+    "type": "ActiveEmployee",
+    "aadharNo": 971201946935,
+    "dob": "1973-06-04T12:00:00.000Z",
+    "name": "R MARUTHASALAM",
+    "gender": "Male",
+    "mobileNumber": "9790131700",
+    "currentAddress": "54,Chandra Nagar,Govindanaickanpalayam,Athipalayam,Coimbatore,Tamilnadu",
+    "permanentAddress": "54,Chandra Nagar,Govindanaickanpalayam,Athipalayam,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2009-01-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "31561299158",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903677336190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100288327649,
+    "esiNo": 5603507470,
+    "dol": null
+  },
+  {
+    "ticketNo": 3,
+    "type": "ActiveEmployee",
+    "aadharNo": 803787604899,
+    "dob": "1979-03-05T12:00:00.000Z",
+    "name": "M INDIRANI",
+    "gender": "Female",
+    "mobileNumber": "9003371886",
+    "currentAddress": "182 197 Makaliamman Kovil St,Palaiya Pudhur,Cbe,Coimbatore,Tamilnadu",
+    "permanentAddress": "182 197 Makaliamman Kovil St,Palaiya Pudhur,Cbe,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2009-10-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466008206",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903677368190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100210061792,
+    "esiNo": 5600188978,
+    "dol": null
+  },
+  {
+    "ticketNo": 4,
+    "type": "ActiveEmployee",
+    "aadharNo": 216092411662,
+    "dob": "1965-02-07T12:00:00.000Z",
+    "name": "K.C.SUBRAMANI",
+    "gender": "Male",
+    "mobileNumber": "9787601745",
+    "currentAddress": "1/294, Happy Garden Colony,,Rakkipalayam (Po),Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "1/294, Happy Garden Colony,,Rakkipalayam (Po),Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2012-01-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006730",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Indian Overseas Bank",
+        "bankCode": "IOBA",
+        "branch": "Kurudampalayam",
+        "accountNumber": "061601000007704",
+        "ifsc": "IOBA0000616"
+      }
+    ],
+    "uan": 100183255341,
+    "esiNo": 5604411970,
+    "dol": null
+  },
+  {
+    "ticketNo": 5,
+    "type": "ActiveEmployee",
+    "aadharNo": 529433459659,
+    "dob": "1967-07-01T12:00:00.000Z",
+    "name": "R.YOGANATHAN",
+    "gender": "Male",
+    "mobileNumber": "8098622105",
+    "currentAddress": "C7, Indira Nagar,Nsn Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "C7, Indira Nagar,Nsn Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2014-05-02T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "34640966915",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "34640966915",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 100044909859,
+    "esiNo": 5604765893,
+    "dol": null
+  },
+  {
+    "ticketNo": 6,
+    "type": "ActiveEmployee",
+    "aadharNo": 765255390001,
+    "dob": "1974-11-10T12:00:00.000Z",
+    "name": "R MANJULA",
+    "gender": "Female",
+    "mobileNumber": "7708925928",
+    "currentAddress": "3/22, Savadi St, West Pdu,Palayam, Kovai,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "3/22, Savadi St, West Pdu,Palayam, Kovai,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2006-07-22T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "32664113412",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903675731190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100288314576,
+    "esiNo": 5600185552,
+    "dol": null
+  },
+  {
+    "ticketNo": 9,
+    "type": "InctiveEmployee",
+    "aadharNo": 492220236407,
+    "dob": "1982-11-15T12:00:00.000Z",
+    "name": "D VELUMANI",
+    "gender": "Female",
+    "mobileNumber": "9786323027",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2011-02-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39487472539",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Ramakrishna Vidyalaya",
+        "accountNumber": "34740342553",
+        "ifsc": "SBIN0001541"
+      }
+    ],
+    "uan": 100129053786,
+    "esiNo": 5600731306,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 10,
+    "type": "ActiveEmployee",
+    "aadharNo": 889984543661,
+    "dob": "1980-01-03T12:00:00.000Z",
+    "name": "P.GOMATHI",
+    "gender": "Female",
+    "mobileNumber": "9566723575",
+    "currentAddress": "221/321, Gandhi Nagar - I,Gas Company,Thekkupalayam Po,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "221/321, Gandhi Nagar - I,Gas Company,Thekkupalayam Po,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2011-05-04T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "10122276568",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903677367190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100263454882,
+    "esiNo": 5604154260,
+    "dol": null
+  },
+  {
+    "ticketNo": 11,
+    "type": "ActiveEmployee",
+    "aadharNo": 305393095916,
+    "dob": "1973-05-23T12:00:00.000Z",
+    "name": "M.PUSHPALATHA",
+    "gender": "Female",
+    "mobileNumber": "9791725055",
+    "currentAddress": "43/1, Gandhinagar - I,Near Mariamman Kovil,Srkv Post,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "43/1, Gandhinagar - I,Near Mariamman Kovil,Srkv Post,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2017-07-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006945",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Ramakrishna Vidyalaya",
+        "accountNumber": "20284559656",
+        "ifsc": "SBIN0001541"
+      }
+    ],
+    "uan": 100210715899,
+    "esiNo": 5604409223,
+    "dol": null
+  },
+  {
+    "ticketNo": 12,
+    "type": "ActiveEmployee",
+    "aadharNo": 606849839378,
+    "dob": "1983-03-15T12:00:00.000Z",
+    "name": "M.SUMATHI",
+    "gender": "Female",
+    "mobileNumber": "9789152340",
+    "currentAddress": "42, Amsa Nagar,Selvapuram, Jothipuram,Coimbatore,Tamilnadu,641047",
+    "permanentAddress": "42, Amsa Nagar,Selvapuram, Jothipuram,Coimbatore,Tamilnadu,641047",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2012-05-20T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "34697824716",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903701089190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100211191886,
+    "esiNo": 5604510852,
+    "dol": null
+  },
+  {
+    "ticketNo": 13,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": "1968-04-13T12:00:00.000Z",
+    "name": "MUTHARASU MOTTAIYAN",
+    "gender": "Male",
+    "mobileNumber": "8940991417",
+    "currentAddress": "Sree Saravanabalaji Textiles (P) Ltd,Sf.No-88/2, Mtp Road,,Narasimanaicken Palayam,Coimbatore,Tamilnadu,641030",
+    "permanentAddress": "189A/104 B, Gandhi Nagar -1,9Th Street, Thekkupalaym,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2017-08-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466008772",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "037807067560190801",
+        "ifsc": "CSBK0000378"
+      }
+    ],
+    "uan": 101165411503,
+    "esiNo": 5606945893,
+    "dol": null
+  },
+  {
+    "ticketNo": 14,
+    "type": "ActiveEmployee",
+    "aadharNo": 844757699813,
+    "dob": "1988-02-27T12:00:00.000Z",
+    "name": "RAJESHWARI M",
+    "gender": "Female",
+    "mobileNumber": "9677677076",
+    "currentAddress": "100/4, R.V.Nagar,Srkv Post,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "Kirmanadu Stop,Kodanadu Estate,Kotagiri,The Nilgiris,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2018-02-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466007075",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "037803954016190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 101258738760,
+    "esiNo": 5605224363,
+    "dol": null
+  },
+  {
+    "ticketNo": 15,
+    "type": "ActiveEmployee",
+    "aadharNo": 947319209903,
+    "dob": "1970-04-03T12:00:00.000Z",
+    "name": "SHANTHI",
+    "gender": "Female",
+    "mobileNumber": "8940396714",
+    "currentAddress": "12/3 P , Teachers Colony,Narasimanaicken Palaym,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "5/332, Billicombai,Billicombai Post,Kagguchi, Kattabettu,The Nilgiris,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2018-04-24T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 195,
+        "hraPerDay": 130
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466007020",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "037807069465190801",
+        "ifsc": "CSBK0000378"
+      }
+    ],
+    "uan": 101287748625,
+    "esiNo": 5607276365,
+    "dol": null
+  },
+  {
+    "ticketNo": 16,
+    "type": "ActiveEmployee",
+    "aadharNo": 622953281643,
+    "dob": "1975-10-20T12:00:00.000Z",
+    "name": "RANGAMMAL S",
+    "gender": "Female",
+    "mobileNumber": "9942593895",
+    "currentAddress": "1/144, V.K.Palayam,Rakkipalayam (Po),Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "1/144, V.K.Palayam,Rakkipalayam (Po),Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-04-06T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006774",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006774",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101348690352,
+    "esiNo": 5604344881,
+    "dol": null
+  },
+  {
+    "ticketNo": 17,
+    "type": "InctiveEmployee",
+    "aadharNo": 282510464917,
+    "dob": "1974-11-14T12:00:00.000Z",
+    "name": "NALINI THIRUMOORTHI",
+    "gender": "Female",
+    "mobileNumber": "9655626061",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2018-09-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006990",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "037807090063190801",
+        "ifsc": "CSBK0000378"
+      }
+    ],
+    "uan": 101356641119,
+    "esiNo": 5605295393,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 18,
+    "type": "InctiveEmployee",
+    "aadharNo": 784081515614,
+    "dob": "1965-12-08T12:00:00.000Z",
+    "name": "JAGANATHASAMY RAMASAMY",
+    "gender": "Male",
+    "mobileNumber": "9442750485",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2019-06-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006934",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "037807158461190801",
+        "ifsc": "CSBK0000378"
+      }
+    ],
+    "uan": 101468616254,
+    "esiNo": 5607893200,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 19,
+    "type": "ActiveEmployee",
+    "aadharNo": 633860102418,
+    "dob": "1975-06-01T12:00:00.000Z",
+    "name": "CHULOCHANA MANOKARAN",
+    "gender": "Female",
+    "mobileNumber": "9524334960",
+    "currentAddress": "Selvapuram,Press Colony, Coimbatore,Tamilnadu",
+    "permanentAddress": "Selvapuram,Press Colony, Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-06-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006741",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903675769190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100211189138,
+    "esiNo": 5600188188,
+    "dol": null
+  },
+  {
+    "ticketNo": 20,
+    "type": "ActiveEmployee",
+    "aadharNo": 797724487523,
+    "dob": "1969-12-10T12:00:00.000Z",
+    "name": "P JAYALAKSHMI",
+    "gender": "Female",
+    "mobileNumber": "9790642534",
+    "currentAddress": "9/39, Nadu Veethi, Nayakkannur,Veerapandi Pudur, Pressw Colon,Y, Kovai,Coimbatore,Tamilnadu",
+    "permanentAddress": "9/39, Nadu Veethi, Nayakkannur,Veerapandi Pudur, Pressw Colon,Y, Kovai,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-07-22T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39452439579",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903675792190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100263518115,
+    "esiNo": 5600187773,
+    "dol": null
+  },
+  {
+    "ticketNo": 21,
+    "type": "InctiveEmployee",
+    "aadharNo": 516960228675,
+    "dob": "1981-06-03T12:00:00.000Z",
+    "name": "KAVITHA GOPI",
+    "gender": "Female",
+    "mobileNumber": "9786278713",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2019-08-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466008716",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "037807186348190801",
+        "ifsc": "CSBK0000378"
+      }
+    ],
+    "uan": 101493639968,
+    "esiNo": 5608002420,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 22,
+    "type": "ActiveEmployee",
+    "aadharNo": 419468180638,
+    "dob": "1977-05-21T12:00:00.000Z",
+    "name": "K P SUNDAR",
+    "gender": "Male",
+    "mobileNumber": "8870532957",
+    "currentAddress": "133/96, Railway Feeder Road,Perianaiikanpalayam,Sri Ramakrishna Vidyalaya,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "133/96, Railway Feeder Road,Perianaiikanpalayam,Sri Ramakrishna Vidyalaya,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-12-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "34468977720",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Ramakrishna Vidyalaya",
+        "accountNumber": "34468977720",
+        "ifsc": "SBIN0001541"
+      }
+    ],
+    "uan": 101544234367,
+    "esiNo": 5608171563,
+    "dol": null
+  },
+  {
+    "ticketNo": 23,
+    "type": "InctiveEmployee",
+    "aadharNo": 469735320329,
+    "dob": "1970-05-06T12:00:00.000Z",
+    "name": "KRISHNAMOORTHY RAMASAMY",
+    "gender": "Male",
+    "mobileNumber": "9489676799",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2019-12-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006967",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Indian Overseas Bank",
+        "bankCode": "IOBA",
+        "branch": "Coimbatore Red Fields",
+        "accountNumber": "146501000026906",
+        "ifsc": "IOBA0001465"
+      }
+    ],
+    "uan": 101194134234,
+    "esiNo": 5608173211,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 24,
+    "type": "ActiveEmployee",
+    "aadharNo": 824509124677,
+    "dob": "1979-05-05T12:00:00.000Z",
+    "name": "KANGAMANI",
+    "gender": "Female",
+    "mobileNumber": "9843640052",
+    "currentAddress": "3/11,Sabari Nagar,Ideal Matric School Near,Narasimhanaickenpalayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "3/11,Sabari Nagar,Ideal Matric School Near,Narasimhanaickenpalayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-01-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "33203108206",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "037807226568190801",
+        "ifsc": "CSBK0000378"
+      }
+    ],
+    "uan": 101554276948,
+    "esiNo": 5608238069,
+    "dol": null
+  },
+  {
+    "ticketNo": 25,
+    "type": "ActiveEmployee",
+    "aadharNo": 851380836368,
+    "dob": "1981-09-09T12:00:00.000Z",
+    "name": "SASIKALA MUNIRAJ",
+    "gender": "Female",
+    "mobileNumber": "8940706035",
+    "currentAddress": "Mettupalayam Road, Nsn Palayam,Coimbatore,Tamilnadu",
+    "permanentAddress": "Mettupalayam Road, Nsn Palayam,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-01-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "34446197633",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "34446197633",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101031482664,
+    "esiNo": 5605595125,
+    "dol": null
+  },
+  {
+    "ticketNo": 26,
+    "type": "ActiveEmployee",
+    "aadharNo": 313046194672,
+    "dob": "1988-01-01T12:00:00.000Z",
+    "name": "SAKUNTHULA RAGUPATHI",
+    "gender": "Female",
+    "mobileNumber": "6385452232",
+    "currentAddress": "No 7/25, Arijana Colony,Narasimhanaickenpalayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "No 7/25, Arijana Colony,Narasimhanaickenpalayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-01-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "30922999067",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "037807224045190801",
+        "ifsc": "CSBK0000378"
+      }
+    ],
+    "uan": 101113290041,
+    "esiNo": 5608238136,
+    "dol": null
+  },
+  {
+    "ticketNo": 27,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "NAGARAJ",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": "25/30A Ravuthakkollanooor,N A N Palayam,Rakkipalayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "25/30A Ravuthakkollanooor,N A N Palayam,Rakkipalayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "30450454254",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": 5608324502,
+    "dol": null
+  },
+  {
+    "ticketNo": 29,
+    "type": "ActiveEmployee",
+    "aadharNo": 964234082641,
+    "dob": "1972-01-01T12:00:00.000Z",
+    "name": "JOTHILAKSHMI RAVICHANDRAN",
+    "gender": "Female",
+    "mobileNumber": "9600250557",
+    "currentAddress": "16/7, Union Road, 3Rd Street,Narasimhanaickenpalayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "16/7, Union Road, 3Rd Street,Narasimhanaickenpalayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-03-02T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466009684",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "2046009684",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101574112352,
+    "esiNo": 5608333418,
+    "dol": null
+  },
+  {
+    "ticketNo": 30,
+    "type": "ActiveEmployee",
+    "aadharNo": 321701854101,
+    "dob": "1984-07-20T12:00:00.000Z",
+    "name": "AMSAVENI SELVAN",
+    "gender": "Female",
+    "mobileNumber": "9382835251",
+    "currentAddress": "P.No:127(1) Aruchamy Devar Street,Kulathupalayam,Thondamuthur,Coimbatore,Tamilnadu,641109",
+    "permanentAddress": "84/1 Murugan Nagar,Poochiyur,N.S.N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-03-07T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466009695",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466009695",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101170990507,
+    "esiNo": 5608333525,
+    "dol": null
+  },
+  {
+    "ticketNo": 31,
+    "type": "ActiveEmployee",
+    "aadharNo": 748399379357,
+    "dob": "1977-12-29T12:00:00.000Z",
+    "name": "SUBASH MOOPPAN",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": "111/126A,Gandhi Nagar-1,Tekkupalaym,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "111/126A,Gandhi Nagar-1,Tekkupalaym,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2018-12-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20379764896",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "037807090078190801",
+        "ifsc": "CSBK0000378"
+      }
+    ],
+    "uan": 101387191268,
+    "esiNo": 5607598572,
+    "dol": null
+  },
+  {
+    "ticketNo": 33,
+    "type": "ActiveEmployee",
+    "aadharNo": 402523732632,
+    "dob": "1975-03-05T12:00:00.000Z",
+    "name": "SARAVANAN S",
+    "gender": "Male",
+    "mobileNumber": "9500233420",
+    "currentAddress": "56 Jothipuram,,Renuka Kovil Street,,Coimbatore,Tamilnadu,641047",
+    "permanentAddress": "56 Jothipuram,,Renuka Kovil Street,,Coimbatore,Tamilnadu,641047",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-08-13T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39674333604",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Indian Overseas Bank",
+        "bankCode": "IOBA",
+        "branch": "Perianaickenpalayam",
+        "accountNumber": "256101000000366",
+        "ifsc": "IOBA0002561"
+      }
+    ],
+    "uan": 101438077533,
+    "esiNo": 5608446737,
+    "dol": null
+  },
+  {
+    "ticketNo": 35,
+    "type": "ActiveEmployee",
+    "aadharNo": 462286592884,
+    "dob": "1978-04-15T12:00:00.000Z",
+    "name": "SAGUNTHALAMANI",
+    "gender": "Female",
+    "mobileNumber": "8940744936",
+    "currentAddress": "11/15 Union Road West,Pudhupalayam,Narashimanaickenpalayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "11/15 Union Road West,Pudhupalayam,Narashimanaickenpalayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-05-26T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39508415285",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39508415285",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101581583526,
+    "esiNo": 5608370311,
+    "dol": null
+  },
+  {
+    "ticketNo": 36,
+    "type": "InctiveEmployee",
+    "aadharNo": 399283881739,
+    "dob": "1985-09-05T12:00:00.000Z",
+    "name": "RATHIGA",
+    "gender": "Male",
+    "mobileNumber": "8870051185",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2020-11-30T11:00:00.000Z",
+        "doj": "2020-05-13T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39496926378",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Bank of Baroda",
+        "bankCode": "BARB",
+        "branch": "Tatabad Branch",
+        "accountNumber": "08270100020158",
+        "ifsc": "BARB0TATABA"
+      }
+    ],
+    "uan": 101193280561,
+    "esiNo": 5608365455,
+    "dol": "2020-11-30T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 37,
+    "type": "InctiveEmployee",
+    "aadharNo": 843140517629,
+    "dob": "1975-01-01T12:00:00.000Z",
+    "name": "LAKSHMI S",
+    "gender": "Female",
+    "mobileNumber": "9965120445",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-01-31T11:00:00.000Z",
+        "doj": "2020-08-13T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39177286603",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Indian Bank",
+        "bankCode": "IDIB",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "0885579033",
+        "ifsc": "IDIB000P154"
+      }
+    ],
+    "uan": 101147009166,
+    "esiNo": 5608446757,
+    "dol": "2021-01-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 38,
+    "type": "InctiveEmployee",
+    "aadharNo": 950827954276,
+    "dob": "1987-08-15T12:00:00.000Z",
+    "name": "SARASWATHI KANDASAMY",
+    "gender": "Female",
+    "mobileNumber": "9994915783",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cash",
+    "salary": [
+      {
+        "dol": "2020-12-31T11:00:00.000Z",
+        "doj": "2020-08-14T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903785903190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 101493638532,
+    "esiNo": 5608447960,
+    "dol": "2020-12-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 39,
+    "type": "InctiveEmployee",
+    "aadharNo": 445754944802,
+    "dob": "1973-03-11T12:00:00.000Z",
+    "name": "SAVITHRI",
+    "gender": "Female",
+    "mobileNumber": "9566315068",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2020-12-31T11:00:00.000Z",
+        "doj": "2020-08-14T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 195,
+        "hraPerDay": 130
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39675238529",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "34640966494",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101599973078,
+    "esiNo": 5608447897,
+    "dol": "2020-12-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 40,
+    "type": "InctiveEmployee",
+    "aadharNo": 405238555371,
+    "dob": "1982-03-26T12:00:00.000Z",
+    "name": "KANAGAVALLI G",
+    "gender": "Female",
+    "mobileNumber": "9952835573",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2020-11-30T11:00:00.000Z",
+        "doj": "2020-08-14T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "31253836740",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Redfields Coimbatore",
+        "accountNumber": "31253836740",
+        "ifsc": "SBIN0006577"
+      }
+    ],
+    "uan": 101339122802,
+    "esiNo": 5608447926,
+    "dol": "2020-11-30T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 41,
+    "type": "InctiveEmployee",
+    "aadharNo": 752990043646,
+    "dob": "1965-03-15T12:00:00.000Z",
+    "name": "LOKENDRAN",
+    "gender": "Male",
+    "mobileNumber": "9942271551",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cash",
+    "salary": [
+      {
+        "dol": "2020-12-31T11:00:00.000Z",
+        "doj": "2020-08-24T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Indian Overseas Bank",
+        "bankCode": "IOBA",
+        "branch": "Saravanampatti",
+        "accountNumber": "192101000003545",
+        "ifsc": "IOBA0001921"
+      }
+    ],
+    "uan": 101600885770,
+    "esiNo": 5608452122,
+    "dol": "2020-12-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 42,
+    "type": "InctiveEmployee",
+    "aadharNo": 436867647256,
+    "dob": "1990-08-20T11:00:00.000Z",
+    "name": "MYTHILI",
+    "gender": "Female",
+    "mobileNumber": "9750584482",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2020-09-15T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 195,
+        "hraPerDay": 130
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39671796532",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39671796532",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101611209858,
+    "esiNo": 5608482737,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 43,
+    "type": "InctiveEmployee",
+    "aadharNo": 382114236649,
+    "dob": "1973-04-16T12:00:00.000Z",
+    "name": "BABU",
+    "gender": "Male",
+    "mobileNumber": "8098617371",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2020-09-16T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39674364768",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Canara Bank",
+        "bankCode": "CNRB",
+        "branch": "Coimbatore Jothipuram",
+        "accountNumber": "61422200114325",
+        "ifsc": "CNRB0016142"
+      }
+    ],
+    "uan": 101323807748,
+    "esiNo": 5608482990,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 45,
+    "type": "ActiveEmployee",
+    "aadharNo": 261745026470,
+    "dob": "1991-02-10T11:00:00.000Z",
+    "name": "MAHESWARI A",
+    "gender": "Female",
+    "mobileNumber": "9159838286",
+    "currentAddress": "18 Selvapuram,Thool Shop Medu, Ganesh Street,,Veerapandi Perivu, Coimbatore,Tamilnadu,641019",
+    "permanentAddress": "18 Selvapuram,Thool Shop Medu, Ganesh Street,,Veerapandi Perivu, Coimbatore,Tamilnadu,641019",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-09-16T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39900920175",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Karur Vysya Bank",
+        "bankCode": "KVBL",
+        "branch": "Periyanaickenpalayam",
+        "accountNumber": "1759155000016781",
+        "ifsc": "KVBL0001759"
+      }
+    ],
+    "uan": 101611209862,
+    "esiNo": 5608482999,
+    "dol": null
+  },
+  {
+    "ticketNo": 46,
+    "type": "InctiveEmployee",
+    "aadharNo": 569751695807,
+    "dob": "1990-12-27T11:00:00.000Z",
+    "name": "SANDHYA",
+    "gender": "Female",
+    "mobileNumber": "9952689021",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2020-12-31T11:00:00.000Z",
+        "doj": "2020-10-14T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "32569727191",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "32569727191",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101416654609,
+    "esiNo": 5608518817,
+    "dol": "2020-12-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 47,
+    "type": "InctiveEmployee",
+    "aadharNo": 524620319245,
+    "dob": "1988-10-10T12:00:00.000Z",
+    "name": "THAGAMANI SURESHKUMAR",
+    "gender": "Female",
+    "mobileNumber": "9944557650",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cash",
+    "salary": [
+      {
+        "dol": "2021-01-31T11:00:00.000Z",
+        "doj": "2020-10-14T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Indian Bank",
+        "bankCode": "IDIB",
+        "branch": "Microsate Coimbatore",
+        "accountNumber": "6250854431",
+        "ifsc": "IDIB000M193"
+      }
+    ],
+    "uan": 101622764500,
+    "esiNo": 5608518784,
+    "dol": "2021-01-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 48,
+    "type": "ActiveEmployee",
+    "aadharNo": 201990768550,
+    "dob": "1994-03-23T11:00:00.000Z",
+    "name": "BISWAJIT PATRA",
+    "gender": "Male",
+    "mobileNumber": "7530010408",
+    "currentAddress": "88/2 East Thottam,N S N Palayam,Coimbatore,Tamilnadu,641103",
+    "permanentAddress": "88/2 East Thottam,N S N Palayam,Coimbatore,Tamilnadu,641103",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-10-19T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "35717280202",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Menkapur",
+        "accountNumber": "35717280202",
+        "ifsc": "SBIN0009135"
+      }
+    ],
+    "uan": 100003570069,
+    "esiNo": 5608518938,
+    "dol": null
+  },
+  {
+    "ticketNo": 49,
+    "type": "ActiveEmployee",
+    "aadharNo": 257476418982,
+    "dob": "2000-11-17T11:00:00.000Z",
+    "name": "PABITRA SIMAI",
+    "gender": "Male",
+    "mobileNumber": "7908217819",
+    "currentAddress": "88/2 East Thottam,N S N Palayam,Coimbatore,Tamilnadu,641103",
+    "permanentAddress": "88/2 East Thottam,N S N Palayam,Coimbatore,Tamilnadu,641103",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-10-18T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "38450456300",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Menkapur",
+        "accountNumber": "38450456300",
+        "ifsc": "SBIN0009135"
+      }
+    ],
+    "uan": 101339305369,
+    "esiNo": 5608518897,
+    "dol": null
+  },
+  {
+    "ticketNo": 50,
+    "type": "ActiveEmployee",
+    "aadharNo": 740629189291,
+    "dob": "1996-01-17T11:00:00.000Z",
+    "name": "SHIBSHANKAR DAS",
+    "gender": "Male",
+    "mobileNumber": "8348686243",
+    "currentAddress": "88/2 East Thottam,N S N Palayam,Coimbatore,Tamilnadu,641103",
+    "permanentAddress": "88/2 East Thottam,N S N Palayam,Coimbatore,Tamilnadu,641103",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-10-19T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "38849952192",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Menkapur",
+        "accountNumber": "38849952192",
+        "ifsc": "SBIN0009135"
+      }
+    ],
+    "uan": 101142482751,
+    "esiNo": 5608518922,
+    "dol": null
+  },
+  {
+    "ticketNo": 52,
+    "type": "InctiveEmployee",
+    "aadharNo": 712870179478,
+    "dob": "1996-06-11T11:00:00.000Z",
+    "name": " KALLOL PATRA",
+    "gender": "Male",
+    "mobileNumber": "7397535164",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-02-28T11:00:00.000Z",
+        "doj": "2015-04-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "35736743361",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903767949190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100506285908,
+    "esiNo": 5604887455,
+    "dol": "2021-02-28T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 55,
+    "type": "InctiveEmployee",
+    "aadharNo": 202406772699,
+    "dob": "1995-02-18T11:00:00.000Z",
+    "name": "SACHIN DEV GHORAI",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-02-28T11:00:00.000Z",
+        "doj": "2018-06-07T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "36840771583",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903763708190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 101312496071,
+    "esiNo": 5605333443,
+    "dol": "2021-02-28T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 56,
+    "type": "InctiveEmployee",
+    "aadharNo": 735210648987,
+    "dob": "1996-01-05T11:00:00.000Z",
+    "name": "GANESH DAS",
+    "gender": "Male",
+    "mobileNumber": "7016586191",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-02-28T11:00:00.000Z",
+        "doj": "2017-07-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "36738132080",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903763796190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 101149309422,
+    "esiNo": 5605494391,
+    "dol": "2021-02-28T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 61,
+    "type": "ActiveEmployee",
+    "aadharNo": 711139135474,
+    "dob": "1977-01-01T12:00:00.000Z",
+    "name": "RENUKADEVI",
+    "gender": "Female",
+    "mobileNumber": "7094090368",
+    "currentAddress": "27/26 Venkadachalapathi Lay Out,Narasimanaikenpalayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "27/26 Venkadachalapathi Lay Out,Narasimanaikenpalayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-07-12T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20257832131",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20257832131",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101593001192,
+    "esiNo": 5608418651,
+    "dol": null
+  },
+  {
+    "ticketNo": 62,
+    "type": "ActiveEmployee",
+    "aadharNo": 454859013652,
+    "dob": "1971-01-01T12:00:00.000Z",
+    "name": "VASANTHAMANI L",
+    "gender": "Female",
+    "mobileNumber": "8489740554",
+    "currentAddress": "112 C Periyanaikanpalayam,Gangavar Street,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "112 C Periyanaikanpalayam,Gangavar Street,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-07-12T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466009786",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Canara Bank",
+        "bankCode": "CNRB",
+        "branch": "Narasimmanaickanpalayam",
+        "accountNumber": "65612180003400",
+        "ifsc": "CNRB0016561"
+      }
+    ],
+    "uan": 101593001185,
+    "esiNo": 5608418650,
+    "dol": null
+  },
+  {
+    "ticketNo": 63,
+    "type": "ActiveEmployee",
+    "aadharNo": 590160615683,
+    "dob": "1970-07-01T12:00:00.000Z",
+    "name": "R RANGASAMY",
+    "gender": "Male",
+    "mobileNumber": "8675512338",
+    "currentAddress": "No 5 Chandra Nagar,Govinthanaciken Palayam,Coimbatore,Tamilnadu,641110",
+    "permanentAddress": "No 5 Chandra Nagar,Govinthanaciken Palayam,Coimbatore,Tamilnadu,641110",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-07-12T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466009797",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Indian Overseas Bank",
+        "bankCode": "IOBA",
+        "branch": "Coimbatore Idigarai",
+        "accountNumber": "091101000005286",
+        "ifsc": "IOBA0000941"
+      }
+    ],
+    "uan": 101593001163,
+    "esiNo": 5608418646,
+    "dol": null
+  },
+  {
+    "ticketNo": 64,
+    "type": "ActiveEmployee",
+    "aadharNo": 997027353833,
+    "dob": "1998-06-15T11:00:00.000Z",
+    "name": "SUBHANKAR JANA",
+    "gender": "Male",
+    "mobileNumber": "9790218203",
+    "currentAddress": "88/2 East Thottam,N S N Palayam,Coimbatore,Tamilnadu,641103",
+    "permanentAddress": "88/2 East Thottam,N S N Palayam,Coimbatore,Tamilnadu,641103",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-10-19T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "38458139554",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Menkapur",
+        "accountNumber": "38458139554",
+        "ifsc": "SBIN0009135"
+      }
+    ],
+    "uan": 101341797092,
+    "esiNo": 5608518955,
+    "dol": null
+  },
+  {
+    "ticketNo": 65,
+    "type": "ActiveEmployee",
+    "aadharNo": 460803147873,
+    "dob": "1975-05-20T12:00:00.000Z",
+    "name": "RAVICHANDRAN THANGAVEL",
+    "gender": "Male",
+    "mobileNumber": "9384589651",
+    "currentAddress": "No 4 Gandhi Nagar 2,Therkupalayam,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "No 4 Gandhi Nagar 2,Therkupalayam,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-11-18T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39869138126",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Indian Bank",
+        "bankCode": "IDIB",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "6255358359",
+        "ifsc": "IDIB000P154"
+      }
+    ],
+    "uan": 100064549352,
+    "esiNo": 5608543723,
+    "dol": null
+  },
+  {
+    "ticketNo": 66,
+    "type": "ActiveEmployee",
+    "aadharNo": 513745988589,
+    "dob": "1971-03-15T12:00:00.000Z",
+    "name": "RAVIKUMAR RANGARAJ",
+    "gender": "Male",
+    "mobileNumber": "9842591488",
+    "currentAddress": "65 Om Sakthi Nagar,Narasimanaicken Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "65 Om Sakthi Nagar,Narasimanaicken Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-11-19T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39872233740",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Bank of Baroda",
+        "bankCode": "BARB",
+        "branch": "Tatabad Branch",
+        "accountNumber": "08270100019768",
+        "ifsc": "BARB0TATABA"
+      }
+    ],
+    "uan": 101630842018,
+    "esiNo": 5608543750,
+    "dol": null
+  },
+  {
+    "ticketNo": 67,
+    "type": "ActiveEmployee",
+    "aadharNo": 882025609398,
+    "dob": "1983-03-26T12:00:00.000Z",
+    "name": "MENAGA",
+    "gender": "Female",
+    "mobileNumber": "8098318665",
+    "currentAddress": "11/B 3 Jothi Colony,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "11/B 3 Jothi Colony,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-12-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40067061967",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Indian Bank",
+        "bankCode": "IDIB",
+        "branch": "Pallavan Grama Bank",
+        "accountNumber": "10092298005",
+        "ifsc": "IDIB0PLB001"
+      }
+    ],
+    "uan": 101590375210,
+    "esiNo": 5608572304,
+    "dol": null
+  },
+  {
+    "ticketNo": 68,
+    "type": "InctiveEmployee",
+    "aadharNo": 386283021371,
+    "dob": "1979-12-01T12:00:00.000Z",
+    "name": "J FAMITHA BANU",
+    "gender": "Female",
+    "mobileNumber": "7339498350",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2020-12-12T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "34787114782",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903677401190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 101287748602,
+    "esiNo": 5608591498,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 69,
+    "type": "InctiveEmployee",
+    "aadharNo": 856708893477,
+    "dob": "1994-06-14T11:00:00.000Z",
+    "name": "RESHMA",
+    "gender": "Female",
+    "mobileNumber": "9790137516",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2020-12-12T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20284571072",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903676450190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 101506654099,
+    "esiNo": 5608591504,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 70,
+    "type": "ActiveEmployee",
+    "aadharNo": 901826728159,
+    "dob": "1987-04-23T12:00:00.000Z",
+    "name": "RADHAMANI",
+    "gender": "Female",
+    "mobileNumber": "9159832220",
+    "currentAddress": "85D Murugan Nagar,Poochiyur,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "85D Murugan Nagar,Poochiyur,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-12-14T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "31177518055",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "31177518055",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101160380835,
+    "esiNo": 5608591510,
+    "dol": null
+  },
+  {
+    "ticketNo": 71,
+    "type": "InctiveEmployee",
+    "aadharNo": 992309858264,
+    "dob": "1970-01-01T12:00:00.000Z",
+    "name": "NAGALAKSHMI",
+    "gender": "Female",
+    "mobileNumber": "9566463097",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2020-12-16T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 195,
+        "hraPerDay": 130
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20313230215",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20313230215",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101640104553,
+    "esiNo": 5608591520,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 72,
+    "type": "ActiveEmployee",
+    "aadharNo": 604824048334,
+    "dob": "1978-03-06T12:00:00.000Z",
+    "name": "KAVITHA.K",
+    "gender": "Female",
+    "mobileNumber": "9786037691",
+    "currentAddress": "1/53 Akshiya Garden,Srkv Post, Sri Ramakrishna Vidhyalaya,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "1/53 Akshiya Garden,Srkv Post, Sri Ramakrishna Vidhyalaya,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-01-04T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "30128854070",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Ramakrishna Vidyalaya",
+        "accountNumber": "30128854070",
+        "ifsc": "SBIN0001541"
+      }
+    ],
+    "uan": 100674626284,
+    "esiNo": 5608625287,
+    "dol": null
+  },
+  {
+    "ticketNo": 73,
+    "type": "InctiveEmployee",
+    "aadharNo": 858675228004,
+    "dob": "1986-05-20T12:00:00.000Z",
+    "name": "GANESWARA BAGHA",
+    "gender": "Male",
+    "mobileNumber": "9366005465",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-02-28T11:00:00.000Z",
+        "doj": "2021-01-04T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39896385582",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39896385582",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101489583763,
+    "esiNo": 5608625145,
+    "dol": "2021-02-28T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 74,
+    "type": "InctiveEmployee",
+    "aadharNo": 775085114320,
+    "dob": "1985-10-10T12:00:00.000Z",
+    "name": "G JOTHI",
+    "gender": "Female",
+    "mobileNumber": "8098318665",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-02-28T11:00:00.000Z",
+        "doj": "2021-01-04T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39896073300",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39896073300",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101647625598,
+    "esiNo": 5608625085,
+    "dol": "2021-02-28T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 75,
+    "type": "InctiveEmployee",
+    "aadharNo": 753355819857,
+    "dob": "2002-09-05T11:00:00.000Z",
+    "name": "SHUBHAJIT MAITY",
+    "gender": "Male",
+    "mobileNumber": "7870077494",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2021-01-04T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39891222293",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39891222293",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101647625580,
+    "esiNo": 5608625267,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 76,
+    "type": "ActiveEmployee",
+    "aadharNo": 484148417438,
+    "dob": "1996-09-03T11:00:00.000Z",
+    "name": "DEBU TINGUA",
+    "gender": "Male",
+    "mobileNumber": "8778567643",
+    "currentAddress": "Kings Beade Organic Form,Mtp Road,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "Kings Beade Organic Form,Mtp Road,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-01-04T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39901099190",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Kotak Mahindra Bank",
+        "bankCode": "KKBK",
+        "branch": "Chennai-Adyar",
+        "accountNumber": "4913225642",
+        "ifsc": "KKBK0000463"
+      }
+    ],
+    "uan": 101459295538,
+    "esiNo": 5608625066,
+    "dol": null
+  },
+  {
+    "ticketNo": 77,
+    "type": "ActiveEmployee",
+    "aadharNo": 223934027505,
+    "dob": "1978-01-01T12:00:00.000Z",
+    "name": "BANABIHARI TUDU",
+    "gender": "Male",
+    "mobileNumber": "6380357339",
+    "currentAddress": "No 29 Poochiur Road,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "No 29 Poochiur Road,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-02-06T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "35376392308",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Baligeria",
+        "accountNumber": "35376392308",
+        "ifsc": "SBIN0008328"
+      }
+    ],
+    "uan": 101659395860,
+    "esiNo": 5608670390,
+    "dol": null
+  },
+  {
+    "ticketNo": 78,
+    "type": "ActiveEmployee",
+    "aadharNo": 451125229222,
+    "dob": "2002-06-09T11:00:00.000Z",
+    "name": "RABI TINGUYA",
+    "gender": "Male",
+    "mobileNumber": "7781841220",
+    "currentAddress": "Kings Beade (Near Sbtl ),Organic Farm, Tnocd Reg No Tno(F)1047,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "Kings Beade (Near Sbtl ),Organic Farm, Tnocd Reg No Tno(F)1047,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-02-18T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40035340278",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Ganapaty",
+        "accountNumber": "40035340278",
+        "ifsc": "SBIN0003690"
+      }
+    ],
+    "uan": 101662723005,
+    "esiNo": 5608691326,
+    "dol": null
+  },
+  {
+    "ticketNo": 79,
+    "type": "ActiveEmployee",
+    "aadharNo": 475266423895,
+    "dob": "2001-08-11T11:00:00.000Z",
+    "name": "SUSHIL",
+    "gender": "Male",
+    "mobileNumber": "8508291046",
+    "currentAddress": "Kings Beade (Near Sbtl ),Organic Farm, Tnocd Reg No Tno(F)1047,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "Kings Beade (Near Sbtl ),Organic Farm, Tnocd Reg No Tno(F)1047,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-02-18T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40035339240",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Ganapaty",
+        "accountNumber": "40035339240",
+        "ifsc": "SBIN0003690"
+      }
+    ],
+    "uan": 101371446085,
+    "esiNo": 5608691887,
+    "dol": null
+  },
+  {
+    "ticketNo": 80,
+    "type": "ActiveEmployee",
+    "aadharNo": 870635498722,
+    "dob": "1996-04-24T11:00:00.000Z",
+    "name": "SANJIB PRADHAN",
+    "gender": "Male",
+    "mobileNumber": "7318632006",
+    "currentAddress": "Sree Saravanabalaji Textiles (P) Lrtd,Sf.No88/2, Narasimanaicken Palayan,Mettupalayam Road,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "Solemanpur,Paschim Medinipur,,Chhoto Srikrishnapur,Paschim Midnapore,West Bengal,721435",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-02-22T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "35749205237",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "037803953936190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 101258738773,
+    "esiNo": 5607188533,
+    "dol": null
+  },
+  {
+    "ticketNo": 81,
+    "type": "ActiveEmployee",
+    "aadharNo": 986877403347,
+    "dob": "1995-01-01T11:00:00.000Z",
+    "name": "MAHESH",
+    "gender": "Male",
+    "mobileNumber": "7380417193",
+    "currentAddress": "Kings Beade (Near Sbtl ),Organic Farm, Tnocd Reg No Tno(F)1047,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "Kings Beade (Near Sbtl ),Organic Farm, Tnocd Reg No Tno(F)1047,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-03-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40056309458",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40056309458",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101342073589,
+    "esiNo": 5608713098,
+    "dol": null
+  },
+  {
+    "ticketNo": 82,
+    "type": "ActiveEmployee",
+    "aadharNo": 890529461830,
+    "dob": "2002-09-29T11:00:00.000Z",
+    "name": "SURJYA KANTA PATRA",
+    "gender": "Male",
+    "mobileNumber": "9635783868",
+    "currentAddress": "Kings Beade (Near Sbtl ),N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "Kings Beade (Near Sbtl ),N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-03-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39749605940",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Mokama",
+        "accountNumber": "39749605940",
+        "ifsc": "SBIN0000135"
+      }
+    ],
+    "uan": 101666946474,
+    "esiNo": 5608711670,
+    "dol": null
+  },
+  {
+    "ticketNo": 83,
+    "type": "ActiveEmployee",
+    "aadharNo": 415526085851,
+    "dob": "1982-06-15T12:00:00.000Z",
+    "name": "SUMATHI",
+    "gender": "Female",
+    "mobileNumber": "9786945178",
+    "currentAddress": "16 Gopal Nagar,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "16 Gopal Nagar,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-03-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40095301634",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Canara Bank",
+        "bankCode": "CNRB",
+        "branch": "Narasimmanaickanpalayam",
+        "accountNumber": "65612200003643",
+        "ifsc": "CNRB0016561"
+      }
+    ],
+    "uan": 101240324864,
+    "esiNo": 5608711876,
+    "dol": null
+  },
+  {
+    "ticketNo": 84,
+    "type": "ActiveEmployee",
+    "aadharNo": 542554030563,
+    "dob": "2001-01-01T11:00:00.000Z",
+    "name": "PRAKASH KUMAR",
+    "gender": "Male",
+    "mobileNumber": "9514598587",
+    "currentAddress": "Kings Beade (Near Sbtl ),N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "Kings Beade (Near Sbtl ),N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-03-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40056112510",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Gobichettipalayam",
+        "accountNumber": "019607189611190801",
+        "ifsc": "CSBK0000271"
+      }
+    ],
+    "uan": 101478114352,
+    "esiNo": 5608711719,
+    "dol": null
+  },
+  {
+    "ticketNo": 85,
+    "type": "ActiveEmployee",
+    "aadharNo": 454229115650,
+    "dob": "1995-03-11T11:00:00.000Z",
+    "name": "NISHIKANTA PATRA",
+    "gender": "Male",
+    "mobileNumber": "8436290774",
+    "currentAddress": "Kings Beade (Near Sbtl ),N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "Kings Beade (Near Sbtl ),N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-03-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "34759556144",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Canara Bank",
+        "bankCode": "CNRB",
+        "branch": "Narasimmanaickanpalayam",
+        "accountNumber": "65612180007184",
+        "ifsc": "CNRB0016561"
+      }
+    ],
+    "uan": 101341867401,
+    "esiNo": 5608711589,
+    "dol": null
+  },
+  {
+    "ticketNo": 86,
+    "type": "ActiveEmployee",
+    "aadharNo": 283266155904,
+    "dob": "2001-10-28T11:00:00.000Z",
+    "name": "ASWINI PARTA",
+    "gender": "Male",
+    "mobileNumber": "6374086500",
+    "currentAddress": "Kings Beade (Near Sbtl ),Organic Farm, Tnocd Reg No Tno(F)1047,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "Kings Beade (Near Sbtl ),Organic Farm, Tnocd Reg No Tno(F)1047,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-03-01T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40055282812",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Ganapaty",
+        "accountNumber": "40055282812",
+        "ifsc": "SBIN0003690"
+      }
+    ],
+    "uan": 101666946461,
+    "esiNo": 5608711773,
+    "dol": null
+  },
+  {
+    "ticketNo": 87,
+    "type": "ActiveEmployee",
+    "aadharNo": 200734906853,
+    "dob": "2000-07-04T11:00:00.000Z",
+    "name": "ABHISHEK KUMAR",
+    "gender": "Male",
+    "mobileNumber": "9514598587",
+    "currentAddress": "Kings Beade (Near Sbtl ),Organic Farm, Tnocd Reg No Tno(F)1047,N S N Palayam,Coimbatore,Tamilnadu,641032",
+    "permanentAddress": "Kings Beade (Near Sbtl ),Organic Farm, Tnocd Reg No Tno(F)1047,N S N Palayam,Coimbatore,Tamilnadu,641032",
+    "salaryPaymentMode": "Cash",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-03-10T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Gobichettipalayam",
+        "accountNumber": "027107187759190801",
+        "ifsc": "CSBK0000271"
+      }
+    ],
+    "uan": 101478099835,
+    "esiNo": 5608727480,
+    "dol": null
+  },
+  {
+    "ticketNo": 88,
+    "type": "InctiveEmployee",
+    "aadharNo": 892185402371,
+    "dob": "1998-12-01T11:00:00.000Z",
+    "name": "VRIJESH",
+    "gender": "Male",
+    "mobileNumber": "6307969529",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cash",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2021-03-10T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Bank of India",
+        "bankCode": "BKID",
+        "branch": "Pandeypur",
+        "accountNumber": "718610110002767",
+        "ifsc": "BKID0007186"
+      }
+    ],
+    "uan": 101344075391,
+    "esiNo": 5608727212,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 89,
+    "type": "ActiveEmployee",
+    "aadharNo": 286583999070,
+    "dob": "2001-07-07T11:00:00.000Z",
+    "name": "FANINDRA TUDU",
+    "gender": "Male",
+    "mobileNumber": "8925505576",
+    "currentAddress": "29 Poochiyur Road,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "29 Poochiyur Road,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Cash",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-03-10T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Canara Bank",
+        "bankCode": "CNRB",
+        "branch": "Vedasandur",
+        "accountNumber": "3315131002260",
+        "ifsc": "CNRB0003315"
+      }
+    ],
+    "uan": 101547021138,
+    "esiNo": 5608727166,
+    "dol": null
+  },
+  {
+    "ticketNo": 90,
+    "type": "ActiveEmployee",
+    "aadharNo": 355655813795,
+    "dob": "1970-05-12T12:00:00.000Z",
+    "name": "ANITHA M",
+    "gender": "Male",
+    "mobileNumber": "9578249981",
+    "currentAddress": "5/10 Union Road,3 Rd Street,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "5/10 Union Road,3 Rd Street,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-03-10T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "38863611246",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "38863611246",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101207509089,
+    "esiNo": 5608727016,
+    "dol": null
+  },
+  {
+    "ticketNo": 91,
+    "type": "ActiveEmployee",
+    "aadharNo": 939131926371,
+    "dob": "2000-03-13T11:00:00.000Z",
+    "name": "ROSHAN",
+    "gender": "Male",
+    "mobileNumber": "9566836104",
+    "currentAddress": "Kings Beade Organic Farm,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "Kings Beade Organic Farm,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-03-10T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40058600059",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Gobichettipalayam",
+        "accountNumber": "027107060880190001",
+        "ifsc": "CSBK0000271"
+      }
+    ],
+    "uan": 101308732876,
+    "esiNo": 5608727105,
+    "dol": null
+  },
+  {
+    "ticketNo": 92,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SAROJA",
+    "gender": "Female",
+    "mobileNumber": null,
+    "currentAddress": "18D/72 Kamaraj Nagar,Periyanaickan Palayam,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "18D/72 Kamaraj Nagar,Periyanaickan Palayam,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39880198011",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": 5608768703,
+    "dol": null
+  },
+  {
+    "ticketNo": 93,
+    "type": "ActiveEmployee",
+    "aadharNo": 854630776733,
+    "dob": "1964-03-24T12:00:00.000Z",
+    "name": "K NAGESH",
+    "gender": "Male",
+    "mobileNumber": "9489958604",
+    "currentAddress": "5/376 Anna Nagar,Naicken Palayam,Periyanaicken Palayam,Coimbatore,Tamilnadu",
+    "permanentAddress": "5/376 Anna Nagar,Naicken Palayam,Periyanaicken Palayam,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-04-06T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40092210660",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40092210660",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101678771129,
+    "esiNo": 5608768786,
+    "dol": null
+  },
+  {
+    "ticketNo": 94,
+    "type": "ActiveEmployee",
+    "aadharNo": 338570274515,
+    "dob": "1983-01-02T12:00:00.000Z",
+    "name": "J VENNILA",
+    "gender": "Female",
+    "mobileNumber": "9159977366",
+    "currentAddress": "5/5 Appul Palayam,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "5/5 Appul Palayam,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Cash",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-04-06T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Bank of Baroda",
+        "bankCode": "BARB",
+        "branch": "Tatabad Branch",
+        "accountNumber": "08270100019911",
+        "ifsc": "BARB0TATABA"
+      }
+    ],
+    "uan": 101305655568,
+    "esiNo": 5608768861,
+    "dol": null
+  },
+  {
+    "ticketNo": 95,
+    "type": "ActiveEmployee",
+    "aadharNo": 405659896146,
+    "dob": "1969-01-26T12:00:00.000Z",
+    "name": "RAMKUMAR S K",
+    "gender": "Male",
+    "mobileNumber": "8810601858",
+    "currentAddress": "63B Vivekananda Street,Gas Company,Mtp Road,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "63B Vivekananda Street,Gas Company,Mtp Road,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-04-06T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40131997347",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Bank of India",
+        "bankCode": "BKID",
+        "branch": "Safdarjung",
+        "accountNumber": "603610510001100",
+        "ifsc": "BKID0006036"
+      }
+    ],
+    "uan": 101644990490,
+    "esiNo": 5608768818,
+    "dol": null
+  },
+  {
+    "ticketNo": 96,
+    "type": "ActiveEmployee",
+    "aadharNo": 726137751547,
+    "dob": "1985-06-15T12:00:00.000Z",
+    "name": "VIJAYA PUNNIYAMOORTHI",
+    "gender": "Female",
+    "mobileNumber": "9791665414",
+    "currentAddress": "73 Vivekanandha Street,Thekkupalayam,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "73 Vivekanandha Street,Thekkupalayam,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-04-06T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "37130233364",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Ssi Kuruchi",
+        "accountNumber": "3713023364",
+        "ifsc": "SBIN0003595"
+      }
+    ],
+    "uan": 101189603688,
+    "esiNo": 5608768750,
+    "dol": null
+  },
+  {
+    "ticketNo": 97,
+    "type": "ActiveEmployee",
+    "aadharNo": 457939821548,
+    "dob": "1989-04-08T12:00:00.000Z",
+    "name": "MADESHA",
+    "gender": "Male",
+    "mobileNumber": "7639369394",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cash",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-04-06T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 222,
+        "hraPerDay": 148
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Karur Vysya Bank",
+        "bankCode": "KVBL",
+        "branch": "Coimbatore Rspuram",
+        "accountNumber": "1122166000061350",
+        "ifsc": "KVBL0001122"
+      }
+    ],
+    "uan": 100993943186,
+    "esiNo": null,
+    "dol": null
+  },
+  {
+    "ticketNo": 98,
+    "type": "ActiveEmployee",
+    "aadharNo": 621464040673,
+    "dob": "1975-04-12T12:00:00.000Z",
+    "name": "LATHA BALASHANMUGAM",
+    "gender": "Female",
+    "mobileNumber": "9629957457",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cash",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-04-06T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Canara Bank",
+        "bankCode": "CNRB",
+        "branch": "R S Puram Coimbatore",
+        "accountNumber": "1207101558552",
+        "ifsc": "CNRB0001207"
+      }
+    ],
+    "uan": 101295454690,
+    "esiNo": null,
+    "dol": null
+  },
+  {
+    "ticketNo": 99,
+    "type": "ActiveEmployee",
+    "aadharNo": 659009527373,
+    "dob": "1976-07-17T12:00:00.000Z",
+    "name": "MAHESH MANI",
+    "gender": "Male",
+    "mobileNumber": "9789334811",
+    "currentAddress": "36/25 Vivekanandha Nagar,Thekkupalayam,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "36/25 Vivekanandha Nagar,Thekkupalayam,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-04-07T11:00:00.000Z",
+        "category": "Casual",
+        "basicPerDay": 207,
+        "hraPerDay": 138
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40086122067",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40086122067",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101678822305,
+    "esiNo": 5608770367,
+    "dol": null
+  },
+  {
+    "ticketNo": 2001,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "RAMAKRISHNAN JOGHEE",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": "1A/Na,Annapoorani Nagar,Thirumalainayacken,Mettupalayam,Periyanaikenpalayam,Coimbatore,Tamilnadu,641047",
+    "permanentAddress": "1A/Na,Annapoorani Nagar,Thirumalainayacken,Mettupalayam,Periyanaikenpalayam,Coimbatore,Tamilnadu,641047",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Security",
+        "basicPerDay": 306,
+        "hraPerDay": 204
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006548",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": 5605643815,
+    "dol": null
+  },
+  {
+    "ticketNo": 2002,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "GANESHAN.S",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": "D1 Sri Kumaran Nagar,Nsn Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "D1 Sri Kumaran Nagar,Nsn Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Cheque",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Security",
+        "basicPerDay": 258,
+        "hraPerDay": 172
+      }
+    ],
+    "bankAccounts": [],
+    "uan": null,
+    "esiNo": 5603345468,
+    "dol": null
+  },
+  {
+    "ticketNo": 2003,
+    "type": "InctiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "VIJAYA KUMAR J",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cheque",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Security",
+        "basicPerDay": 183,
+        "hraPerDay": 122
+      }
+    ],
+    "bankAccounts": [],
+    "uan": null,
+    "esiNo": 5129828839,
+    "dol": null
+  },
+  {
+    "ticketNo": 2004,
+    "type": "InctiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "N SIVAN",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cheque",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Security",
+        "basicPerDay": 159,
+        "hraPerDay": 106
+      }
+    ],
+    "bankAccounts": [],
+    "uan": null,
+    "esiNo": 5608518844,
+    "dol": null
+  },
+  {
+    "ticketNo": 2005,
+    "type": "InctiveEmployee",
+    "aadharNo": 486310430176,
+    "dob": "1984-05-22T12:00:00.000Z",
+    "name": "K. RADHAKRISHNAN",
+    "gender": "Male",
+    "mobileNumber": "9486560061",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cheque",
+    "salary": [
+      {
+        "dol": "2020-11-30T11:00:00.000Z",
+        "doj": "2020-08-14T11:00:00.000Z",
+        "category": "Security",
+        "basicPerDay": 159,
+        "hraPerDay": 106
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Central Bank of India",
+        "bankCode": "CBIN",
+        "branch": "Udhagamandalam",
+        "accountNumber": "3388170774",
+        "ifsc": "CBIN0280905"
+      }
+    ],
+    "uan": 100025550816,
+    "esiNo": 5608447868,
+    "dol": "2020-11-30T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 2006,
+    "type": "InctiveEmployee",
+    "aadharNo": 515030049361,
+    "dob": "1975-02-08T12:00:00.000Z",
+    "name": "PADMANABHAN N",
+    "gender": "Male",
+    "mobileNumber": "9787476375",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-01-31T11:00:00.000Z",
+        "doj": "2020-11-13T11:00:00.000Z",
+        "category": "Security",
+        "basicPerDay": 258,
+        "hraPerDay": 172
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "33375072622",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Coonoor",
+        "accountNumber": "33375072622",
+        "ifsc": "SBIN0000828"
+      }
+    ],
+    "uan": 101105101534,
+    "esiNo": 5608543694,
+    "dol": "2021-01-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 2007,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "KUMAR",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": "Rose Garden,N S N Palayam,Coimbatore,Tamilnadu,641037",
+    "permanentAddress": "Rose Garden,N S N Palayam,Coimbatore,Tamilnadu,641037",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Security",
+        "basicPerDay": 258,
+        "hraPerDay": 172
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20331309332",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": 5608625037,
+    "dol": null
+  },
+  {
+    "ticketNo": 2008,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SWAMYNTHAN A",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": "F 15 Sri Kumaran Nagar,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "F 15 Sri Kumaran Nagar,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Security",
+        "basicPerDay": 258,
+        "hraPerDay": 172
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "38543666028",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": 5608670301,
+    "dol": null
+  },
+  {
+    "ticketNo": 2009,
+    "type": "ActiveEmployee",
+    "aadharNo": 330097766701,
+    "dob": "1973-04-05T12:00:00.000Z",
+    "name": "MOORTHY",
+    "gender": "Male",
+    "mobileNumber": "9965199639",
+    "currentAddress": "3/5 Pudur,Naikanpalayam Pudur,Govanoor,Coimbatore,Tamilnadu",
+    "permanentAddress": "3/5 Pudur,Naikanpalayam Pudur,Govanoor,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Cheque",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-02-06T11:00:00.000Z",
+        "category": "Security",
+        "basicPerDay": 258,
+        "hraPerDay": 172
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Indian Bank",
+        "bankCode": "IDIB",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "6818279446",
+        "ifsc": "IDIB000P154"
+      }
+    ],
+    "uan": 101572888825,
+    "esiNo": 5608670345,
+    "dol": null
+  },
+  {
+    "ticketNo": 2010,
+    "type": "ActiveEmployee",
+    "aadharNo": 451878156399,
+    "dob": "1990-08-23T11:00:00.000Z",
+    "name": "LINGAM LOGANATHAN",
+    "gender": "Male",
+    "mobileNumber": "9398895565",
+    "currentAddress": "105,Maniyakaram Palayam,Idikarai,Coimbatore,Tamilnadu",
+    "permanentAddress": "105,Maniyakaram Palayam,Idikarai,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-04-06T11:00:00.000Z",
+        "category": "Security",
+        "basicPerDay": 258,
+        "hraPerDay": 172
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20205732386",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Garhani",
+        "accountNumber": "20205732386",
+        "ifsc": "SBIN0011806"
+      }
+    ],
+    "uan": 101099428087,
+    "esiNo": 5209470641,
+    "dol": null
+  },
+  {
+    "ticketNo": 3001,
+    "type": "ActiveEmployee",
+    "aadharNo": 893920037091,
+    "dob": "1985-04-03T12:00:00.000Z",
+    "name": "RADHAKRISHNAN",
+    "gender": "Male",
+    "mobileNumber": "9786477304",
+    "currentAddress": "Sree Saravana Textiles,88/2,Mtp Road,Nsn Palayam,Coimbatore,Tamilnadu",
+    "permanentAddress": "Jakkaman Naickenpatti,Markampatti,Siluvathur Via,Dindugul,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2003-08-10T11:00:00.000Z",
+        "category": "Staff2",
+        "basicPerDay": 393,
+        "hraPerDay": 261
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "30237723530",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903677418190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100071066336,
+    "esiNo": 5602787709,
+    "dol": null
+  },
+  {
+    "ticketNo": 3002,
+    "type": "ActiveEmployee",
+    "aadharNo": 916791129604,
+    "dob": "1980-06-08T12:00:00.000Z",
+    "name": "A. DEVI",
+    "gender": "Female",
+    "mobileNumber": "8098424215",
+    "currentAddress": "193-2, Vinayagar Kovil Street,Thekkupalayam,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "193-2, Vinayagar Kovil Street,Thekkupalayam,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2014-09-01T11:00:00.000Z",
+        "category": "Staff2",
+        "basicPerDay": 243,
+        "hraPerDay": 161
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39261307141",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903675566190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100504678229,
+    "esiNo": 5605455205,
+    "dol": null
+  },
+  {
+    "ticketNo": 3003,
+    "type": "InctiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "R.RANGARAJ ",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Staff2",
+        "basicPerDay": 370,
+        "hraPerDay": 246
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "30237723212",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": 5603349981,
+    "dol": null
+  },
+  {
+    "ticketNo": 3004,
+    "type": "ActiveEmployee",
+    "aadharNo": 793319672524,
+    "dob": "1993-08-14T11:00:00.000Z",
+    "name": "RAMAR MUTHUSAMY",
+    "gender": "Male",
+    "mobileNumber": "6369194236",
+    "currentAddress": "4/40 E, Vellipalayam Road,Mettupalayam,Coimbatore,Tamilnadu,641301",
+    "permanentAddress": "4/40 E, Vellipalayam Road,Mettupalayam,Coimbatore,Tamilnadu,641301",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-02-12T11:00:00.000Z",
+        "category": "Staff2",
+        "basicPerDay": 462,
+        "hraPerDay": 307
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20280137819",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903951548190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 101156939073,
+    "esiNo": 5607007622,
+    "dol": null
+  },
+  {
+    "ticketNo": 3005,
+    "type": "ActiveEmployee",
+    "aadharNo": 362901336281,
+    "dob": "1984-10-25T12:00:00.000Z",
+    "name": "SAVITHRI",
+    "gender": "Female",
+    "mobileNumber": "7708308174",
+    "currentAddress": "35 Chandra Nagar,Govinda Naickan Palayam,Athipalayam,Coimbatore,Tamilnadu,641110",
+    "permanentAddress": "35 Chandra Nagar,Govinda Naickan Palayam,Athipalayam,Coimbatore,Tamilnadu,641110",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-08-01T11:00:00.000Z",
+        "category": "Staff2",
+        "basicPerDay": 347,
+        "hraPerDay": 230
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466008669",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "03780718399190801",
+        "ifsc": "CSBK0000378"
+      }
+    ],
+    "uan": 101493638521,
+    "esiNo": 5608005447,
+    "dol": null
+  },
+  {
+    "ticketNo": 3006,
+    "type": "ActiveEmployee",
+    "aadharNo": 390090733178,
+    "dob": "1977-06-07T12:00:00.000Z",
+    "name": "POORNA CHANDRAN B",
+    "gender": "Male",
+    "mobileNumber": "8248102138",
+    "currentAddress": "329/2C, Ranganagar Ii,Palamalai Road,Periyanaicken Palayam,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "1/26, Bygamund,Ketti,Welbeck Estate,The Nilgiris,Tamilnadu,643003",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-10-21T11:00:00.000Z",
+        "category": "Staff2",
+        "basicPerDay": 404,
+        "hraPerDay": 269
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "38651264621",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "037807207175190801",
+        "ifsc": "CSBK0000378"
+      }
+    ],
+    "uan": 101515482801,
+    "esiNo": 5608109005,
+    "dol": null
+  },
+  {
+    "ticketNo": 3007,
+    "type": "ActiveEmployee",
+    "aadharNo": 838355427078,
+    "dob": "1986-04-03T12:00:00.000Z",
+    "name": "KRISHNAMOORTHY M",
+    "gender": "Male",
+    "mobileNumber": "9629402436",
+    "currentAddress": "Mriyamman Koil Street,Maniyakaram Palayam,Idikarai,Coimbatore,Tamilnadu",
+    "permanentAddress": "Mriyamman Koil Street,Maniyakaram Palayam,Idikarai,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-04-07T11:00:00.000Z",
+        "category": "Staff2",
+        "basicPerDay": 381,
+        "hraPerDay": 254
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40138828724",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "40138828724",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101678814053,
+    "esiNo": 5608770289,
+    "dol": null
+  },
+  {
+    "ticketNo": 4001,
+    "type": "ActiveEmployee",
+    "aadharNo": 330773018786,
+    "dob": "1975-07-29T12:00:00.000Z",
+    "name": "BALAMURUGAN ANNAMALAI",
+    "gender": "Male",
+    "mobileNumber": "9384746174",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-11-01T11:00:00.000Z",
+        "category": "Staff1",
+        "basicPerDay": 704,
+        "hraPerDay": 469.1
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "30409757781",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001902513954190001",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100070531939,
+    "esiNo": null,
+    "dol": null
+  },
+  {
+    "ticketNo": 4002,
+    "type": "ActiveEmployee",
+    "aadharNo": 794378481294,
+    "dob": "1975-11-16T12:00:00.000Z",
+    "name": "R GUNASEKARAN",
+    "gender": "Male",
+    "mobileNumber": "9894832052",
+    "currentAddress": "124,Chandra Nagar,Athiplayam,Govindhanaickenpalayam,Coimbatore,Tamilnadu",
+    "permanentAddress": "124,Chandra Nagar,Athiplayam,Govindhanaickenpalayam,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2008-04-01T11:00:00.000Z",
+        "category": "Staff1",
+        "basicPerDay": 461.4,
+        "hraPerDay": 307.6
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "38719436393",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903675947190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100288086122,
+    "esiNo": 5603506797,
+    "dol": null
+  },
+  {
+    "ticketNo": 4003,
+    "type": "InctiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "MANI BOOPATHI",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Staff1",
+        "basicPerDay": 365,
+        "hraPerDay": 243
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466008455",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": 5603513757,
+    "dol": null
+  },
+  {
+    "ticketNo": 4004,
+    "type": "ActiveEmployee",
+    "aadharNo": 778229319221,
+    "dob": "1976-03-20T12:00:00.000Z",
+    "name": "BALAKRISHNAN M",
+    "gender": "Male",
+    "mobileNumber": "9500856406",
+    "currentAddress": "3/21M.G.R.Nagar 4Th Street,Kasithuripalayam,Periyanaickenpalayam,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "3/21M.G.R.Nagar 4Th Street,Kasithuripalayam,Periyanaickenpalayam,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-05-07T11:00:00.000Z",
+        "category": "Staff1",
+        "basicPerDay": 341,
+        "hraPerDay": 229
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466008670",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466008670",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101455380943,
+    "esiNo": 5607814256,
+    "dol": null
+  },
+  {
+    "ticketNo": 4005,
+    "type": "ActiveEmployee",
+    "aadharNo": 658305895425,
+    "dob": "1979-03-16T12:00:00.000Z",
+    "name": "KALAIVANI.V",
+    "gender": "Female",
+    "mobileNumber": "8428673770",
+    "currentAddress": "6/28A, Kuppuchipalayam,,Prn Palayam, Srkv Post,,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "6/28A, Kuppuchipalayam,,Prn Palayam, Srkv Post,,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-06-01T11:00:00.000Z",
+        "category": "Staff1",
+        "basicPerDay": 307,
+        "hraPerDay": 205
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006763",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Canara Bank",
+        "bankCode": "CNRB",
+        "branch": "Sarakarasamakulam",
+        "accountNumber": "1034118000856",
+        "ifsc": "CNRB0001034"
+      }
+    ],
+    "uan": 100739006974,
+    "esiNo": 5606235714,
+    "dol": null
+  },
+  {
+    "ticketNo": 4006,
+    "type": "InctiveEmployee",
+    "aadharNo": 740371426616,
+    "dob": "1978-10-14T12:00:00.000Z",
+    "name": "GOPALAN SEENU G",
+    "gender": "Male",
+    "mobileNumber": "9842176809",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-02-28T11:00:00.000Z",
+        "doj": "2020-05-27T11:00:00.000Z",
+        "category": "Staff1",
+        "basicPerDay": 415,
+        "hraPerDay": 278
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466009628",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Federal Bank",
+        "bankCode": "FDRL",
+        "branch": "Coimbatore",
+        "accountNumber": "1092 01001 37584",
+        "ifsc": "FDRL0001092"
+      }
+    ],
+    "uan": 100148221496,
+    "esiNo": 5602718393,
+    "dol": "2021-02-28T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 4009,
+    "type": "ActiveEmployee",
+    "aadharNo": 498488278729,
+    "dob": "1968-12-20T12:00:00.000Z",
+    "name": "M.DHALAVAIKUMAR",
+    "gender": "Male",
+    "mobileNumber": "9442709095",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-07-02T11:00:00.000Z",
+        "category": "Staff1",
+        "basicPerDay": 647,
+        "hraPerDay": 430
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "32210227437",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Redfields Coimbatore",
+        "accountNumber": "32210227437",
+        "ifsc": "SBIN0006577"
+      }
+    ],
+    "uan": 100143116189,
+    "esiNo": null,
+    "dol": null
+  },
+  {
+    "ticketNo": 4010,
+    "type": "InctiveEmployee",
+    "aadharNo": 478327053392,
+    "dob": "2000-05-04T11:00:00.000Z",
+    "name": "SIVAPRIYA MOORTHI",
+    "gender": "Female",
+    "mobileNumber": "8056358950",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2020-12-04T11:00:00.000Z",
+        "category": "Staff1",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "36294603835",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Velliankadu",
+        "accountNumber": "36294603835",
+        "ifsc": "SBIN0014254"
+      }
+    ],
+    "uan": 101636321981,
+    "esiNo": 5608572332,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 4011,
+    "type": "ActiveEmployee",
+    "aadharNo": 642440449164,
+    "dob": "1998-09-07T11:00:00.000Z",
+    "name": "DEEPAGAN RAJENDRAN",
+    "gender": "Male",
+    "mobileNumber": "9994241228",
+    "currentAddress": "3/187,Onni Palayam,Billichi,Coimbatore,Tamilnadu,641019",
+    "permanentAddress": "3/187,Onni Palayam,Billichi,Coimbatore,Tamilnadu,641019",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-02-25T11:00:00.000Z",
+        "category": "Staff1",
+        "basicPerDay": 312,
+        "hraPerDay": 207.23
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "38283924722",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Pappanaickenpalayamcoimbatore",
+        "accountNumber": "38283924722",
+        "ifsc": "SBIN0070319"
+      }
+    ],
+    "uan": 100924371460,
+    "esiNo": 5608691849,
+    "dol": null
+  },
+  {
+    "ticketNo": 4012,
+    "type": "ActiveEmployee",
+    "aadharNo": 362098662231,
+    "dob": "1976-04-01T12:00:00.000Z",
+    "name": "MARAGATHAVALLI.K",
+    "gender": "Female",
+    "mobileNumber": "9788687995",
+    "currentAddress": "3/7 Sawadi Street,Pudupalayam,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "3/7 Sawadi Street,Pudupalayam,N S N Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2021-04-07T11:00:00.000Z",
+        "category": "STAFF1",
+        "basicPerDay": 369,
+        "hraPerDay": 246
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20002487796",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20002487796",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 100181539667,
+    "esiNo": 5600540656,
+    "dol": null
+  },
+  {
+    "ticketNo": 5001,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SOMARAJ.S",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 827,
+        "hraPerDay": 0
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "10122256382",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": null,
+    "dol": null
+  },
+  {
+    "ticketNo": 5002,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "R.VELLINGIRI",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 827,
+        "hraPerDay": 0
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20002488428",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": null,
+    "dol": null
+  },
+  {
+    "ticketNo": 5003,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "L.RAJENDRAN",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 827,
+        "hraPerDay": 0
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20257830972",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": null,
+    "dol": null
+  },
+  {
+    "ticketNo": 5004,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "S.RUKKUMANI",
+    "gender": "Female",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 827,
+        "hraPerDay": 0
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006650",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": null,
+    "dol": null
+  },
+  {
+    "ticketNo": 6001,
+    "type": "ActiveEmployee",
+    "aadharNo": 747633624628,
+    "dob": "1971-07-03T12:00:00.000Z",
+    "name": "S PREMA",
+    "gender": "Female",
+    "mobileNumber": "8428686213",
+    "currentAddress": "50/68,Ammanagar,Palamalai Road,P R N Palayam Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "50/68,Ammanagar,Palamalai Road,P R N Palayam Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2009-09-07T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "30157884929",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903676513190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100324465884,
+    "esiNo": 5600188976,
+    "dol": null
+  },
+  {
+    "ticketNo": 6002,
+    "type": "ActiveEmployee",
+    "aadharNo": 221483318489,
+    "dob": "1972-08-11T12:00:00.000Z",
+    "name": "V POONGODI",
+    "gender": "Female",
+    "mobileNumber": "9585236458",
+    "currentAddress": "339 /231 A Thekupalayam Po,Gandhi Nagar,Coimbatore,Tamilnadu",
+    "permanentAddress": "339 /231 A Thekupalayam Po,Gandhi Nagar,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2010-04-16T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39550228725",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903676087190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100398662006,
+    "esiNo": 5600189669,
+    "dol": null
+  },
+  {
+    "ticketNo": 6003,
+    "type": "ActiveEmployee",
+    "aadharNo": 490011406314,
+    "dob": "1969-01-20T12:00:00.000Z",
+    "name": "THULASIMANI",
+    "gender": "Female",
+    "mobileNumber": "9677738798",
+    "currentAddress": "7/16, Vishnu Nagar,Nayakkanoor,No.4, Veerapandi,Coimbatore,Tamilnadu,641019",
+    "permanentAddress": "7/16, Vishnu Nagar,Nayakkanoor,No.4, Veerapandi,Coimbatore,Tamilnadu,641019",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2014-03-01T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006571",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Indian Bank",
+        "bankCode": "IDIB",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "883561415",
+        "ifsc": "IDIB000P154"
+      }
+    ],
+    "uan": 100030130195,
+    "esiNo": 5604821613,
+    "dol": null
+  },
+  {
+    "ticketNo": 6004,
+    "type": "ActiveEmployee",
+    "aadharNo": 640395496808,
+    "dob": "1969-07-01T12:00:00.000Z",
+    "name": "SAKUNTHALA",
+    "gender": "Female",
+    "mobileNumber": "9788176861",
+    "currentAddress": "10/70, Ramakrishna Layout,Ward No.7, Periyanaickenpalayam,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "10/70, Ramakrishna Layout,Ward No.7, Periyanaickenpalayam,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2015-01-01T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "39487470155",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903675610190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100506258669,
+    "esiNo": 5605599770,
+    "dol": null
+  },
+  {
+    "ticketNo": 6005,
+    "type": "ActiveEmployee",
+    "aadharNo": 318577960256,
+    "dob": "1979-08-04T12:00:00.000Z",
+    "name": "RAMATHAL",
+    "gender": "Female",
+    "mobileNumber": "7639603715",
+    "currentAddress": "13, Union Road North Street,Narasimhanaickenpalayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "13, Union Road North Street,Narasimhanaickenpalayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2015-01-02T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "35725493265",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "35725493265",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 100506119394,
+    "esiNo": 5605599885,
+    "dol": null
+  },
+  {
+    "ticketNo": 6006,
+    "type": "ActiveEmployee",
+    "aadharNo": 633024139503,
+    "dob": "1976-11-06T12:00:00.000Z",
+    "name": "JOTHIMANI MASTHANNAN",
+    "gender": "Female",
+    "mobileNumber": "9659042652",
+    "currentAddress": "41, Ravuthakolanur,Mariamman Kovil Street,Narasimhanaicken Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "41, Ravuthakolanur,Mariamman Kovil Street,Narasimhanaicken Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-06-01T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "31143757058",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "31143757058",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 100645970702,
+    "esiNo": 5605971909,
+    "dol": null
+  },
+  {
+    "ticketNo": 6007,
+    "type": "ActiveEmployee",
+    "aadharNo": 839996626084,
+    "dob": "1975-06-28T12:00:00.000Z",
+    "name": "CHANDRAKALA CHINNASAMY",
+    "gender": "Female",
+    "mobileNumber": "9965849460",
+    "currentAddress": "66, Om Sakthi Nagar,,Nsn Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "66, Om Sakthi Nagar,,Nsn Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-08-16T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466007188",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903786023190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 101493638550,
+    "esiNo": 5604821569,
+    "dol": null
+  },
+  {
+    "ticketNo": 6008,
+    "type": "ActiveEmployee",
+    "aadharNo": 554063306976,
+    "dob": "1968-07-14T12:00:00.000Z",
+    "name": "R RAJESWARI",
+    "gender": "Female",
+    "mobileNumber": "8300263685",
+    "currentAddress": "65/75 A6, Bhagathsing Nagar,,Palamalai Road,,Periyanaickenpalayam,Coimbatore,Tamilnadu,641020",
+    "permanentAddress": "65/75 A6, Bhagathsing Nagar,,Palamalai Road,,Periyanaickenpalayam,Coimbatore,Tamilnadu,641020",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-12-05T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466008692",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903677435190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 100288557170,
+    "esiNo": 5604307113,
+    "dol": null
+  },
+  {
+    "ticketNo": 6009,
+    "type": "ActiveEmployee",
+    "aadharNo": 244213504384,
+    "dob": "1966-05-04T12:00:00.000Z",
+    "name": "RAJALAKSHMI NAGARAJ",
+    "gender": "Female",
+    "mobileNumber": "9688233606",
+    "currentAddress": "10/25 Union Road,2 Nd Street,N S N Palayam,Coimbatore,Tamilnadu",
+    "permanentAddress": "10/25 Union Road,2 Nd Street,N S N Palayam,Coimbatore,Tamilnadu",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2019-12-06T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466008193",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Bank of Baroda",
+        "bankCode": "BARB",
+        "branch": "Race Course Road",
+        "accountNumber": "05470100028325",
+        "ifsc": "BARB0RACECO"
+      }
+    ],
+    "uan": 100740329745,
+    "esiNo": 5606119710,
+    "dol": null
+  },
+  {
+    "ticketNo": 6010,
+    "type": "ActiveEmployee",
+    "aadharNo": 327762252203,
+    "dob": "1978-05-20T12:00:00.000Z",
+    "name": "RENUKA DEVI RAJAPANDI",
+    "gender": "Female",
+    "mobileNumber": null,
+    "currentAddress": "8/90A,Nethaji Nagar,Samanaickenpalayam,,No.4 Veerapandi Post,,Coimbatore,Tamilnadu,641019",
+    "permanentAddress": "8/90A,Nethaji Nagar,Samanaickenpalayam,,No.4 Veerapandi Post,,Coimbatore,Tamilnadu,641019",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2018-09-01T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466006923",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Catholic Syrian Bank",
+        "bankCode": "CSBK",
+        "branch": "Rajastreet",
+        "accountNumber": "001903809867190801",
+        "ifsc": "CSBK0000019"
+      }
+    ],
+    "uan": 101357438096,
+    "esiNo": 5604829397,
+    "dol": null
+  },
+  {
+    "ticketNo": 6012,
+    "type": "ActiveEmployee",
+    "aadharNo": 976437159376,
+    "dob": "1980-05-09T12:00:00.000Z",
+    "name": "RENUKADEVI",
+    "gender": "Female",
+    "mobileNumber": "9944491579",
+    "currentAddress": "11-4 Mariyammankoil Street,Nsm Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "11-4 Mariyammankoil Street,Nsm Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-07-12T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466009775",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "Indian Bank",
+        "bankCode": "IDIB",
+        "branch": "Pallavan Grama Bank",
+        "accountNumber": "10037591972",
+        "ifsc": "IDIB0PLB001"
+      }
+    ],
+    "uan": 101593001159,
+    "esiNo": 5608418653,
+    "dol": null
+  },
+  {
+    "ticketNo": 6013,
+    "type": "InctiveEmployee",
+    "aadharNo": 242386228770,
+    "dob": "1970-06-05T12:00:00.000Z",
+    "name": "NEELAVADHI V",
+    "gender": "Female",
+    "mobileNumber": "8015569326",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": "2021-03-31T11:00:00.000Z",
+        "doj": "2020-07-20T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "33908093413",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "33908093413",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101593001171,
+    "esiNo": 5608418655,
+    "dol": "2021-03-31T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 6014,
+    "type": "InctiveEmployee",
+    "aadharNo": 313847524142,
+    "dob": "1973-12-27T12:00:00.000Z",
+    "name": "KALAIVANI",
+    "gender": "Female",
+    "mobileNumber": "8124530896",
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cash",
+    "salary": [
+      {
+        "dol": "2020-11-30T11:00:00.000Z",
+        "doj": "2020-08-13T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "pf",
+        "bankName": "Indian Bank",
+        "bankCode": "IDIB",
+        "branch": "Perianaicken Palayam",
+        "accountNumber": "0840301625",
+        "ifsc": "IDIB000P154"
+      }
+    ],
+    "uan": 101599757130,
+    "esiNo": 5608446680,
+    "dol": "2020-11-30T11:00:00.000Z"
+  },
+  {
+    "ticketNo": 6016,
+    "type": "ActiveEmployee",
+    "aadharNo": 434898094393,
+    "dob": "1980-01-17T12:00:00.000Z",
+    "name": "LAKHSMI",
+    "gender": "Female",
+    "mobileNumber": "7558108723",
+    "currentAddress": "44/57 Murugan Nagar,Poochiyur Nsm Palayam,Coimbatore,Tamilnadu,641031",
+    "permanentAddress": "44/57 Murugan Nagar,Poochiyur Nsm Palayam,Coimbatore,Tamilnadu,641031",
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": "2020-08-05T11:00:00.000Z",
+        "category": "Reeling",
+        "basicPerDay": 231,
+        "hraPerDay": 154
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "38281740215",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "38281740215",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": 101598462487,
+    "esiNo": 5608438476,
+    "dol": null
+  },
+  {
+    "ticketNo": 7001,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SEKARGANESH KRISHNASAMY",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Weg",
+        "basicPerDay": 539,
+        "hraPerDay": 0
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466009720",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": null,
+    "dol": null
+  },
+  {
+    "ticketNo": 7002,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "JAYAKUMAR MYILSAMY",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Weg",
+        "basicPerDay": 177,
+        "hraPerDay": 0
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466009742",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": null,
+    "dol": null
+  },
+  {
+    "ticketNo": 7003,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "RAJAMANIKAM",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Weg",
+        "basicPerDay": 154,
+        "hraPerDay": 0
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466009753",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": null,
+    "dol": null
+  },
+  {
+    "ticketNo": 7004,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "ARULKUMAR ARUSAMY",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Weg",
+        "basicPerDay": 177,
+        "hraPerDay": 0
+      }
+    ],
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "State Bank of India",
+        "bankCode": "SBIN",
+        "branch": "Narasimhanaichen Palayam",
+        "accountNumber": "20466009731",
+        "ifsc": "SBIN0008155"
+      }
+    ],
+    "uan": null,
+    "esiNo": null,
+    "dol": null
+  }
+]

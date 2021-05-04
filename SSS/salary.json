@@ -1,0 +1,2216 @@
+[
+  {
+    "uan": 100012320842,
+    "esiNo": 5608245702,
+    "dol": "2020-07-31T11:00:00.000Z",
+    "doj": "2020-01-05T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 219,
+    "hraPerDay": 146
+  },
+  {
+    "uan": 100071007136,
+    "esiNo": 5600731344,
+    "dol": null,
+    "doj": "2011-02-21T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 100083368162,
+    "esiNo": 5600161162,
+    "dol": "2020-12-31T11:00:00.000Z",
+    "doj": "2020-05-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 100134884539,
+    "esiNo": 5608383170,
+    "dol": null,
+    "doj": "2020-06-02T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 100144648989,
+    "esiNo": 5602672171,
+    "dol": null,
+    "doj": "2003-03-21T11:00:00.000Z",
+    "category": "Staff2",
+    "basicPerDay": 404,
+    "hraPerDay": 269
+  },
+  {
+    "uan": 100148271793,
+    "esiNo": 5600170151,
+    "dol": null,
+    "doj": "1994-10-01T11:00:00.000Z",
+    "category": "Permanent",
+    "basicPerDay": 477,
+    "hraPerDay": 10
+  },
+  {
+    "uan": 100183547745,
+    "esiNo": null,
+    "dol": null,
+    "doj": "2003-03-21T11:00:00.000Z",
+    "category": "Staff2",
+    "basicPerDay": 554,
+    "hraPerDay": 369
+  },
+  {
+    "uan": 100184022379,
+    "esiNo": 5602670594,
+    "dol": null,
+    "doj": "1994-10-01T11:00:00.000Z",
+    "category": "Staff2",
+    "basicPerDay": 415,
+    "hraPerDay": 277.38
+  },
+  {
+    "uan": 100184148901,
+    "esiNo": 5600170156,
+    "dol": null,
+    "doj": "1994-10-01T11:00:00.000Z",
+    "category": "Permanent",
+    "basicPerDay": 477,
+    "hraPerDay": 10
+  },
+  {
+    "uan": 100209732063,
+    "esiNo": null,
+    "dol": null,
+    "doj": "2010-11-08T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 831,
+    "hraPerDay": 554
+  },
+  {
+    "uan": 100210350080,
+    "esiNo": 5604401623,
+    "dol": null,
+    "doj": "2012-01-02T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 415,
+    "hraPerDay": 278
+  },
+  {
+    "uan": 100211078548,
+    "esiNo": null,
+    "dol": null,
+    "doj": "2005-01-01T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 1150,
+    "hraPerDay": 620
+  },
+  {
+    "uan": 100246451744,
+    "esiNo": 5600170143,
+    "dol": null,
+    "doj": "1994-10-01T11:00:00.000Z",
+    "category": "Permanent",
+    "basicPerDay": 477,
+    "hraPerDay": 10
+  },
+  {
+    "uan": 100282996241,
+    "esiNo": 5608245123,
+    "dol": null,
+    "doj": "2020-01-13T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 100288023001,
+    "esiNo": 5600731342,
+    "dol": null,
+    "doj": "2011-02-19T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 100288621878,
+    "esiNo": 5600170417,
+    "dol": null,
+    "doj": "1995-08-01T11:00:00.000Z",
+    "category": "Permanent",
+    "basicPerDay": 477,
+    "hraPerDay": 10
+  },
+  {
+    "uan": 100306156448,
+    "esiNo": 5608518183,
+    "dol": null,
+    "doj": "2020-10-18T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 370,
+    "hraPerDay": 246
+  },
+  {
+    "uan": 100323592351,
+    "esiNo": 5600170653,
+    "dol": null,
+    "doj": "2003-03-21T11:00:00.000Z",
+    "category": "Permanent",
+    "basicPerDay": 477,
+    "hraPerDay": 10
+  },
+  {
+    "uan": 100324551694,
+    "esiNo": 5602670599,
+    "dol": null,
+    "doj": "2020-10-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 100399621133,
+    "esiNo": 5600167295,
+    "dol": null,
+    "doj": "2019-12-23T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 100421378572,
+    "esiNo": 5608113653,
+    "dol": null,
+    "doj": "2019-10-18T11:00:00.000Z",
+    "category": "Staff2",
+    "basicPerDay": 300,
+    "hraPerDay": 200
+  },
+  {
+    "uan": 100432817876,
+    "esiNo": 5608256387,
+    "dol": null,
+    "doj": "2020-01-15T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 100433070797,
+    "esiNo": 5608367057,
+    "dol": "2021-01-31T11:00:00.000Z",
+    "doj": "2020-05-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 100433655946,
+    "esiNo": 5608256482,
+    "dol": null,
+    "doj": "2020-01-15T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 100506653339,
+    "esiNo": 5605653226,
+    "dol": null,
+    "doj": "2015-03-01T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 450,
+    "hraPerDay": 300
+  },
+  {
+    "uan": 100556811865,
+    "esiNo": null,
+    "dol": null,
+    "doj": "2015-06-01T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 535,
+    "hraPerDay": 358
+  },
+  {
+    "uan": 100594273650,
+    "esiNo": 5607755050,
+    "dol": null,
+    "doj": "2019-03-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 100595074185,
+    "esiNo": 5608348728,
+    "dol": null,
+    "doj": "2020-03-12T11:00:00.000Z",
+    "category": "Security",
+    "basicPerDay": 258,
+    "hraPerDay": 172
+  },
+  {
+    "uan": 100643993560,
+    "esiNo": 5607964041,
+    "dol": null,
+    "doj": "2019-07-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 100653079016,
+    "esiNo": 5607542396,
+    "dol": null,
+    "doj": "2018-10-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 100698501283,
+    "esiNo": 5608142115,
+    "dol": "2020-07-31T11:00:00.000Z",
+    "doj": "2019-11-07T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 219,
+    "hraPerDay": 146
+  },
+  {
+    "uan": 100786372656,
+    "esiNo": 5608728281,
+    "dol": null,
+    "doj": "2021-03-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 100787992929,
+    "esiNo": 5608270434,
+    "dol": null,
+    "doj": "2020-01-25T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 100961743576,
+    "esiNo": 5608143796,
+    "dol": "2020-08-31T11:00:00.000Z",
+    "doj": "2019-11-09T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 189,
+    "hraPerDay": 126
+  },
+  {
+    "uan": 101022686488,
+    "esiNo": 5608591354,
+    "dol": null,
+    "doj": "2020-12-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101028172049,
+    "esiNo": 5606577778,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2017-02-16T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101069172866,
+    "esiNo": 5608315281,
+    "dol": "2020-09-30T11:00:00.000Z",
+    "doj": "2020-02-20T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101069402763,
+    "esiNo": 5607146662,
+    "dol": null,
+    "doj": "2018-01-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101070211313,
+    "esiNo": 5606687812,
+    "dol": "2021-01-31T11:00:00.000Z",
+    "doj": "2017-03-01T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 294,
+    "hraPerDay": 195
+  },
+  {
+    "uan": 101081277076,
+    "esiNo": null,
+    "dol": null,
+    "doj": "2017-04-01T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 578,
+    "hraPerDay": 384
+  },
+  {
+    "uan": 101105101575,
+    "esiNo": 5607542387,
+    "dol": null,
+    "doj": "2019-12-02T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101105101715,
+    "esiNo": 5606793892,
+    "dol": null,
+    "doj": "2017-05-02T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101118934062,
+    "esiNo": 5608365855,
+    "dol": null,
+    "doj": "2020-05-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101121263851,
+    "esiNo": 5607578621,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101134030105,
+    "esiNo": 5607575331,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101134082971,
+    "esiNo": null,
+    "dol": null,
+    "doj": "2017-06-01T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 497,
+    "hraPerDay": 330
+  },
+  {
+    "uan": 101135629482,
+    "esiNo": 5608591456,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2020-12-13T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101142482798,
+    "esiNo": 5608316220,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2020-02-20T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101157589045,
+    "esiNo": 5607185892,
+    "dol": null,
+    "doj": "2018-02-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101172765576,
+    "esiNo": 5608381788,
+    "dol": "2020-07-31T11:00:00.000Z",
+    "doj": "2020-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 189,
+    "hraPerDay": 126
+  },
+  {
+    "uan": 101172913723,
+    "esiNo": 5607364066,
+    "dol": null,
+    "doj": "2018-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101172913734,
+    "esiNo": 5607360153,
+    "dol": null,
+    "doj": "2018-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101174572841,
+    "esiNo": 5608416645,
+    "dol": null,
+    "doj": "2020-07-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101174577104,
+    "esiNo": 5608348850,
+    "dol": null,
+    "doj": "2020-03-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101177448468,
+    "esiNo": 5607265409,
+    "dol": "2020-06-30T11:00:00.000Z",
+    "doj": "2018-10-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101178054246,
+    "esiNo": 5606993017,
+    "dol": null,
+    "doj": "2017-09-01T11:00:00.000Z",
+    "category": "Staff2",
+    "basicPerDay": 270,
+    "hraPerDay": 180
+  },
+  {
+    "uan": 101178280203,
+    "esiNo": 5606993109,
+    "dol": "2020-10-31T11:00:00.000Z",
+    "doj": "2017-09-01T11:00:00.000Z",
+    "category": "Staff2",
+    "basicPerDay": 162,
+    "hraPerDay": 108
+  },
+  {
+    "uan": 101187423556,
+    "esiNo": 5608448101,
+    "dol": "2020-12-31T11:00:00.000Z",
+    "doj": "2020-08-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101194803980,
+    "esiNo": 5607542489,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2019-10-24T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101201502401,
+    "esiNo": 5608187532,
+    "dol": "2020-11-30T11:00:00.000Z",
+    "doj": "2019-12-02T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101205323207,
+    "esiNo": 5608690530,
+    "dol": null,
+    "doj": "2021-02-18T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101207509186,
+    "esiNo": 5607075934,
+    "dol": null,
+    "doj": "2017-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 216,
+    "hraPerDay": 144
+  },
+  {
+    "uan": 101207509795,
+    "esiNo": 5607075896,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 390,
+    "hraPerDay": 260
+  },
+  {
+    "uan": 101214999267,
+    "esiNo": 5608318242,
+    "dol": null,
+    "doj": "2020-02-27T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101216369017,
+    "esiNo": 5608670527,
+    "dol": null,
+    "doj": "2021-02-07T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101217164988,
+    "esiNo": 5607316025,
+    "dol": "2020-06-30T11:00:00.000Z",
+    "doj": "2019-11-22T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101221163581,
+    "esiNo": 5608394601,
+    "dol": null,
+    "doj": "2020-06-13T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101222901719,
+    "esiNo": null,
+    "dol": null,
+    "doj": "2017-12-01T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 1154,
+    "hraPerDay": 769
+  },
+  {
+    "uan": 101222901726,
+    "esiNo": null,
+    "dol": null,
+    "doj": "2017-12-01T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 543,
+    "hraPerDay": 361
+  },
+  {
+    "uan": 101223242651,
+    "esiNo": 5608548243,
+    "dol": null,
+    "doj": "2020-11-18T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101238839952,
+    "esiNo": 5607145263,
+    "dol": null,
+    "doj": "2020-05-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101238839968,
+    "esiNo": 5607145284,
+    "dol": null,
+    "doj": "2020-07-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101238840000,
+    "esiNo": 5607146696,
+    "dol": null,
+    "doj": "2018-01-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101238840016,
+    "esiNo": 5607146719,
+    "dol": null,
+    "doj": "2019-04-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101239096644,
+    "esiNo": 5608009584,
+    "dol": "2021-01-31T11:00:00.000Z",
+    "doj": "2019-08-01T11:00:00.000Z",
+    "category": "Staff2",
+    "basicPerDay": 346.2,
+    "hraPerDay": 230.8
+  },
+  {
+    "uan": 101249480506,
+    "esiNo": 5607798419,
+    "dol": null,
+    "doj": "2019-04-01T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 397,
+    "hraPerDay": 265
+  },
+  {
+    "uan": 101249759849,
+    "esiNo": 5605551288,
+    "dol": "2021-01-31T11:00:00.000Z",
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101252888017,
+    "esiNo": 5607185905,
+    "dol": null,
+    "doj": "2018-02-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101252888072,
+    "esiNo": 5608548217,
+    "dol": null,
+    "doj": "2020-11-18T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101252888310,
+    "esiNo": 5608308994,
+    "dol": "2020-06-30T11:00:00.000Z",
+    "doj": "2020-02-18T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101262137996,
+    "esiNo": 5608259932,
+    "dol": null,
+    "doj": "2020-01-18T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101262141282,
+    "esiNo": 5608483056,
+    "dol": null,
+    "doj": "2020-09-16T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101265466906,
+    "esiNo": 5607231849,
+    "dol": "2020-06-30T11:00:00.000Z",
+    "doj": "2019-07-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101278886079,
+    "esiNo": 5608690456,
+    "dol": null,
+    "doj": "2021-02-17T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101281346565,
+    "esiNo": 5608726954,
+    "dol": null,
+    "doj": "2021-03-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101282688226,
+    "esiNo": 5607278743,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2020-05-16T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101283627939,
+    "esiNo": 5608253342,
+    "dol": null,
+    "doj": "2020-01-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 216,
+    "hraPerDay": 144
+  },
+  {
+    "uan": 101294313126,
+    "esiNo": 5607315717,
+    "dol": null,
+    "doj": "2018-05-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101294461740,
+    "esiNo": 5608690551,
+    "dol": null,
+    "doj": "2021-02-17T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 216,
+    "hraPerDay": 144
+  },
+  {
+    "uan": 101296818043,
+    "esiNo": 5608518276,
+    "dol": null,
+    "doj": "2020-10-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101307813557,
+    "esiNo": 5607360236,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2018-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101307813640,
+    "esiNo": 5607753857,
+    "dol": "2020-06-30T11:00:00.000Z",
+    "doj": "2019-03-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101312967241,
+    "esiNo": 5608381517,
+    "dol": "2020-12-31T11:00:00.000Z",
+    "doj": "2020-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101312985209,
+    "esiNo": 5608518260,
+    "dol": null,
+    "doj": "2020-10-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101313687044,
+    "esiNo": 5608670412,
+    "dol": null,
+    "doj": "2021-02-06T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101324384361,
+    "esiNo": 5608591404,
+    "dol": null,
+    "doj": "2020-12-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101325354362,
+    "esiNo": 5607630891,
+    "dol": "2020-11-30T11:00:00.000Z",
+    "doj": "2018-12-15T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101325354874,
+    "esiNo": 5600184497,
+    "dol": null,
+    "doj": "2018-07-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101328512301,
+    "esiNo": 5608682601,
+    "dol": null,
+    "doj": "2021-02-17T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 216,
+    "hraPerDay": 144
+  },
+  {
+    "uan": 101330636483,
+    "esiNo": 5608113666,
+    "dol": null,
+    "doj": "2019-10-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101338618736,
+    "esiNo": 5608348884,
+    "dol": "2020-11-30T11:00:00.000Z",
+    "doj": "2020-03-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101342018869,
+    "esiNo": 5607471838,
+    "dol": null,
+    "doj": "2018-08-01T11:00:00.000Z",
+    "category": "Security",
+    "basicPerDay": 246,
+    "hraPerDay": 164
+  },
+  {
+    "uan": 101342018876,
+    "esiNo": 5607472279,
+    "dol": null,
+    "doj": "2019-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101342018882,
+    "esiNo": 5600183434,
+    "dol": null,
+    "doj": "2018-08-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 216,
+    "hraPerDay": 144
+  },
+  {
+    "uan": 101342018895,
+    "esiNo": 5607472084,
+    "dol": null,
+    "doj": "2019-07-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101342018905,
+    "esiNo": 5607472124,
+    "dol": null,
+    "doj": "2018-08-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101352279063,
+    "esiNo": 5607515013,
+    "dol": "2020-10-31T11:00:00.000Z",
+    "doj": "2018-09-01T11:00:00.000Z",
+    "category": "Security",
+    "basicPerDay": 258,
+    "hraPerDay": 172
+  },
+  {
+    "uan": 101353238963,
+    "esiNo": 5608245325,
+    "dol": null,
+    "doj": "2020-01-05T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101355258167,
+    "esiNo": 5600183431,
+    "dol": null,
+    "doj": "2018-09-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101355258198,
+    "esiNo": 5608670435,
+    "dol": null,
+    "doj": "2021-02-06T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101355258200,
+    "esiNo": 5607508851,
+    "dol": null,
+    "doj": "2019-03-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101355258216,
+    "esiNo": 5605983539,
+    "dol": null,
+    "doj": "2015-12-16T11:00:00.000Z",
+    "category": "Staff2",
+    "basicPerDay": 265,
+    "hraPerDay": 178
+  },
+  {
+    "uan": 101355258244,
+    "esiNo": 5607514982,
+    "dol": "2021-01-31T11:00:00.000Z",
+    "doj": "2018-09-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101355510711,
+    "esiNo": 5701462837,
+    "dol": null,
+    "doj": "2016-03-16T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101356938838,
+    "esiNo": 5608317738,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2020-02-21T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 198,
+    "hraPerDay": 132
+  },
+  {
+    "uan": 101358044308,
+    "esiNo": 5605591682,
+    "dol": null,
+    "doj": "2021-01-04T11:00:00.000Z",
+    "category": "Security",
+    "basicPerDay": 258,
+    "hraPerDay": 172
+  },
+  {
+    "uan": 101365700414,
+    "esiNo": 5608711971,
+    "dol": null,
+    "doj": "2021-03-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101368088789,
+    "esiNo": 5607542501,
+    "dol": null,
+    "doj": "2018-09-29T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101371157820,
+    "esiNo": 5607548014,
+    "dol": null,
+    "doj": "2018-10-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101380999615,
+    "esiNo": 5607574523,
+    "dol": null,
+    "doj": "2019-04-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101380999636,
+    "esiNo": 5600189618,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101380999643,
+    "esiNo": 5607575231,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101380999658,
+    "esiNo": 5607575080,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101381435759,
+    "esiNo": 5603199384,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101382121231,
+    "esiNo": 5607578667,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101382121249,
+    "esiNo": 5607578599,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101382121254,
+    "esiNo": 5607578581,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101382610761,
+    "esiNo": 5607578846,
+    "dol": "2020-10-31T11:00:00.000Z",
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 189,
+    "hraPerDay": 126
+  },
+  {
+    "uan": 101382610774,
+    "esiNo": 5607578884,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101382610790,
+    "esiNo": 5607578877,
+    "dol": "2020-11-30T11:00:00.000Z",
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101382610828,
+    "esiNo": 5607578832,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101382610837,
+    "esiNo": 5607578757,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101382610863,
+    "esiNo": 5607578711,
+    "dol": null,
+    "doj": "2018-11-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101382665901,
+    "esiNo": 5607631100,
+    "dol": null,
+    "doj": "2018-12-01T11:00:00.000Z",
+    "category": "Staff2",
+    "basicPerDay": 254,
+    "hraPerDay": 169
+  },
+  {
+    "uan": 101385626093,
+    "esiNo": 5607631110,
+    "dol": null,
+    "doj": "2018-12-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101385633713,
+    "esiNo": 5607631054,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2020-02-18T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 198,
+    "hraPerDay": 132
+  },
+  {
+    "uan": 101392504206,
+    "esiNo": 5607542275,
+    "dol": "2020-06-30T11:00:00.000Z",
+    "doj": "2018-12-15T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101393968906,
+    "esiNo": 5608365793,
+    "dol": "2020-09-30T11:00:00.000Z",
+    "doj": "2020-05-18T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101394408714,
+    "esiNo": 5608670653,
+    "dol": null,
+    "doj": "2021-02-07T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101395349149,
+    "esiNo": 5608572569,
+    "dol": null,
+    "doj": "2020-12-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101395349165,
+    "esiNo": 5607631041,
+    "dol": "2020-11-30T11:00:00.000Z",
+    "doj": "2018-12-15T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101407825092,
+    "esiNo": 5607674300,
+    "dol": null,
+    "doj": "2019-01-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 216,
+    "hraPerDay": 144
+  },
+  {
+    "uan": 101407825102,
+    "esiNo": 5607674374,
+    "dol": "2020-11-30T11:00:00.000Z",
+    "doj": "2019-01-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101415612461,
+    "esiNo": 5608187501,
+    "dol": null,
+    "doj": "2019-12-02T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101418376396,
+    "esiNo": 5608113672,
+    "dol": null,
+    "doj": "2019-10-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101419228079,
+    "esiNo": 5608316304,
+    "dol": "2020-08-31T11:00:00.000Z",
+    "doj": "2020-02-20T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101419777976,
+    "esiNo": 5607709153,
+    "dol": null,
+    "doj": "2019-02-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101419777995,
+    "esiNo": 5607708821,
+    "dol": null,
+    "doj": "2019-02-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101419778008,
+    "esiNo": 5607709003,
+    "dol": null,
+    "doj": "2019-02-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101419778012,
+    "esiNo": 5607709176,
+    "dol": null,
+    "doj": "2019-02-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101419778031,
+    "esiNo": 5607709162,
+    "dol": null,
+    "doj": "2020-03-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101419778049,
+    "esiNo": 5607709133,
+    "dol": null,
+    "doj": "2019-02-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101419778054,
+    "esiNo": 5607708783,
+    "dol": null,
+    "doj": "2019-02-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101419778065,
+    "esiNo": 5607708955,
+    "dol": null,
+    "doj": "2019-02-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101419778077,
+    "esiNo": 5607708973,
+    "dol": null,
+    "doj": "2019-02-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101419778096,
+    "esiNo": 5607708748,
+    "dol": null,
+    "doj": "2019-02-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101431257090,
+    "esiNo": 5607754702,
+    "dol": null,
+    "doj": "2019-03-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101431257116,
+    "esiNo": 5607755176,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2021-01-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101432395608,
+    "esiNo": 5608394497,
+    "dol": null,
+    "doj": "2020-06-22T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101443109704,
+    "esiNo": 5607797995,
+    "dol": null,
+    "doj": "2019-04-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101443109715,
+    "esiNo": 5607798710,
+    "dol": "2021-01-31T11:00:00.000Z",
+    "doj": "2019-04-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101455430312,
+    "esiNo": 5607852295,
+    "dol": null,
+    "doj": "2019-05-02T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101459813419,
+    "esiNo": 5608221861,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2019-12-20T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101464166688,
+    "esiNo": 5608627712,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2021-01-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101464330392,
+    "esiNo": 5608572428,
+    "dol": null,
+    "doj": "2020-12-05T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101464929145,
+    "esiNo": 5608712068,
+    "dol": null,
+    "doj": "2021-03-06T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 216,
+    "hraPerDay": 144
+  },
+  {
+    "uan": 101466754248,
+    "esiNo": 5607896712,
+    "dol": "2020-06-30T11:00:00.000Z",
+    "doj": "2019-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101466754253,
+    "esiNo": 5608591441,
+    "dol": null,
+    "doj": "2020-12-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101468352050,
+    "esiNo": 5608711995,
+    "dol": null,
+    "doj": "2021-03-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101475208250,
+    "esiNo": 5608255646,
+    "dol": null,
+    "doj": "2020-03-12T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 253.84,
+    "hraPerDay": 169.23
+  },
+  {
+    "uan": 101477642205,
+    "esiNo": 5608318120,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2020-02-21T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101481293437,
+    "esiNo": 5608452043,
+    "dol": "2020-10-31T11:00:00.000Z",
+    "doj": "2020-08-21T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 369.22,
+    "hraPerDay": 246.15
+  },
+  {
+    "uan": 101482856231,
+    "esiNo": 5607964060,
+    "dol": null,
+    "doj": "2019-07-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101488222149,
+    "esiNo": 5608548277,
+    "dol": null,
+    "doj": "2020-11-18T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101498572049,
+    "esiNo": 5608711931,
+    "dol": null,
+    "doj": "2021-03-02T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101520455775,
+    "esiNo": 5608591426,
+    "dol": null,
+    "doj": "2020-12-12T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 370,
+    "hraPerDay": 246
+  },
+  {
+    "uan": 101525951945,
+    "esiNo": 5608164654,
+    "dol": "2021-01-31T11:00:00.000Z",
+    "doj": "2019-11-19T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101525951984,
+    "esiNo": 5608135511,
+    "dol": "2020-06-30T11:00:00.000Z",
+    "doj": "2019-11-07T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101525951997,
+    "esiNo": 5608140162,
+    "dol": null,
+    "doj": null,
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101545860425,
+    "esiNo": 5608221684,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2019-12-20T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101545860441,
+    "esiNo": 5608209331,
+    "dol": "2020-07-31T11:00:00.000Z",
+    "doj": "2019-12-11T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 189,
+    "hraPerDay": 126
+  },
+  {
+    "uan": 101545860456,
+    "esiNo": 5608187603,
+    "dol": "2020-07-31T11:00:00.000Z",
+    "doj": "2019-12-02T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 189,
+    "hraPerDay": 126
+  },
+  {
+    "uan": 101545860473,
+    "esiNo": 5608188269,
+    "dol": null,
+    "doj": "2019-12-05T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101550860371,
+    "esiNo": 5608381810,
+    "dol": "2020-12-31T11:00:00.000Z",
+    "doj": "2020-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101556613197,
+    "esiNo": 5608259838,
+    "dol": null,
+    "doj": "2020-01-18T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101556613215,
+    "esiNo": 5608253322,
+    "dol": "2020-08-31T11:00:00.000Z",
+    "doj": "2020-01-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101556613236,
+    "esiNo": 5608260056,
+    "dol": "2020-09-30T11:00:00.000Z",
+    "doj": "2020-01-18T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101563039087,
+    "esiNo": 5608726987,
+    "dol": null,
+    "doj": "2021-03-16T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101566783787,
+    "esiNo": 5608308379,
+    "dol": null,
+    "doj": "2020-02-17T11:00:00.000Z",
+    "category": "Security",
+    "basicPerDay": 258,
+    "hraPerDay": 172
+  },
+  {
+    "uan": 101566783794,
+    "esiNo": 5608308460,
+    "dol": "2020-11-30T11:00:00.000Z",
+    "doj": "2020-02-17T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101566783827,
+    "esiNo": 5608316256,
+    "dol": null,
+    "doj": "2020-02-20T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101566783836,
+    "esiNo": 5608317865,
+    "dol": "2020-06-30T11:00:00.000Z",
+    "doj": "2020-02-21T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101566794900,
+    "esiNo": 5608318428,
+    "dol": "2020-09-30T11:00:00.000Z",
+    "doj": "2020-02-21T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101574263894,
+    "esiNo": 5608348760,
+    "dol": "2021-01-31T11:00:00.000Z",
+    "doj": "2020-03-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101581424293,
+    "esiNo": 5608367069,
+    "dol": "2020-06-30T11:00:00.000Z",
+    "doj": "2020-05-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 189,
+    "hraPerDay": 126
+  },
+  {
+    "uan": 101581425304,
+    "esiNo": 5608365822,
+    "dol": "2020-08-31T11:00:00.000Z",
+    "doj": "2020-05-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101581425315,
+    "esiNo": 5608367010,
+    "dol": null,
+    "doj": "2020-05-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101581425327,
+    "esiNo": 5608367149,
+    "dol": null,
+    "doj": "2020-05-19T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101581425336,
+    "esiNo": 5608365802,
+    "dol": null,
+    "doj": "2020-05-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101584953625,
+    "esiNo": 5608394685,
+    "dol": "2020-07-31T11:00:00.000Z",
+    "doj": "2020-06-13T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 198,
+    "hraPerDay": 132
+  },
+  {
+    "uan": 101586226391,
+    "esiNo": 5608381465,
+    "dol": "2020-07-31T11:00:00.000Z",
+    "doj": "2020-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 189,
+    "hraPerDay": 126
+  },
+  {
+    "uan": 101586226406,
+    "esiNo": 5608381435,
+    "dol": null,
+    "doj": "2020-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101586226410,
+    "esiNo": 5608397257,
+    "dol": "2020-09-30T11:00:00.000Z",
+    "doj": "2020-06-15T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  },
+  {
+    "uan": 101586226423,
+    "esiNo": 5608381698,
+    "dol": null,
+    "doj": "2020-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101586226434,
+    "esiNo": 5608381797,
+    "dol": null,
+    "doj": "2020-06-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101586226447,
+    "esiNo": 5608383155,
+    "dol": "2020-12-31T11:00:00.000Z",
+    "doj": "2020-06-02T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101591644855,
+    "esiNo": 5608416625,
+    "dol": "2020-12-31T11:00:00.000Z",
+    "doj": "2020-07-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101599744797,
+    "esiNo": 5608446568,
+    "dol": "2020-10-31T11:00:00.000Z",
+    "doj": "2020-08-13T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101599980236,
+    "esiNo": 5608448085,
+    "dol": "2020-12-31T11:00:00.000Z",
+    "doj": "2020-08-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101611278830,
+    "esiNo": 5608483149,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2020-09-22T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101622632920,
+    "esiNo": 5608518299,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2020-10-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101622632954,
+    "esiNo": 5608518154,
+    "dol": null,
+    "doj": "2020-10-18T11:00:00.000Z",
+    "category": "Staff2",
+    "basicPerDay": 370,
+    "hraPerDay": 246
+  },
+  {
+    "uan": 101630839873,
+    "esiNo": 5608543832,
+    "dol": null,
+    "doj": "2020-11-13T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101630839887,
+    "esiNo": 5608543789,
+    "dol": null,
+    "doj": "2020-11-13T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101631980871,
+    "esiNo": 5608549141,
+    "dol": "2021-01-31T11:00:00.000Z",
+    "doj": "2020-11-18T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101636405669,
+    "esiNo": 5608572402,
+    "dol": null,
+    "doj": "2020-12-01T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101640112037,
+    "esiNo": 5608591325,
+    "dol": "2021-01-31T11:00:00.000Z",
+    "doj": "2020-12-12T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 231,
+    "hraPerDay": 154
+  },
+  {
+    "uan": 101640112044,
+    "esiNo": 5608591479,
+    "dol": "2021-02-28T11:00:00.000Z",
+    "doj": "2020-12-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101640112059,
+    "esiNo": 5608591376,
+    "dol": null,
+    "doj": "2020-12-12T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101649477308,
+    "esiNo": 5608625730,
+    "dol": null,
+    "doj": "2021-01-04T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101649477312,
+    "esiNo": 5608625637,
+    "dol": null,
+    "doj": "2021-01-04T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101649477320,
+    "esiNo": 5608627691,
+    "dol": null,
+    "doj": "2021-01-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101649477331,
+    "esiNo": 5608625705,
+    "dol": null,
+    "doj": "2021-01-04T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101649477349,
+    "esiNo": 5608627700,
+    "dol": null,
+    "doj": "2021-01-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 210,
+    "hraPerDay": 140
+  },
+  {
+    "uan": 101649477354,
+    "esiNo": 5608627719,
+    "dol": null,
+    "doj": "2021-01-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101649477365,
+    "esiNo": 5608625663,
+    "dol": null,
+    "doj": "2021-01-04T11:00:00.000Z",
+    "category": "Staff1",
+    "basicPerDay": 231,
+    "hraPerDay": 154
+  },
+  {
+    "uan": 101651753222,
+    "esiNo": 5608737614,
+    "dol": null,
+    "doj": "2021-03-16T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101659398597,
+    "esiNo": 5608670601,
+    "dol": null,
+    "doj": "2021-02-07T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101659398606,
+    "esiNo": 5608670426,
+    "dol": null,
+    "doj": "2021-02-06T11:00:00.000Z",
+    "category": "Security",
+    "basicPerDay": 258,
+    "hraPerDay": 172
+  },
+  {
+    "uan": 101659398623,
+    "esiNo": 5608670574,
+    "dol": null,
+    "doj": "2021-02-07T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101659398668,
+    "esiNo": 5608670553,
+    "dol": null,
+    "doj": "2021-02-07T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101659398681,
+    "esiNo": 5608670536,
+    "dol": null,
+    "doj": "2021-02-07T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101661009308,
+    "esiNo": 5608682515,
+    "dol": null,
+    "doj": "2021-02-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 204,
+    "hraPerDay": 136
+  },
+  {
+    "uan": 101661009312,
+    "esiNo": 5608682609,
+    "dol": null,
+    "doj": "2021-02-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101661009320,
+    "esiNo": 5608682536,
+    "dol": null,
+    "doj": "2021-02-14T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101661826219,
+    "esiNo": 5608737685,
+    "dol": null,
+    "doj": "2021-03-16T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101662555053,
+    "esiNo": 5608690491,
+    "dol": null,
+    "doj": "2021-02-17T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101662555069,
+    "esiNo": 5608690595,
+    "dol": null,
+    "doj": "2021-02-17T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101662555076,
+    "esiNo": 5608690572,
+    "dol": null,
+    "doj": "2021-02-17T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101666948015,
+    "esiNo": 5608712043,
+    "dol": null,
+    "doj": "2021-03-02T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101670303161,
+    "esiNo": 5608726937,
+    "dol": null,
+    "doj": "2021-03-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 186,
+    "hraPerDay": 124
+  },
+  {
+    "uan": 101670362327,
+    "esiNo": 5608727850,
+    "dol": null,
+    "doj": "2021-03-17T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": 101670421437,
+    "esiNo": 5608728329,
+    "dol": null,
+    "doj": "2021-03-10T11:00:00.000Z",
+    "category": "Casual",
+    "basicPerDay": 195,
+    "hraPerDay": 130
+  },
+  {
+    "uan": null,
+    "esiNo": 5602672173,
+    "dol": null,
+    "doj": null,
+    "category": "Casual",
+    "basicPerDay": 0,
+    "hraPerDay": 0
+  },
+  {
+    "uan": null,
+    "esiNo": 5608256563,
+    "dol": null,
+    "doj": null,
+    "category": "Casual",
+    "basicPerDay": 0,
+    "hraPerDay": 0
+  },
+  {
+    "uan": null,
+    "esiNo": 5606993190,
+    "dol": null,
+    "doj": null,
+    "category": "Staff2",
+    "basicPerDay": 180,
+    "hraPerDay": 120
+  }
+]

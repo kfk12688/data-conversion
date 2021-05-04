@@ -1,0 +1,506 @@
+[
+  {
+    "ticketNo": 5001,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "NAGARAJ",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "38557561948",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 827,
+        "hraPerDay": null
+      }
+    ]
+  },
+  {
+    "ticketNo": 5002,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SARAVANAN",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "38548604805",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 827,
+        "hraPerDay": null
+      }
+    ]
+  },
+  {
+    "ticketNo": 5003,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SIVAKUMAR",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "67299367903",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 827,
+        "hraPerDay": null
+      }
+    ]
+  },
+  {
+    "ticketNo": 5004,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "CHATURBHUJA NAYAK",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "20466009265",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ]
+  },
+  {
+    "ticketNo": 5005,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "UMAKANTANAYAK",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "11397363415",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ]
+  },
+  {
+    "ticketNo": 5006,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "MAHURA MAHANTA",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "20466009276",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ]
+  },
+  {
+    "ticketNo": 5007,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "J.NITHYASELVI",
+    "gender": "Female",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "38548429253",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ]
+  },
+  {
+    "ticketNo": 5008,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "ANBUSELVAN",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "20379770037",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ]
+  },
+  {
+    "ticketNo": 5009,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SAROJ BEHERA",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "20466009822",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ]
+  },
+  {
+    "ticketNo": 5010,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "NARASINGHA NAYAK",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cheque",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 962,
+        "hraPerDay": null
+      }
+    ]
+  },
+  {
+    "ticketNo": 5011,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "PRADEP KUMAR NAYAK",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cheque",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 962,
+        "hraPerDay": null
+      }
+    ]
+  },
+  {
+    "ticketNo": 7000,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "MURUGESH CHINNSAMI",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "39780056874",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Weg",
+        "basicPerDay": 212,
+        "hraPerDay": null
+      }
+    ]
+  }
+]

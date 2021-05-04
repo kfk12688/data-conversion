@@ -1,0 +1,2505 @@
+[
+  {
+    "ticketNo": 5001,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "NAGARAJ",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "38557561948",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 827,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": [
+      {
+        "netSalary": 21502,
+        "takeHomePay": 21500,
+        "roundOff": 2,
+        "grossSalary": 21502,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26,
+          "salaryDays": 26,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 11
+      },
+      {
+        "netSalary": 22319,
+        "takeHomePay": 22320,
+        "roundOff": -1,
+        "grossSalary": 22329,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 10,
+          "total": 10
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 12
+      },
+      {
+        "netSalary": 22329,
+        "takeHomePay": 22330,
+        "roundOff": -1,
+        "grossSalary": 22329,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 1
+      },
+      {
+        "netSalary": 19021,
+        "takeHomePay": 19020,
+        "roundOff": 1,
+        "grossSalary": 19021,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 23,
+          "salaryDays": 23,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 2
+      },
+      {
+        "netSalary": 22329,
+        "takeHomePay": 22330,
+        "roundOff": -1,
+        "grossSalary": 22329,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 3
+      }
+    ]
+  },
+  {
+    "ticketNo": 5002,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SARAVANAN",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "38548604805",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 827,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": [
+      {
+        "netSalary": 16954,
+        "takeHomePay": 16950,
+        "roundOff": 4,
+        "grossSalary": 16954,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 20.5,
+          "salaryDays": 20.5,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 11
+      },
+      {
+        "netSalary": 21806,
+        "takeHomePay": 21810,
+        "roundOff": -4,
+        "grossSalary": 21816,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 10,
+          "total": 10
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26.38,
+          "salaryDays": 26.38,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 12
+      },
+      {
+        "netSalary": 19435,
+        "takeHomePay": 19440,
+        "roundOff": -5,
+        "grossSalary": 19435,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 23.5,
+          "salaryDays": 23.5,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 1
+      },
+      {
+        "netSalary": 19021,
+        "takeHomePay": 19020,
+        "roundOff": 1,
+        "grossSalary": 19021,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 23,
+          "salaryDays": 23,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 2
+      },
+      {
+        "netSalary": 21833,
+        "takeHomePay": 21830,
+        "roundOff": 3,
+        "grossSalary": 21833,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26.4,
+          "salaryDays": 26.4,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 3
+      }
+    ]
+  },
+  {
+    "ticketNo": 5003,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SIVAKUMAR",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "67299367903",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 827,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": [
+      {
+        "netSalary": 16540,
+        "takeHomePay": 16540,
+        "roundOff": 0,
+        "grossSalary": 16540,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 20,
+          "salaryDays": 20,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 11
+      },
+      {
+        "netSalary": 18366,
+        "takeHomePay": 18370,
+        "roundOff": -4,
+        "grossSalary": 18376,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 10,
+          "total": 10
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 22.22,
+          "salaryDays": 22.22,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 12
+      },
+      {
+        "netSalary": 17894,
+        "takeHomePay": 17890,
+        "roundOff": 4,
+        "grossSalary": 18029,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 135,
+          "total": 135
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 21.8,
+          "salaryDays": 21.8,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 1
+      },
+      {
+        "netSalary": 19848,
+        "takeHomePay": 19850,
+        "roundOff": -2,
+        "grossSalary": 19848,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 24,
+          "salaryDays": 24,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 2
+      },
+      {
+        "netSalary": 19104,
+        "takeHomePay": 19100,
+        "roundOff": 4,
+        "grossSalary": 19104,
+        "salaryPerDay": 827,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 23.1,
+          "salaryDays": 23.1,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 3
+      }
+    ]
+  },
+  {
+    "ticketNo": 5004,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "CHATURBHUJA NAYAK",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "20466009265",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": [
+      {
+        "netSalary": 8300,
+        "takeHomePay": 8300,
+        "roundOff": 0,
+        "grossSalary": 25000,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 16700,
+          "otherDeduction": 0,
+          "total": 16700
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26,
+          "salaryDays": 26,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 11
+      },
+      {
+        "netSalary": 8626,
+        "takeHomePay": 8630,
+        "roundOff": -4,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 17325,
+          "otherDeduction": 10,
+          "total": 17335
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 12
+      },
+      {
+        "netSalary": 7951,
+        "takeHomePay": 7950,
+        "roundOff": 1,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 17875,
+          "otherDeduction": 135,
+          "total": 18010
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 1
+      },
+      {
+        "netSalary": 2697,
+        "takeHomePay": 2700,
+        "roundOff": -3,
+        "grossSalary": 23077,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 20380,
+          "otherDeduction": 0,
+          "total": 20380
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 24,
+          "salaryDays": 24,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 2
+      },
+      {
+        "netSalary": 9851,
+        "takeHomePay": 9850,
+        "roundOff": 1,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 15860,
+          "otherDeduction": 250,
+          "total": 16110
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 3
+      }
+    ]
+  },
+  {
+    "ticketNo": 5005,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "UMAKANTANAYAK",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "11397363415",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": [
+      {
+        "netSalary": 7300,
+        "takeHomePay": 7300,
+        "roundOff": 0,
+        "grossSalary": 25000,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 17700,
+          "otherDeduction": 0,
+          "total": 17700
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26,
+          "salaryDays": 26,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 11
+      },
+      {
+        "netSalary": 8126,
+        "takeHomePay": 8130,
+        "roundOff": -4,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 17825,
+          "otherDeduction": 10,
+          "total": 17835
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 12
+      },
+      {
+        "netSalary": 5486,
+        "takeHomePay": 5490,
+        "roundOff": -4,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 20475,
+          "otherDeduction": 0,
+          "total": 20475
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 1
+      },
+      {
+        "netSalary": 2397,
+        "takeHomePay": 2400,
+        "roundOff": -3,
+        "grossSalary": 23077,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 20680,
+          "otherDeduction": 0,
+          "total": 20680
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 24,
+          "salaryDays": 24,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 2
+      },
+      {
+        "netSalary": 8851,
+        "takeHomePay": 8850,
+        "roundOff": 1,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 16860,
+          "otherDeduction": 250,
+          "total": 17110
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 3
+      }
+    ]
+  },
+  {
+    "ticketNo": 5006,
+    "type": "InactiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "MAHURA MAHANTA",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "20466009276",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": []
+  },
+  {
+    "ticketNo": 5007,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "J.NITHYASELVI",
+    "gender": "Female",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "38548429253",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": [
+      {
+        "netSalary": 6634,
+        "takeHomePay": 6630,
+        "roundOff": 4,
+        "grossSalary": 20634,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 14000,
+          "otherDeduction": 0,
+          "total": 14000
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 21.46,
+          "salaryDays": 21.46,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 11
+      },
+      {
+        "netSalary": 9951,
+        "takeHomePay": 9950,
+        "roundOff": 1,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 16000,
+          "otherDeduction": 10,
+          "total": 16010
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 12
+      },
+      {
+        "netSalary": 7961,
+        "takeHomePay": 7960,
+        "roundOff": 1,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 18000,
+          "otherDeduction": 0,
+          "total": 18000
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 1
+      },
+      {
+        "netSalary": 8077,
+        "takeHomePay": 8080,
+        "roundOff": -3,
+        "grossSalary": 23077,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 15000,
+          "otherDeduction": 0,
+          "total": 15000
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 24,
+          "salaryDays": 24,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 2
+      },
+      {
+        "netSalary": 6461,
+        "takeHomePay": 6460,
+        "roundOff": 1,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 19500,
+          "otherDeduction": 0,
+          "total": 19500
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 3
+      }
+    ]
+  },
+  {
+    "ticketNo": 5008,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "ANBUSELVAN",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "20379770037",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": [
+      {
+        "netSalary": 9022,
+        "takeHomePay": 9020,
+        "roundOff": 2,
+        "grossSalary": 20192,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 10900,
+          "otherDeduction": 270,
+          "total": 11170
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 21,
+          "salaryDays": 21,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 11
+      },
+      {
+        "netSalary": 10351,
+        "takeHomePay": 10350,
+        "roundOff": 1,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 15600,
+          "otherDeduction": 10,
+          "total": 15610
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 12
+      },
+      {
+        "netSalary": 9561,
+        "takeHomePay": 9560,
+        "roundOff": 1,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 16400,
+          "otherDeduction": 0,
+          "total": 16400
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 1
+      },
+      {
+        "netSalary": 11077,
+        "takeHomePay": 11080,
+        "roundOff": -3,
+        "grossSalary": 23077,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 12000,
+          "otherDeduction": 0,
+          "total": 12000
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 24,
+          "salaryDays": 24,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 2
+      },
+      {
+        "netSalary": 25961,
+        "takeHomePay": 25960,
+        "roundOff": 1,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 3
+      }
+    ]
+  },
+  {
+    "ticketNo": 5009,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "SAROJ BEHERA",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "20466009822",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 961.53,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": [
+      {
+        "netSalary": 17492,
+        "takeHomePay": 17490,
+        "roundOff": 2,
+        "grossSalary": 20192,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 2700,
+          "otherDeduction": 0,
+          "total": 2700
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 21,
+          "salaryDays": 21,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 11
+      },
+      {
+        "netSalary": 23261,
+        "takeHomePay": 23260,
+        "roundOff": 1,
+        "grossSalary": 25596,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 2325,
+          "otherDeduction": 10,
+          "total": 2335
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26.62,
+          "salaryDays": 26.62,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 12
+      },
+      {
+        "netSalary": 23486,
+        "takeHomePay": 23490,
+        "roundOff": -4,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 2475,
+          "otherDeduction": 0,
+          "total": 2475
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 1
+      },
+      {
+        "netSalary": 10397,
+        "takeHomePay": 10400,
+        "roundOff": -3,
+        "grossSalary": 23077,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 12680,
+          "otherDeduction": 0,
+          "total": 12680
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 24,
+          "salaryDays": 24,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 2
+      },
+      {
+        "netSalary": 5101,
+        "takeHomePay": 5100,
+        "roundOff": 1,
+        "grossSalary": 25961,
+        "salaryPerDay": 961.53,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 20860,
+          "otherDeduction": 0,
+          "total": 20860
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 3
+      }
+    ]
+  },
+  {
+    "ticketNo": 5010,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "NARASINGHA NAYAK",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cheque",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 962,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": [
+      {
+        "netSalary": 25012,
+        "takeHomePay": 25010,
+        "roundOff": 2,
+        "grossSalary": 25012,
+        "salaryPerDay": 962,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26,
+          "salaryDays": 26,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 11
+      },
+      {
+        "netSalary": 10339,
+        "takeHomePay": 10340,
+        "roundOff": -1,
+        "grossSalary": 25974,
+        "salaryPerDay": 962,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 15625,
+          "otherDeduction": 10,
+          "total": 15635
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 12
+      },
+      {
+        "netSalary": 17499,
+        "takeHomePay": 17500,
+        "roundOff": -1,
+        "grossSalary": 25974,
+        "salaryPerDay": 962,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 8475,
+          "otherDeduction": 0,
+          "total": 8475
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 1
+      },
+      {
+        "netSalary": 15108,
+        "takeHomePay": 15110,
+        "roundOff": -2,
+        "grossSalary": 23088,
+        "salaryPerDay": 962,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 7980,
+          "otherDeduction": 0,
+          "total": 7980
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 24,
+          "salaryDays": 24,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 2
+      },
+      {
+        "netSalary": 10364,
+        "takeHomePay": 10360,
+        "roundOff": 4,
+        "grossSalary": 25974,
+        "salaryPerDay": 962,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 15360,
+          "otherDeduction": 250,
+          "total": 15610
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 3
+      }
+    ]
+  },
+  {
+    "ticketNo": 5011,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "PRADEP KUMAR NAYAK",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Cheque",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": null,
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": null,
+        "ifsc": null
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Exempted",
+        "basicPerDay": 962,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": [
+      {
+        "netSalary": 16636,
+        "takeHomePay": 16640,
+        "roundOff": -4,
+        "grossSalary": 18316,
+        "salaryPerDay": 962,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 1680,
+          "otherDeduction": 0,
+          "total": 1680
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 19.04,
+          "salaryDays": 19.04,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 2
+      },
+      {
+        "netSalary": 17564,
+        "takeHomePay": 17560,
+        "roundOff": 4,
+        "grossSalary": 25974,
+        "salaryPerDay": 962,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 8160,
+          "otherDeduction": 250,
+          "total": 8410
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 27,
+          "salaryDays": 27,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 3
+      }
+    ]
+  },
+  {
+    "ticketNo": 7000,
+    "type": "ActiveEmployee",
+    "aadharNo": null,
+    "dob": null,
+    "name": "MURUGESH CHINNSAMI",
+    "gender": "Male",
+    "mobileNumber": null,
+    "currentAddress": null,
+    "permanentAddress": null,
+    "salaryPaymentMode": "Account Transfer",
+    "bankAccounts": [
+      {
+        "type": "salary",
+        "bankName": "SBI",
+        "bankCode": "",
+        "branch": "",
+        "accountNumber": "39780056874",
+        "ifsc": "SBIN0008155"
+      },
+      {
+        "type": "pf",
+        "bankName": null,
+        "bankCode": null,
+        "branch": null,
+        "accountNumber": null,
+        "ifsc": null
+      }
+    ],
+    "esiNo": null,
+    "uan": null,
+    "dol": null,
+    "salary": [
+      {
+        "dol": null,
+        "doj": null,
+        "category": "Weg",
+        "basicPerDay": 212,
+        "hraPerDay": null
+      }
+    ],
+    "wageDetails": [
+      {
+        "netSalary": 5512,
+        "takeHomePay": 5510,
+        "roundOff": 2,
+        "grossSalary": 5512,
+        "salaryPerDay": 212,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26,
+          "salaryDays": 26,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 11
+      },
+      {
+        "netSalary": 5512,
+        "takeHomePay": 5510,
+        "roundOff": 2,
+        "grossSalary": 5512,
+        "salaryPerDay": 212,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26,
+          "salaryDays": 26,
+          "incEligibleDays": 0
+        },
+        "year": 2020,
+        "month": 12
+      },
+      {
+        "netSalary": 5512,
+        "takeHomePay": 5510,
+        "roundOff": 2,
+        "grossSalary": 5512,
+        "salaryPerDay": 212,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26,
+          "salaryDays": 26,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 1
+      },
+      {
+        "netSalary": 5512,
+        "takeHomePay": 5510,
+        "roundOff": 2,
+        "grossSalary": 5512,
+        "salaryPerDay": 212,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26,
+          "salaryDays": 26,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 2
+      },
+      {
+        "netSalary": 5512,
+        "takeHomePay": 5510,
+        "roundOff": 2,
+        "grossSalary": 5512,
+        "salaryPerDay": 212,
+        "esiContribution": 0,
+        "epf": {
+          "epfWages": 0,
+          "epsWages": 0,
+          "epsContribution": 0,
+          "edliWages": 0,
+          "ncpDays": 0,
+          "epfAndEpsDiffContribution": 0
+        },
+        "deductions": {
+          "pfContribution": 0,
+          "teaDeduction": 0,
+          "advanceDeduction": 0,
+          "otherDeduction": 0,
+          "total": 0
+        },
+        "incentives": {
+          "attendanceIncentive": 0,
+          "whIncentive": 0,
+          "prodIncentive": 0,
+          "total": 0
+        },
+        "salaryDays": {
+          "whDays": 0,
+          "earnedDays": 0,
+          "workedDays": 26,
+          "salaryDays": 26,
+          "incEligibleDays": 0
+        },
+        "year": 2021,
+        "month": 3
+      }
+    ]
+  }
+]
